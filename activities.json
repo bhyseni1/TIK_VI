@@ -1,0 +1,3563 @@
+[
+  {
+    "id": "1.1",
+    "title": "Çfarë është informatika?",
+    "term": "Informatika",
+    "definition": "Informatika studion si paraqiten, përpunohen dhe ruhen të dhënat dhe si zgjidhen probleme me sisteme kompjuterike.",
+    "body": "Kur kërkon një libër në katalog, kompjuteri merr titullin që shkruan, e krahason me të dhënat e ruajtura dhe paraqet përputhjet. Këtu ka hyrje, përpunim dhe dalje. Një program nuk e kupton detyrën si njeri: ai ndjek udhëzimet e shkruara. Ti duhet ta përcaktosh qartë problemin para se të zgjedhësh programin.",
+    "extra": "Përdorimi i një pajisjeje dhe kuptimi i mënyrës si punon nuk janë e njëjta gjë. Në këtë libër do t'i zhvillosh të dyja.",
+    "steps": [
+      "Hape fletoren dhe shkruaj titullin “Katalogu i klasës”.",
+      "Shëno tre tituj librash që i ke pranë; mos shpik autorë.",
+      "Zgjidh njërin titull dhe kërkoje në listë.",
+      "Shkruaj çfarë ishte hyrja, si e bëre kërkimin dhe çfarë gjete.",
+      "Jepja listën një shoku dhe provo nëse ai arrin te i njëjti libër."
+    ],
+    "product": "Një përshkrim me tri pjesë: hyrja, përpunimi, dalja.",
+    "question": "Çfarë ndodh nëse titulli është shkruar gabim?",
+    "refs": [
+      "k12cs",
+      "info"
+    ]
+  },
+  {
+    "id": "1.2",
+    "title": "Të dhënat dhe informacioni",
+    "term": "Të dhënat dhe informacioni",
+    "definition": "Të dhënat janë vlera ose shenja të regjistruara. Informacioni krijohet kur i interpreton ato brenda një kuptimi të caktuar.",
+    "body": "Numri 12 mund të tregojë orën, numrin e librave ose gjatësinë. Pa emrin dhe njësinë matëse nuk mund të nxjerrësh përfundim të sigurt. “12 libra në raft” është më e qartë. Të dhënat mund të jenë numra, tekst, fotografi ose tinguj. Një gabim në mbledhjen e tyre mund të sjellë një përfundim të gabuar.",
+    "extra": "Një numër nuk tregon vetë kuptimin e tij. Shëno çfarë është matur ose numëruar dhe, kur duhet, njësinë matëse.",
+    "steps": [
+      "Shkruaj në fletore numrin e lapsave që ke në bankë.",
+      "Shto emrin e asaj që numërove dhe datën.",
+      "Shkruaj një shembull tjetër me tekst, si ngjyra e kopertinës së librit.",
+      "Krahasoji me shënimet e një shoku.",
+      "Shpjego cili shënim kuptohet më lehtë dhe pse."
+    ],
+    "product": "Dy shënime të kuptueshme, jo vetëm numra të veçuar.",
+    "question": "A do të thotë gjithmonë “më shumë të dhëna” se përgjigjja është më e saktë?",
+    "refs": [
+      "info",
+      "gaise"
+    ]
+  },
+  {
+    "id": "1.3",
+    "title": "Teknologjia e Informimit dhe Komunikimit",
+    "term": "TIK",
+    "definition": "Teknologjia e Informimit dhe Komunikimit përfshin pajisje, programe dhe rrjete që ndihmojnë në përpunimin dhe shkëmbimin e informacionit.",
+    "body": "Një telefon është pajisje; programi i mesazheve është softuer; lidhja e rrjetit mundëson dërgimin e mesazhit. Këto pjesë punojnë së bashku. Në shkollë mund të përdorësh TIK-un për të shkruar, llogaritur, krijuar ose bashkëpunuar. Fillimisht pyet veten çfarë dëshiron të arrish. Pastaj zgjidh mjetin që i përshtatet detyrës.",
+    "extra": "Jo çdo detyrë kërkon internet. Një dokument mund ta shkruash dhe ta ruash në kompjuter edhe pa lidhje me rrjetin.",
+    "steps": [
+      "Shkruaj detyrën “Të përgatis një njoftim për klasën”.",
+      "Shëno pajisjen që mund të përdorësh.",
+      "Shëno programin ku do ta shkruash.",
+      "Vendos si do t'ia japësh mësimdhënësit: si skedar apo të shtypur.",
+      "Shpjego në cilin hap të nevojitet interneti, nëse të nevojitet."
+    ],
+    "product": "Një plan që lidh detyrën me pajisjen, programin dhe mënyrën e dorëzimit.",
+    "question": "Cilën pjesë të planit mund ta realizosh pa internet?",
+    "refs": [
+      "digcomp3",
+      "k12cs"
+    ]
+  },
+  {
+    "id": "1.4",
+    "title": "Pajisjet digjitale rreth nesh",
+    "term": "Pajisje digjitale",
+    "definition": "Një pajisje digjitale përpunon të dhëna të paraqitura me vlera të dallueshme; sistemet kompjuterike zakonisht përdorin bitët 0 dhe 1.",
+    "body": "Laptopi, tableti dhe kamera digjitale kryejnë detyra të ndryshme. Disa kanë ekran dhe tastierë; të tjera punojnë brenda një pajisjeje më të madhe. Mos e përcakto funksionin vetëm nga pamja. Vëzhgo çfarë merr pajisja si hyrje dhe çfarë prodhon si dalje. Për pajisjet që nuk i njeh, përdor manualin ose pyet mësimdhënësin.",
+    "extra": "Pajisja mund të ketë procesor pa pasur lidhje me internetin. Prania e një ekrani nuk mjafton për të përshkruar gjithë funksionin e saj.",
+    "steps": [
+      "Vëzhgo tre pajisje në klasë pa i çmontuar.",
+      "Shkruaj emrin e secilës.",
+      "Shëno një hyrje dhe një dalje që mund ta dallosh.",
+      "Për një funksion që nuk e di, shkruaj “Duhet ta verifikoj”.",
+      "Kontrolloje atë funksion me mësimdhënësin ose manualin."
+    ],
+    "product": "Një tabelë me tre pajisje, hyrjet dhe daljet e tyre.",
+    "question": "Pse është më mirë të shënosh një pasiguri sesa të hamendësosh?",
+    "refs": [
+      "k12cs",
+      "csta"
+    ]
+  },
+  {
+    "id": "1.5",
+    "title": "Teknologjia në shkollë, familje dhe komunitet",
+    "term": "Përdorim sipas nevojës",
+    "definition": "Një zgjidhje teknologjike është përdorim i një pajisjeje ose programi për të përmbushur një nevojë të përcaktuar.",
+    "body": "Në bibliotekë kërkohet një libër; në shkollë përgatitet një prezantim; në familje organizohen fotografitë. Mjeti i njëjtë mund të përdoret për qëllime të ndryshme. Një zgjidhje e mirë duhet të jetë e përdorshme edhe nga personi që ka nevojë për shkronja më të mëdha ose udhëzime më të qarta. Teknologjia është mjet për të kryer punën, jo qëllim më vete.",
+    "extra": "Një zgjidhje më e ndërlikuar nuk është domosdoshmërisht më e dobishme. Provoje me një detyrë konkrete dhe me përdoruesin për të cilin e përgatite.",
+    "steps": [
+      "Zgjidh një nevojë të vogël të klasës, si renditja e librave.",
+      "Shkruaj kush do ta përdorë zgjidhjen.",
+      "Propozo një mënyrë me letër dhe një me kompjuter.",
+      "Krahaso kohën, lehtësinë dhe pajisjet e nevojshme.",
+      "Zgjidh njërën dhe shpjego arsyen."
+    ],
+    "product": "Një zgjedhje e arsyetuar për një nevojë të klasës.",
+    "question": "Kur mund të jetë zgjidhja me letër më e përshtatshme?",
+    "refs": [
+      "digcomp3",
+      "kosovo6"
+    ]
+  },
+  {
+    "id": "1.6",
+    "title": "Përfitimet dhe kufizimet e teknologjisë",
+    "term": "Përfitim dhe kufizim",
+    "definition": "Përfitimi është ajo që të ndihmon një mjet të realizosh. Kufizimi është diçka që mjeti nuk e bën ose e bën vetëm në kushte të caktuara.",
+    "body": "Kopjimi i një dokumenti është i shpejtë, por mund të krijojë versione të ngatërruara. Një hartë online të ndihmon të orientohesh, por informacioni mund të jetë i vjetër. Vlerësoje mjetin sipas detyrës. Kontrollo burimin dhe ruaj një mënyrë alternative pune kur mungon interneti ose energjia. Një gabim i programit nuk është arsye për të humbur të gjithë punën.",
+    "extra": "Ruajtja e punës dhe kopja rezervë nuk janë e njëjta gjë. Kopja rezervë ruhet veçmas që ta rikthesh punën nëse humbet origjinali.",
+    "steps": [
+      "Zgjidh një program që ke përdorur.",
+      "Shkruaj dy punë që ta lehtëson.",
+      "Shkruaj një kufizim që e ke vërejtur vetë.",
+      "Propozo çfarë do të bësh nëse programi nuk hapet.",
+      "Trego planin para klasës me dy ose tri fjali."
+    ],
+    "product": "Një listë përfitimesh dhe një plan alternativ.",
+    "question": "Çfarë do të ruaje veçmas para një prezantimi të rëndësishëm?",
+    "refs": [
+      "dce",
+      "digcomp3"
+    ]
+  },
+  {
+    "id": "1.7",
+    "title": "Përdorimi i përgjegjshëm i pajisjeve digjitale",
+    "term": "Përdorim i përgjegjshëm",
+    "definition": "Të përdorësh përgjegjshëm teknologjinë do të thotë të respektosh njerëzit, pajisjet, të dhënat dhe rregullat e përbashkëta.",
+    "body": "Përdor vetëm llogarinë tënde ose atë që të jep shkolla. Kërko leje para se të fotografosh një person. Kur përdor një tekst ose fotografi të dikujt tjetër, shëno burimin dhe kontrollo kushtet e përdorimit. Në kompjuterin e përbashkët mos ndrysho punën e shokut pa marrëveshje. Nëse shfaqet diçka që të shqetëson, njofto një të rritur të besuar.",
+    "extra": "Njohja e fjalëkalimit të dikujt nuk të jep leje për të hyrë në llogarinë e tij. Leja duhet të jetë e qartë dhe e lidhur me një detyrë.",
+    "steps": [
+      "Shkruaj katër rregulla për laboratorin e TIK-ut.",
+      "Për secilin shëno kë ose çfarë mbron.",
+      "Krahasoji me rregullat e shkollës.",
+      "Shto një mënyrë të qartë për të kërkuar ndihmë.",
+      "Vendosni së bashku cilat rregulla do të afishoni."
+    ],
+    "product": "Një marrëveshje e shkurtër për përdorimin e laboratorit.",
+    "question": "Si vepron nëse gjen një llogari të hapur në kompjuterin e përbashkët?",
+    "refs": [
+      "dce",
+      "csta"
+    ]
+  },
+  {
+    "id": "1.8",
+    "title": "Ergonomia dhe shëndeti gjatë përdorimit të teknologjisë",
+    "term": "Ergonomia",
+    "definition": "Ergonomia merret me përshtatjen e vendit dhe mjeteve të punës me njeriun që i përdor.",
+    "body": "Vendose ekranin në mënyrë që të mos përkulesh vazhdimisht. Mbaji duart në pozicion të rehatshëm dhe lëri këmbët të mbështeten. Ndriçimi nuk duhet të të pengojë leximin. Ndrysho qëndrimin dhe bëj pushime sipas udhëzimit të mësimdhënësit. Nëse ndjen dhimbje ose shqetësim, ndalo dhe njofto një të rritur. Mos përdor një matje të vetme si rregull për çdo trup dhe pajisje.",
+    "extra": "Rehatia nuk varet vetëm nga karrigia. Ndikojnë edhe lartësia e bankës, madhësia e tekstit, ndriçimi dhe koha pa lëvizur.",
+    "steps": [
+      "Ulu në vendin ku do të punosh.",
+      "Kontrollo nëse lexon pa u përkulur shumë.",
+      "Rrit madhësinë e tekstit nëse duhet, me ndihmën e mësimdhënësit.",
+      "Largo sendet që pengojnë lëvizjen e mausit.",
+      "Pas aktivitetit bëj një pushim të shkurtër dhe shëno çfarë përmirësove."
+    ],
+    "product": "Një vend pune më i përshtatshëm dhe dy ndryshime të shpjeguara.",
+    "question": "Cilin rregullim mund ta bësh pa ndryshuar pajisjen?",
+    "refs": [
+      "dce",
+      "kosovo6"
+    ]
+  },
+  {
+    "id": "1.9",
+    "title": "Profesionet digjitale dhe teknologjike",
+    "term": "Profesion digjital",
+    "definition": "Një profesion digjital përdor aftësi teknologjike për të krijuar, mirëmbajtur ose përdorur sisteme dhe përmbajtje digjitale.",
+    "body": "Programuesi shkruan programe; tekniku diagnostikon probleme pajisjesh; dizajnuesi mendon për paraqitjen dhe përdorimin; analisti shqyrton të dhëna. Detyrat mund të ndërthuren dhe kërkojnë bashkëpunim. Në klasën VI nuk të kërkohet ta zgjedhësh përfundimisht profesionin. Zbulo çfarë të pëlqen dhe mëso të shpjegosh punën tënde me prova.",
+    "extra": "Një profesion nuk përcaktohet nga gjinia. Kur ndan punën në grup, provo role të ndryshme dhe respekto kontributin e secilit.",
+    "steps": [
+      "Zgjidh një nga profesionet e përmendura.",
+      "Shkruaj një problem që ky profesion mund të ndihmojë ta zgjidhë.",
+      "Gjej në një burim zyrtar një përshkrim të rolit, me ndihmë.",
+      "Shëno dy aftësi teknike dhe një aftësi bashkëpunimi.",
+      "Trego cilën aftësi dëshiron ta ushtrosh këtë vit."
+    ],
+    "product": "Një kartë profesioni me burimin e informacionit.",
+    "question": "Pse edhe një programues duhet të komunikojë qartë?",
+    "refs": [
+      "kosovo6",
+      "entrec"
+    ]
+  },
+  {
+    "id": "1.10",
+    "title": "Aktivitet praktik: Teknologjia në jetën time",
+    "term": "Inventari teknologjik",
+    "definition": "Inventari është një listë e organizuar e sendeve ose burimeve që janë vëzhguar në një vend të caktuar.",
+    "body": "Në këtë projekt do të përmbledhësh çfarë ke mësuar. Vëzhgo pajisjet e klasës dhe lidh secilën me një përdorim të dobishëm. Ndaj vëzhgimin nga hamendësimi: shkruaj vetëm atë që dallon ose verifikon. Mos regjistro numra serialë, fjalëkalime apo të dhëna të njerëzve. Produkti yt duhet të kuptohet edhe nga një shok që nuk ishte pranë gjatë vëzhgimit.",
+    "extra": "Ky është inventar mësimor. Ai nuk është dokument zyrtar i pronës së shkollës dhe nuk kërkon fotografimin e personave.",
+    "steps": [
+      "Përgatit një tabelë: pajisja, përdorimi, hyrja, dalja, kujdesi.",
+      "Zgjidh katër pajisje të disponueshme; nëse ka më pak, përdor ato që ka.",
+      "Plotëso tabelën nga vëzhgimi dhe manuali.",
+      "Shëno një përfitim dhe një kufizim për secilën.",
+      "Kontrolloje tabelën me një shok dhe korrigjo paqartësitë.",
+      "Prezanto një pajisje për një minutë dhe ruaj punën në portofol."
+    ],
+    "product": "Një inventar i kontrolluar me pajisje reale të mjedisit tënd.",
+    "question": "Cila pjesë e punës u përmirësua pasi more mendimin e shokut?",
+    "refs": [
+      "kosovo6",
+      "digcomp3"
+    ]
+  },
+  {
+    "id": "2.1",
+    "title": "Zhvillimi i kompjuterit",
+    "term": "Zhvillimi i kompjuterit",
+    "definition": "Zhvillimi i kompjuterëve është ndryshimi i mënyrave dhe pajisjeve që përdorim për të kryer përpunime të programueshme.",
+    "body": "Kompjuterët nuk u krijuan nga një ide e vetme në një ditë. Ndërtimi i qarqeve më të vogla dhe mikroprocesorëve ndihmoi që sistemet të bëheshin më të përhapura. Sot kompjuterë ka në laptopë dhe edhe brenda pajisjeve të tjera. Për të krahasuar dy modele duhen prova: viti, madhësia, përdorimi dhe burimi. Mos e gjyko fuqinë vetëm nga madhësia fizike.",
+    "extra": "Një kompjuter i vogël mund të kryejë shumë punë, por performanca varet nga pjesët, programi dhe detyra që i jep.",
+    "steps": [
+      "Hape fotografinë e Raspberry Pi 5 në këtë kapitull.",
+      "Lexo emrin dhe burimin poshtë saj.",
+      "Krahasoje me laptopin e fotografuar në kapitull.",
+      "Shkruaj dy dallime të dukshme dhe një pyetje që fotografia nuk e zgjidh.",
+      "Gjej përgjigjen e pyetjes në manual, jo duke hamendësuar."
+    ],
+    "product": "Një krahasim që dallon vëzhgimin nga informacioni i verifikuar.",
+    "question": "A mund ta përcaktosh shpejtësinë e kompjuterit nga fotografia?",
+    "refs": [
+      "openstaxcs",
+      "rpi5"
+    ]
+  },
+  {
+    "id": "2.2",
+    "title": "Llojet e kompjuterëve",
+    "term": "Llojet e kompjuterëve",
+    "definition": "Kompjuterët mund të grupohen sipas formës dhe përdorimit, si kompjuterë tavoline, laptopë, tableta dhe sisteme të integruara.",
+    "body": "Laptopi bashkon ekranin, tastierën dhe pjesë të tjera në një trup. Kompjuteri i tavolinës shpesh përdor ekran të veçantë. Një server u ofron shërbime sistemeve të tjera; emri tregon rolin, jo patjetër pamjen. Zgjedhja e pajisjes varet nga puna, transporti dhe pajisjet që duhet të lidhësh.",
+    "extra": "“Server” nuk do të thotë domosdoshmërisht një dollap i madh. Edhe një kompjuter i vogël mund të ofrojë një shërbim në rrjet.",
+    "steps": [
+      "Shkruaj detyrat: shkruaj tekst, lëviz në terren, ofro skedarë në rrjet.",
+      "Për secilën propozo një lloj kompjuteri.",
+      "Shpjego çfarë të ndihmon në atë zgjedhje.",
+      "Krahaso propozimin me një shok.",
+      "Ndrysho një zgjedhje nëse ai jep një arsye më të mirë."
+    ],
+    "product": "Tre zgjedhje pajisjesh të lidhura me detyrën.",
+    "question": "Pse dy shkolla mund të zgjedhin pajisje të ndryshme për të njëjtën lëndë?",
+    "refs": [
+      "openstaxcs",
+      "csfg"
+    ]
+  },
+  {
+    "id": "2.3",
+    "title": "Sistemi kompjuterik",
+    "term": "Sistemi kompjuterik",
+    "definition": "Sistemi kompjuterik është bashkësia e pajisjeve dhe programeve që punojnë së bashku për të përpunuar të dhëna.",
+    "body": "Kur shkruan një fjali, tastiera dërgon hyrjen. Programi përpunon veprimet dhe ekrani paraqet tekstin. Kur e ruan, të dhënat vendosen në një pajisje ruajtjeje. Nëse mungon një pjesë, detyra mund të mos kryhet. Përdoruesi zgjedh qëllimin dhe kontrollon rezultatin; sistemi nuk e di vetvetiu nëse fjalia jote ka kuptim.",
+    "extra": "Një rezultat në ekran mund të jetë teknikisht i shfaqur saktë, por përmbajtja e tij mund të jetë gabim.",
+    "steps": [
+      "Hap programin e tekstit që përdor klasa.",
+      "Shkruaj “Sot mësoj për sistemin kompjuterik”.",
+      "Shëno cili mjet e futi tekstin dhe cili e shfaqi.",
+      "Ruaje si sistemi.odt në dosjen K02.",
+      "Mbylle dokumentin, hape sërish dhe kontrollo fjalinë."
+    ],
+    "product": "Një dokument i ruajtur dhe një shpjegim i rrugës së të dhënave.",
+    "question": "Pse duhet të kontrollosh dokumentin pasi e rihap?",
+    "refs": [
+      "info",
+      "openstaxcs"
+    ]
+  },
+  {
+    "id": "2.4",
+    "title": "Hardueri dhe softueri",
+    "term": "Hardueri dhe softueri",
+    "definition": "Hardueri janë pjesët fizike të sistemit. Softueri janë programet dhe udhëzimet që ekzekutohen prej tij.",
+    "body": "Tastiera, procesori dhe ekrani janë harduer. Sistemi operativ dhe përpunuesi i tekstit janë softuer. Një fotografi e ruajtur është skedar të dhënash; programi që e hap është softuer. Kjo ndarje të ndihmon kur përshkruan një problem: tastiera e dëmtuar dhe programi që nuk përgjigjet kërkojnë kontrolle të ndryshme.",
+    "extra": "Ikona është një paraqitje në ekran. Vetë ikona nuk është pajisje fizike dhe nuk është gjithë programi që përfaqëson.",
+    "steps": [
+      "Ndaje një faqe në tri kolona: harduer, softuer, të dhëna.",
+      "Vendos fjalët: maus, Writer, fotografi.jpg, ekran, sistem operativ.",
+      "Shto nga një shembull tjetër për secilën kolonë.",
+      "Shpjego pse fotografinë e ndave nga programi i fotografive.",
+      "Kontrolloje klasifikimin me mësimdhënësin."
+    ],
+    "product": "Një klasifikim me tri kategori të dallueshme.",
+    "question": "Në cilën kategori hyn një video e ruajtur?",
+    "refs": [
+      "k12cs",
+      "info"
+    ]
+  },
+  {
+    "id": "2.5",
+    "title": "Pjesët e brendshme të kompjuterit",
+    "term": "Pjesët e brendshme",
+    "definition": "Pllaka amë lidh komponentë të kompjuterit, si procesori, memoria dhe lidhjet me pajisjet e tjera.",
+    "body": "Fotografia reale e laptopit Framework tregon një sistem të hapur për dokumentim. Nga pamja mund të vëresh baterinë, ventilatorin dhe komponentë të tjerë, por jo çdo pjesë dallohet lehtë. Një emër i saktë kërkon manualin e modelit. Në këtë moshë aktiviteti bëhet me fotografi ose me një pajisje të përgatitur nga mësimdhënësi, jo duke çmontuar laptopin e klasës.",
+    "extra": "Mos hap kasën e një pajisjeje për këtë ushtrim. Bateria dhe pjesët elektrike kërkojnë procedura dhe mbikëqyrje të përshtatshme.",
+    "steps": [
+      "Vëzhgo fotografinë reale të laptopit në kapitull.",
+      "Gjej baterinë dhe ventilatorin me udhëzimin e mësimdhënësit.",
+      "Shkruaj funksionin e secilit me një fjali.",
+      "Për një pjesë të paqartë, shëno pyetjen në vend të një emri të hamendësuar.",
+      "Lidhe përgjigjen me manualin e modelit."
+    ],
+    "product": "Një listë komponentësh me emër dhe funksion të kontrolluar.",
+    "question": "Pse fotografia nuk mjafton për çdo identifikim teknik?",
+    "refs": [
+      "repair",
+      "openstaxcs"
+    ]
+  },
+  {
+    "id": "2.6",
+    "title": "Procesori dhe funksioni i tij",
+    "term": "Procesori",
+    "definition": "Procesori, ose CPU-ja, ekzekuton udhëzimet e programeve dhe kryen veprime përpunimi mbi të dhënat.",
+    "body": "Kur përdor një program, procesori kryen shumë veprime të vogla. Ai bashkëpunon me memorien dhe pjesë të tjera. Shpejtësia e orës është një tregues, por nuk mjafton për të krahasuar çdo procesor. Rëndësi kanë edhe arkitektura, numri i bërthamave, ftohja dhe lloji i punës. Nuk ka nevojë t'i mësosh si listë reklamash: fillo nga funksioni i CPU-së.",
+    "extra": "Procesori nuk i ruan përgjithmonë të gjitha dokumentet e tua. Për këtë përdoren pajisjet e ruajtjes, si SSD-ja.",
+    "steps": [
+      "Shkruaj udhëzimet: merr 3, shto 2, shumëzo rezultatin me 4.",
+      "Kryeji me radhë në letër.",
+      "Shkruaj rezultatin pas çdo veprimi.",
+      "Ndrysho rendin e dy veprimeve dhe llogarit përsëri.",
+      "Shpjego pse udhëzimet dhe rendi i tyre kanë rëndësi."
+    ],
+    "product": "Dy përpunime me hapa dhe rezultate të krahasuara.",
+    "question": "Pse një numër i vetëm në reklamë nuk përshkruan gjithë kompjuterin?",
+    "refs": [
+      "bottomup",
+      "openstaxcs"
+    ]
+  },
+  {
+    "id": "2.7",
+    "title": "Memoria e brendshme dhe memoria e jashtme",
+    "term": "RAM dhe ruajtja",
+    "definition": "RAM-i mban përkohësisht të dhëna që sistemi përdor gjatë punës. SSD-ja ose disku ruan skedarë edhe pas fikjes normale.",
+    "body": "Kur hap një dokument, programi përdor memorien gjatë përpunimit. Kur zgjedh Ruaj, ndryshimet shkruhen në pajisjen e ruajtjes. Nëse energjia ndërpritet para ruajtjes, disa ndryshime mund të humbin. Termat “e brendshme” dhe “e jashtme” përdoren ndryshe në materiale të ndryshme; dallimi praktik këtu është mes memories së punës dhe ruajtjes së qëndrueshme.",
+    "extra": "RAM-i dhe hapësira e SSD-së maten shpesh me GB, por kanë funksione të ndryshme. Numrat nuk mund të zëvendësojnë njëri-tjetrin.",
+    "steps": [
+      "Hap një dokument të ri dhe shkruaj një fjali.",
+      "Ruaje si memoria.odt në K02.",
+      "Shto një fjali të dytë dhe ruaje përsëri.",
+      "Mbylle në mënyrë normale dhe rihape.",
+      "Shkruaj çfarë ruajti skedari dhe çfarë bëri programi gjatë punës."
+    ],
+    "product": "Një dokument me të dyja fjalitë dhe shpjegimi RAM/ruajtje.",
+    "question": "Pse duhet ta ruash punën edhe kur kompjuteri ka shumë RAM?",
+    "refs": [
+      "bottomup",
+      "rpi5"
+    ]
+  },
+  {
+    "id": "2.8",
+    "title": "Pajisjet hyrëse dhe dalëse",
+    "term": "Hyrja dhe dalja",
+    "definition": "Pajisjet hyrëse i japin të dhëna sistemit. Pajisjet dalëse paraqesin ose prodhojnë rezultatin e përpunimit.",
+    "body": "Tastiera dhe mikrofoni janë shembuj hyrjeje. Ekrani dhe altoparlanti janë shembuj daljeje. Ekrani me prekje mund t'i kryejë të dyja: paraqet pamjen dhe merr prekjen. Për një pajisje të përbërë mund të duhet të emërtosh veçmas pjesët e saj. Pyet gjithmonë: në cilin drejtim po lëvizin të dhënat?",
+    "extra": "Një pajisje mund të ketë më shumë se një rol. Mos e detyro në një kategori të vetme nëse kryen edhe hyrje, edhe dalje.",
+    "steps": [
+      "Shkruaj: tastierë, ekran, mikrofon, altoparlant, ekran me prekje.",
+      "Për secilën shëno hyrje, dalje ose të dyja.",
+      "Jep një veprim që e provon zgjedhjen.",
+      "Krahasoje klasifikimin në çift.",
+      "Korrigjo çdo përgjigje që nuk e shpjegon dot."
+    ],
+    "product": "Një tabelë ku roli mbështetet me një shembull veprimi.",
+    "question": "Çfarë ndryshon kur prek një buton në ekran?",
+    "refs": [
+      "k12cs",
+      "csta"
+    ]
+  },
+  {
+    "id": "2.9",
+    "title": "Pajisjet për ruajtjen e të dhënave",
+    "term": "Pajisja e ruajtjes",
+    "definition": "Pajisja e ruajtjes mban skedarë që mund t'i hapësh më vonë, si një SSD, disk i jashtëm ose memorie USB.",
+    "body": "Kapaciteti tregon sa të dhëna mund të mbahen, jo sa të sigurta janë ato. Pajisja mund të dëmtohet ose humbet. Mbaj një kopje rezervë sipas udhëzimit të shkollës. USB-ja e panjohur nuk është mjet për ta provuar nga kurioziteti. Para shkëputjes përdor komandën e heqjes së sigurt kur sistemi e kërkon.",
+    "extra": "Një skedar në dy dosje të së njëjtës pajisje nuk të mbron nga prishja e asaj pajisjeje. Kopja rezervë kërkon një vend tjetër të përshtatshëm.",
+    "steps": [
+      "Gjej një dokument tënd në K02.",
+      "Shëno ku është ruajtur.",
+      "Përcakto me mësimdhënësin vendin e kopjes rezervë.",
+      "Kopjo dokumentin vetëm në atë vend të lejuar.",
+      "Hape kopjen dhe kontrollo përmbajtjen."
+    ],
+    "product": "Një kopje që hapet dhe një shënim i vendndodhjes së saj.",
+    "question": "Nga cilat humbje të mbron kjo kopje dhe nga cilat jo?",
+    "refs": [
+      "info",
+      "repair"
+    ]
+  },
+  {
+    "id": "2.10",
+    "title": "Portat dhe lidhjet e kompjuterit",
+    "term": "Porta dhe lidhësi",
+    "definition": "Porta është pika e lidhjes në pajisje; lidhësi është pjesa e kabllos që përshtatet me të.",
+    "body": "Forma USB-C përdoret në pajisje moderne, por kabllot dhe portat nuk ofrojnë gjithmonë të njëjtat aftësi. Disa kabllo bartin vetëm energji, të tjera edhe të dhëna. HDMI përdoret shpesh për lidhje me ekranin. Kontrollo shenjat dhe manualin. Nëse lidhësi nuk hyn lehtë, ndalo; mos e detyro dhe mos fut objekte brenda portës.",
+    "extra": "Forma e njëjtë nuk garanton të njëjtën shpejtësi, karikim ose dalje video. Funksioni verifikohet për modelin dhe kabllon përkatëse.",
+    "steps": [
+      "Vëzhgo portat e një pajisjeje me mësimdhënësin.",
+      "Shkruaj format ose shenjat që sheh.",
+      "Gjej një kabllo të lejuar për atë pajisje.",
+      "Kontrollo funksionin në manual.",
+      "Vizato në fletore rrugën pajisje–kabllo–pajisje dhe emërto çfarë transferohet."
+    ],
+    "product": "Një lidhje e përshkruar saktë pa prova të rrezikshme.",
+    "question": "Pse micro:bit-i mund të marrë energji, por të mos shfaqet si pajisje ruajtjeje?",
+    "refs": [
+      "repair",
+      "rpi5"
+    ]
+  },
+  {
+    "id": "2.11",
+    "title": "Telefonat, tabletët dhe pajisjet inteligjente",
+    "term": "Pajisje inteligjente",
+    "definition": "Një pajisje e quajtur “inteligjente” përdor përpunim dhe shpesh sensorë ose lidhje rrjeti për të kryer funksione të caktuara.",
+    "body": "Telefoni mund të ketë kamerë, sensorë dhe shumë programe. Një orë mund të regjistrojë lëvizje. Fjala “inteligjente” përdoret gjerësisht dhe nuk tregon vetë nëse pajisja përdor inteligjencë artificiale. Kontrollo funksionin e veçantë. Gjithashtu, mos i trajto matjet e një pajisjeje të zakonshme si diagnozë mjekësore.",
+    "extra": "Një sistem nuk bëhet AI vetëm pse ka sensorë, përdor internetin ose paraqet grafikë. Duhet të shohësh çfarë përpunimi kryen dhe si merret rezultati.",
+    "steps": [
+      "Zgjidh një pajisje të njohur, pa hapur të dhëna personale.",
+      "Shkruaj një funksion të saj.",
+      "Përcakto çfarë hyrjeje përdor ai funksion.",
+      "Shëno nëse duhet rrjeti dhe si e verifikove.",
+      "Mos e emërto AI nëse nuk ke burim që e shpjegon këtë."
+    ],
+    "product": "Një përshkrim funksioni me burim dhe pa pretendime të pambështetura.",
+    "question": "A është një alarm me orar shembull i mësimit makinerik?",
+    "refs": [
+      "k12cs",
+      "aistudents"
+    ]
+  },
+  {
+    "id": "2.12",
+    "title": "Sistemet operative dhe programet aplikative",
+    "term": "Sistemi operativ",
+    "definition": "Sistemi operativ menaxhon burimet e kompjuterit dhe u mundëson programeve të punojnë me pajisjet dhe skedarët.",
+    "body": "Windows, macOS dhe shpërndarjet GNU/Linux janë shembuj sistemesh operative për kompjuterë. Writer-i është program aplikativ për tekst. Mjediset mund të duken ndryshe, por shpesh kanë veprime të ngjashme: hapje, ruajtje, kërkim dhe mbyllje. Mëso funksionin e komandës, jo vetëm vendin e një ikone. Mos ndrysho cilësime administrative pa udhëzim.",
+    "extra": "Sistemi operativ nuk është i njëjtë me shfletuesin. Shfletuesi është një program që përdoret për të hapur uebfaqe.",
+    "steps": [
+      "Pyet mësimdhënësin cili sistem operativ përdoret në klasë.",
+      "Shkruaj emrin e tij.",
+      "Hap një aplikacion të lejuar dhe shëno emrin.",
+      "Mbyll vetëm aplikacionin, pa fikur kompjuterin.",
+      "Shpjego dallimin mes dy emrave."
+    ],
+    "product": "Emri i sistemit dhe i aplikacionit me funksione të dalluara.",
+    "question": "Pse i njëjti aplikacion mund të ketë versione për sisteme të ndryshme?",
+    "refs": [
+      "info",
+      "gs"
+    ]
+  },
+  {
+    "id": "2.13",
+    "title": "Ndezja, fikja dhe përdorimi i drejtë i kompjuterit",
+    "term": "Fikja e rregullt",
+    "definition": "Fikja e rregullt është mbyllja e sistemit me komandën përkatëse pasi ke ruajtur punën.",
+    "body": "Butoni i energjisë nuk përdoret si zëvendësim i zakonshëm i komandës Shut down. Fillimisht ruaj dokumentet dhe mbyll programet. Sistemi mund të përfundojë punë ose përditësime para fikjes. Në një pajisje të përbashkët, dalja nga llogaria mbron punën dhe llogarinë tënde. Udhëzimet e shkollës kanë përparësi për mënyrën e nisjes dhe fikjes.",
+    "extra": "Nëse kompjuteri nuk përgjigjet, kërko ndihmë. Fikja me forcë mund të humbë ndryshime që nuk janë ruajtur.",
+    "steps": [
+      "Nise pajisjen sipas udhëzimit të mësimdhënësit.",
+      "Hap një dokument prove dhe shkruaj një fjali.",
+      "Ruaje dhe mbylle dokumentin.",
+      "Mbyll aplikacionet që hape vetë.",
+      "Përdor komandën e sistemit për daljen ose fikjen, sipas udhëzimit.",
+      "Prit derisa procesi të përfundojë."
+    ],
+    "product": "Një nisje dhe mbyllje e rregullt pa humbur dokumentin.",
+    "question": "Çfarë duhet të bësh para se të mbyllësh programin?",
+    "refs": [
+      "gs",
+      "repair"
+    ]
+  },
+  {
+    "id": "2.14",
+    "title": "Mirëmbajtja dhe mbrojtja e pajisjeve",
+    "term": "Mirëmbajtja",
+    "definition": "Mirëmbajtja janë veprimet që ndihmojnë pajisjen dhe programet të vazhdojnë të punojnë në kushte të përshtatshme.",
+    "body": "Mbaje ushqimin dhe lëngjet larg pajisjes. Mos blloko vrimat e ajrimit. Përditësimet dhe pastrimi bëhen sipas udhëzimeve të shkollës dhe prodhuesit. Shënimi i një problemi ndihmon teknikun: çfarë ndodhi, në cilin program dhe pas cilit veprim. Mos hiq skedarë sistemi për të “liruar vend”.",
+    "extra": "Mirëmbajtja nuk do të thotë të instalosh programe të panjohura që premtojnë shpejtësi. Kontrollo burimin dhe kërko ndihmë për ndryshimet e sistemit.",
+    "steps": [
+      "Vëzhgo vendin e punës pa hapur kasën.",
+      "Kontrollo nëse ajrimi është i lirë dhe kabllot nuk pengojnë kalimin.",
+      "Shkruaj një problem të vërejtur ose shëno “Nuk vërejta problem”.",
+      "Përshkruaj hapat që e shfaqin problemin, nëse ka.",
+      "Dorëzoja shënimin mësimdhënësit; mos improvizo riparim."
+    ],
+    "product": "Një shënim mirëmbajtjeje i bazuar në vëzhgim.",
+    "question": "Cilat të dhëna i duhen teknikut që ta kuptojë problemin?",
+    "refs": [
+      "repair",
+      "kosovo6"
+    ]
+  },
+  {
+    "id": "2.15",
+    "title": "Aktivitet praktik: Identifikimi i komponentëve të kompjuterit",
+    "term": "Identifikimi i komponentëve",
+    "definition": "Identifikimi është lidhja e një pjese të vëzhguar me emrin dhe funksionin e saj, duke përdorur prova.",
+    "body": "Këtë projekt mund ta kryesh me fotografinë e laptopit dhe me një kompjuter të mbyllur. Ndaj pjesët që i sheh nga ato që i njeh vetëm prej dokumentacionit. Një raport i saktë nuk kërkon që të gjesh çdo komponent. Kërkon që të mos pretendosh se e ke parë një pjesë të fshehur. Përdor fjalë të qarta dhe jep burimin.",
+    "extra": "Fotografitë në libër janë të modeleve të përcaktuara. Kompjuteri yt mund të ketë vendosje tjetër të komponentëve.",
+    "steps": [
+      "Krijo tabelën: pjesa, funksioni, hyrje/dalje/ruajtje/përpunim, prova.",
+      "Shëno gjashtë pjesë që mund t'i verifikosh.",
+      "Përdor “manual” për një pjesë që nuk duket në fotografi.",
+      "Shto një rregull kujdesi për pajisjen.",
+      "Kontrollo raportin në çift.",
+      "Ruaje si komponentet.odt në K02 ose vendose në portofolin me letër."
+    ],
+    "product": "Një raport me gjashtë komponentë të kontrolluar dhe burimet përkatëse.",
+    "question": "Cila pjesë ishte më e vështirë për t'u identifikuar dhe si e kontrollove?",
+    "refs": [
+      "repair",
+      "rpi5",
+      "kosovo6"
+    ]
+  },
+  {
+    "id": "3.1",
+    "title": "Mjedisi i punës i sistemit operativ",
+    "term": "Mjedisi i punës",
+    "definition": "Mjedisi i punës është pamja dhe bashkësia e mjeteve me të cilat bashkëvepron në sistemin operativ.",
+    "body": "Në Windows mund të përdorësh menynë Start, shiritin e detyrave dhe File Explorer. Në sisteme të tjera emrat ose vendet ndryshojnë. Kërko funksionin e nevojshëm: hap programin, gjej skedarin ose ndrysho dritaren. Mos i ngatërro skedarët e tu me pjesët e sistemit. Për ushtrimet përdor vetëm dosjen tënde TIK_VI.",
+    "extra": "Pamja e ekranit ndryshon sipas versionit, gjuhës dhe cilësimeve. Mësimdhënësi të tregon veprimin përkatës kur emri ndryshon.",
+    "steps": [
+      "Hyr në mjedisin e punës sipas rregullave të shkollës.",
+      "Hap Start dhe kërko File Explorer.",
+      "Hape dosjen TIK_VI që krijove në përgatitje.",
+      "Gjej dosjen K03.",
+      "Mbyll dritaren me X dhe hape përsëri."
+    ],
+    "product": "E gjen dosjen e punës pa ndryshuar skedarët e sistemit.",
+    "question": "Pse duhet të punosh në një dosje të përcaktuar?",
+    "refs": [
+      "gs",
+      "kosovo6"
+    ]
+  },
+  {
+    "id": "3.2",
+    "title": "Ikonat, dritaret dhe menytë",
+    "term": "Dritarja dhe menyja",
+    "definition": "Dritarja paraqet një program ose përmbajtje. Menyja grupon komandat që mund të përdorësh.",
+    "body": "Një ikonë është shenjë grafike që mund të përfaqësojë program, skedar ose komandë. Minimize e fsheh përkohësisht dritaren nga pamja; Close e mbyll. Maximize e zgjeron. Nëse ke dokument të paruajtur, programi mund të të pyesë para mbylljes. Lexoje pyetjen para se të zgjedhësh përgjigjen.",
+    "extra": "Minimizimi nuk e fik programin. Mund ta kthesh dritaren duke klikuar ikonën e tij në shiritin e detyrave.",
+    "steps": [
+      "Hap Writer-in.",
+      "Gjej menytë File dhe Edit.",
+      "Minimizo dritaren dhe ktheje nga shiriti i detyrave.",
+      "Zgjeroje dhe pastaj ktheje në madhësi më të vogël.",
+      "Mbylle dokumentin bosh pa krijuar skedar të panevojshëm."
+    ],
+    "product": "Dallon hapjen, minimizimin, zgjerimin dhe mbylljen.",
+    "question": "Cili veprim e fsheh dritaren, por e lë programin të hapur?",
+    "refs": [
+      "gs",
+      "writer"
+    ]
+  },
+  {
+    "id": "3.3",
+    "title": "Skedarët dhe dosjet",
+    "term": "Skedari dhe dosja",
+    "definition": "Skedari është një njësi të dhënash me emër. Dosja përdoret për të organizuar skedarë dhe dosje të tjera.",
+    "body": "Mendo për dosjen si vend organizimi, jo si dokument. Dokumenti letra.odt dhe fotografia pajisja.jpg janë skedarë me përmbajtje të ndryshme. Rruga e skedarit tregon ku ndodhet, për shembull TIK_VI/K03/letra.odt. Nëse dy dosje përmbajnë skedarë me emër të njëjtë, rruga i dallon.",
+    "extra": "Një shkurtore të çon te një skedar ose program. Ajo nuk është patjetër kopje e përmbajtjes origjinale.",
+    "steps": [
+      "Hap TIK_VI dhe dosjen K03.",
+      "Gjej një skedar prove nga materiali i klasës.",
+      "Shkruaj emrin e tij të plotë.",
+      "Shkruaj rrugën duke filluar nga TIK_VI.",
+      "Shpjego cilat pjesë të rrugës janë dosje dhe cila është skedari."
+    ],
+    "product": "Një rrugë skedari e shkruar saktë.",
+    "question": "Si i dallon dy dokumente me emër të njëjtë?",
+    "refs": [
+      "gs",
+      "kosovo6"
+    ]
+  },
+  {
+    "id": "3.4",
+    "title": "Llojet dhe formatet e skedarëve",
+    "term": "Formati i skedarit",
+    "definition": "Formati përcakton mënyrën si organizohen të dhënat brenda skedarit. Prapashtesa e emrit shpesh tregon formatin.",
+    "body": "ODT përdoret për dokumente teksti të editueshme, ODS për tabela, ODP për prezantime dhe PDF për ndarjen e një pamjeje të qëndrueshme të dokumentit. JPG dhe PNG përdoren për imazhe. Prapashtesa ndihmon, por nuk e garanton sigurinë e skedarit. Ndryshimi i emrit nga foto.jpg në foto.pdf nuk e konverton përmbajtjen.",
+    "extra": "Për ta ndryshuar formatin përdor Save As ose Export në programin e duhur. Riemërtimi i prapashtesës nuk mjafton.",
+    "steps": [
+      "Hap një dokument prove në Writer.",
+      "Ruaje si formate.odt në K03.",
+      "Zgjidh File dhe Export As PDF për të krijuar formate.pdf.",
+      "Hapi të dy skedarët.",
+      "Shëno cili është më i përshtatshëm për të vazhduar redaktimin."
+    ],
+    "product": "I njëjti tekst në ODT dhe PDF, të hapur e të kontrolluar.",
+    "question": "Pse duhet ta ruash edhe versionin e editueshëm?",
+    "refs": [
+      "writer",
+      "gs"
+    ]
+  },
+  {
+    "id": "3.5",
+    "title": "Krijimi dhe organizimi i dosjeve",
+    "term": "Organizimi i dosjeve",
+    "definition": "Organizimi i dosjeve është ndarja e skedarëve në grupe me emra dhe rend të kuptueshëm.",
+    "body": "Një strukturë e qëndrueshme të kursen kohë. Për këtë libër përdor TIK_VI dhe brenda saj K01 deri K10. Në K03 krijo Dokumente, Prezantime dhe Figura. Zgjidh emra të shkurtër që përshkruajnë përmbajtjen. Mos vendos të dhëna personale në emra skedarësh që do të ndahen.",
+    "extra": "Numri i kapitullit në emër e bën më të lehtë renditjen. Emra si “e_re_finale2” zakonisht nuk tregojnë qartë përmbajtjen.",
+    "steps": [
+      "Hap K03 në File Explorer.",
+      "Kliko me të djathtën në hapësirë bosh dhe zgjidh New, Folder.",
+      "Shkruaj Dokumente dhe shtyp Enter.",
+      "Krijo në të njëjtën mënyrë Prezantime dhe Figura.",
+      "Hapi të tria dhe kontrollo se ndodhen brenda K03."
+    ],
+    "product": "Tri nën-dosje të emërtuara qartë në K03.",
+    "question": "Si do ta emërtoje një dokument për rregullat e laboratorit?",
+    "refs": [
+      "gs",
+      "kosovo6"
+    ]
+  },
+  {
+    "id": "3.6",
+    "title": "Përzgjedhja, kopjimi dhe zhvendosja e skedarëve",
+    "term": "Kopjimi dhe zhvendosja",
+    "definition": "Kopjimi krijon një kopje në një vend tjetër. Zhvendosja e kalon skedarin nga vendi i parë te vendi i ri.",
+    "body": "Në Windows, Ctrl+C kopjon dhe Ctrl+V ngjit. Ctrl+X përgatit zhvendosjen; Ctrl+V e përfundon në dosjen tjetër. Në këtë aktivitet përdor një skedar prove, jo një dokument të rëndësishëm. Nëse del pyetje për zëvendësim të një skedari me emër të njëjtë, ndalo dhe krahasoji para se të vazhdosh.",
+    "extra": "Kopjimi i fotografisë nuk të jep të drejtën e autorit mbi të. Rregullat e përdorimit mbeten të lidhura me burimin.",
+    "steps": [
+      "Krijo në K03 një dokument prove me emrin prove.odt.",
+      "Përzgjidhe në File Explorer dhe shtyp Ctrl+C.",
+      "Hap Dokumente dhe shtyp Ctrl+V.",
+      "Kontrollo se tani ka kopje në të dy vendet.",
+      "Zhvendose vetëm kopjen e provës në një dosje tjetër me Ctrl+X dhe Ctrl+V."
+    ],
+    "product": "E dallon kur mbetet origjinali dhe kur ndryshon vendndodhja.",
+    "question": "Si e kontrollon që ngjitja u krye në dosjen e duhur?",
+    "refs": [
+      "gs",
+      "writer"
+    ]
+  },
+  {
+    "id": "3.7",
+    "title": "Riemërtimi, fshirja dhe rikthimi i skedarëve",
+    "term": "Riemërtimi dhe rikthimi",
+    "definition": "Riemërtimi ndryshon emrin e skedarit. Rikthimi e kthen një skedar të fshirë kur sistemi e ka ruajtur në kosh.",
+    "body": "Në File Explorer mund të përdorësh Rename. Për këtë ushtrim mos ndrysho prapashtesën. Skedarët e fshirë nga dosjet lokale shpesh kalojnë në Recycle Bin, por kjo nuk vlen për çdo pajisje, program ose mënyrë fshirjeje. Mos zbraz koshin gjatë ushtrimit. Përdor vetëm kopjen e provës që krijove vetë.",
+    "extra": "Fshirja nga USB-ja ose nga një shërbim online mund të ketë sjellje tjetër. Mos e merr koshin si zëvendësim të kopjes rezervë.",
+    "steps": [
+      "Bëj një kopje prove të një dokumenti tënd.",
+      "Riemërtoje si prova_rikthim.odt.",
+      "Fshije vetëm këtë kopje me komandën Delete.",
+      "Hap Recycle Bin dhe gjeje me emër.",
+      "Zgjidh Restore dhe kontrolloje në dosjen ku ishte."
+    ],
+    "product": "Një kopje prove e rikthyer dhe e hapur.",
+    "question": "Çfarë do të bëje nëse skedari nuk ndodhet në kosh?",
+    "refs": [
+      "gs",
+      "repair"
+    ]
+  },
+  {
+    "id": "3.8",
+    "title": "Kërkimi dhe ruajtja e dokumenteve",
+    "term": "Ruajtja dhe kërkimi",
+    "definition": "Ruajtja shkruan ndryshimet në skedar; kërkimi të ndihmon të gjesh një skedar sipas emrit ose veçorive të tij.",
+    "body": "Save ruan dokumentin aktual. Save As përdoret kur do një emër, vend ose format tjetër. Zgjidhe vendndodhjen me kujdes dhe kontrollo emrin. Kur nuk e gjen dokumentin, kërko fillimisht brenda dosjes së projektit. Kontrollo edhe prapashtesën dhe datën e ndryshimit; emri i ngjashëm nuk do të thotë përmbajtje e njëjtë.",
+    "extra": "Ruajtja automatike ndryshon sipas programit dhe cilësimeve. Mos supozo se çdo ndryshim është ruajtur pa e kontrolluar.",
+    "steps": [
+      "Hap Writer-in dhe shkruaj titullin “Plani im”.",
+      "Përdor Save As dhe zgjidh K03/Dokumente.",
+      "Shkruaj plani_im.odt dhe ruaje.",
+      "Mbylle dokumentin.",
+      "Kërko plani_im në K03 dhe hape rezultatin që përputhet."
+    ],
+    "product": "Një dokument që e gjen dhe e rihap nga dosja e saktë.",
+    "question": "Cilat dy gjëra do t'i kontrollosh kur dalin disa rezultate?",
+    "refs": [
+      "writer",
+      "gs"
+    ]
+  },
+  {
+    "id": "3.9",
+    "title": "Programet për përpunimin e tekstit",
+    "term": "Përpunuesi i tekstit",
+    "definition": "Përpunuesi i tekstit është program për të shkruar, ndryshuar dhe paraqitur dokumente me tekst dhe elemente të tjera.",
+    "body": "Në këtë libër hapat kryesorë përdorin LibreOffice Writer. Nëse shkolla përdor Word, mësimdhënësi tregon komandën përkatëse. Dokumenti mund të ketë titull, paragrafë, lista dhe tabela. Planifiko përmbajtjen para se të zgjedhësh ngjyrat. Lexuesi duhet ta kuptojë mesazhin, jo të humbasë mes zbukurimeve.",
+    "extra": "Një program teksti nuk e kontrollon plotësisht vërtetësinë e përmbajtjes. Edhe kur nuk shfaq nënvizim gabimi, fjalia mund të jetë e pasaktë.",
+    "steps": [
+      "Hap Writer-in dhe zgjidh dokument bosh.",
+      "Shkruaj titullin “Laboratori ynë”.",
+      "Shto një paragraf me tri fjali për përdorimin e tij.",
+      "Shtyp Enter vetëm kur fillon paragraf të ri.",
+      "Ruaje si laboratori.odt në K03/Dokumente."
+    ],
+    "product": "Një dokument me titull dhe paragraf të lexueshëm.",
+    "question": "Pse duhet të planifikosh mesazhin para formatimit?",
+    "refs": [
+      "writer",
+      "gs"
+    ]
+  },
+  {
+    "id": "3.10",
+    "title": "Shkrimi dhe redaktimi i tekstit",
+    "term": "Redaktimi",
+    "definition": "Redaktimi është përmirësimi i përmbajtjes së tekstit duke shtuar, hequr ose ndryshuar pjesë të tij.",
+    "body": "Kursori tregon ku do të shkruash. Backspace heq shenjën para kursorit; Delete heq shenjën pas tij në redaktimin e zakonshëm. Përzgjidh një fjalë kur do ta zëvendësosh. Ctrl+Z të ndihmon të kthesh një veprim të fundit. Pasi redakton, lexoje fjalinë të plotë që të ruash kuptimin.",
+    "extra": "Kontrolli drejtshkrimor varet nga gjuha dhe fjalori i instaluar. Nënvizimi nuk është provë që fjala është patjetër gabim.",
+    "steps": [
+      "Hap laboratori.odt.",
+      "Gjej një fjali që mund të shkurtohet pa humbur kuptimin.",
+      "Përzgjidh fjalët e panevojshme dhe hiqi.",
+      "Provo Undo një herë për ta parë ndryshimin.",
+      "Zgjidh variantin më të qartë dhe ruaje.",
+      "Lexoje tekstin me zë të ulët."
+    ],
+    "product": "Një paragraf i përmirësuar dhe një ndryshim i shpjeguar.",
+    "question": "Cili ndryshim e bëri tekstin më të kuptueshëm?",
+    "refs": [
+      "writer"
+    ]
+  },
+  {
+    "id": "3.11",
+    "title": "Formatimi dhe rreshtimi i tekstit",
+    "term": "Formatimi dhe rreshtimi",
+    "definition": "Formatimi ndryshon paraqitjen e tekstit, si madhësinë dhe trashësinë e shkronjave. Rreshtimi përcakton vendosjen e paragrafit në faqe.",
+    "body": "Përdor tituj të dallueshëm dhe tekst trupi me madhësi të rehatshme. Rreshtimi majtas është shpesh i lehtë për lexim. Për ta vendosur tekstin në qendër përdor komandën e rreshtimit, jo shumë hapësira. Një dokument i rregullt përdor pak stile të qëndrueshme. Ngjyra e tekstit duhet të dallohet nga sfondi.",
+    "extra": "Hapësirat e përsëritura dhe rreshtat bosh nuk janë zgjidhje e mirë për vendosje të saktë. Përdor komandat e paragrafit dhe stilet.",
+    "steps": [
+      "Hap laboratori.odt.",
+      "Përzgjidh titullin dhe përdor stilin Title ose Heading 1.",
+      "Përzgjidh tekstin e paragrafit dhe vendose majtas.",
+      "Thekso me Bold vetëm një fjalë me rëndësi.",
+      "Kontrollo pamjen në Print Preview dhe ruaje."
+    ],
+    "product": "Një dokument me hierarki të qartë mes titullit dhe tekstit.",
+    "question": "Pse shumë ngjyra mund ta vështirësojnë leximin?",
+    "refs": [
+      "writer",
+      "dce"
+    ]
+  },
+  {
+    "id": "3.12",
+    "title": "Listat me numra dhe simbole",
+    "term": "Lista me numra dhe simbole",
+    "definition": "Lista me numra tregon rend ose hapa. Lista me simbole grupon pika kur rendi nuk është thelbësor.",
+    "body": "Për udhëzime si hap, shkruaj dhe ruaj, numrat e bëjnë rendin të qartë. Për një listë materialesh mund të përdorësh simbole. Komandat e listës i mbajnë rreshtimet të rregullta dhe numrat përditësohen kur shton një pikë. Mos i shkruaj numrat me dorë kur programi mund t'i menaxhojë.",
+    "extra": "Një listë hapash duhet të fillojë me veprime të qarta. “Hape dokumentin” është më e zbatueshme se “Dokumenti”.",
+    "steps": [
+      "Hap një dokument të ri në Writer.",
+      "Krijo një listë me simbole: fletore, laps, kompjuter.",
+      "Poshtë saj krijo listë me numra për nisjen e një dokumenti.",
+      "Shto një hap në mes dhe vëzhgo rinumërimin.",
+      "Ruaje si lista.odt në K03/Dokumente."
+    ],
+    "product": "Dy lista me përdorim të arsyetuar të simboleve dhe numrave.",
+    "question": "Kur do të ishte i gabuar ndryshimi i rendit të pikave?",
+    "refs": [
+      "writer"
+    ]
+  },
+  {
+    "id": "3.13",
+    "title": "Vendosja dhe përpunimi i fotografive",
+    "term": "Vendosja e fotografisë",
+    "definition": "Vendosja e fotografisë është përfshirja e një skedari imazhi në dokument, me madhësi, pozicion dhe përshkrim të përshtatshëm.",
+    "body": "Përdor fotografinë reale të pajisjes nga materiali shoqërues, jo një imazh të marrë pa burim. Ruaj përpjesëtimet që pajisja të mos deformohet. Poshtë vendos emrin e objektit, autorin dhe burimin. Përshkrimi duhet të tregojë çfarë shihet. Mos i ndrysho etiketat ose pjesët për ta paraqitur pajisjen si model tjetër.",
+    "extra": "Një fotografi reale mund të përdoret gabim nëse titulli i saj është i pasaktë. Përputh emrin e modelit me burimin origjinal.",
+    "steps": [
+      "Hap dokumentin laboratori.odt.",
+      "Zgjidh Insert, Image dhe fotografinë e lejuar nga dosja Figura.",
+      "Ndrysho madhësinë nga këndi duke ruajtur përpjesëtimet.",
+      "Shkruaj një përshkrim poshtë saj.",
+      "Shto autorin, licencën dhe lidhjen që jepen në regjistrin e figurave.",
+      "Ruaje si laboratori_me_figure.odt."
+    ],
+    "product": "Një fotografi e qartë, e padeformuar dhe me burim.",
+    "question": "Pse nuk duhet ta përdorësh fotografinë e një modeli si provë për një tjetër?",
+    "refs": [
+      "writer",
+      "dce"
+    ]
+  },
+  {
+    "id": "3.14",
+    "title": "Krijimi dhe formatimi i tabelave",
+    "term": "Tabela në dokument",
+    "definition": "Tabela organizon përmbajtjen në rreshta dhe kolona që e bëjnë më të lehtë krahasimin.",
+    "body": "Në një dokument për pajisjet mund të kesh kolonat Pajisja, Funksioni dhe Kujdesi. Rreshti i parë shpjegon çfarë përmban secila kolonë. Tabela në Writer shërben kryesisht për paraqitje; për shumë llogaritje përdor programin tabelar. Mbaje tekstin të shkurtër dhe mos përdor qeliza të bashkuara pa nevojë.",
+    "extra": "Tabela nuk e bën informacionin automatikisht të saktë. Çdo rresht duhet të mbështetet në vëzhgim ose burim.",
+    "steps": [
+      "Hap një dokument të ri.",
+      "Zgjidh Table, Insert Table dhe krijo tri kolona e katër rreshta.",
+      "Shkruaj titujt Pajisja, Funksioni, Kujdesi.",
+      "Plotëso tre rreshta me pajisje që i ke vëzhguar.",
+      "Kontrollo nëse çdo qelizë lexohet dhe ruaje si pajisjet.odt."
+    ],
+    "product": "Një tabelë me tituj dhe tre shembuj të verifikuar.",
+    "question": "Çfarë të ndihmon të kuptosh rreshti i parë?",
+    "refs": [
+      "writer"
+    ]
+  },
+  {
+    "id": "3.15",
+    "title": "Citimi i burimeve dhe e drejta e autorit",
+    "term": "Citimi i burimit",
+    "definition": "Citimi tregon nga është marrë një ide, tekst, fotografi ose informacion që përdor në punën tënde.",
+    "body": "Për një burim online shëno autorin ose institucionin, titullin, lidhjen dhe datën kur e konsultove. Shkrimi me fjalët e tua nuk e heq nevojën për burim kur ideja vjen nga dikush tjetër. Citimi dhe leja e përdorimit janë të ndryshme: një fotografi mund të kërkojë leje edhe kur e përmend autorin.",
+    "extra": "Mos shpik autor, datë ose adresë. Kur një e dhënë nuk gjendet, shëno mungesën dhe kërko ndihmë për mënyrën e citimit.",
+    "steps": [
+      "Zgjidh një nga burimet zyrtare të këtij kapitulli.",
+      "Shkruaj titullin dhe institucionin që e publikon.",
+      "Kopjo lidhjen e saktë.",
+      "Shkruaj me fjalët e tua një ide të shkurtër nga burimi.",
+      "Vendos shënimin e burimit poshtë paragrafit dhe kontrollo lidhjen."
+    ],
+    "product": "Një paragraf me burim të kontrollueshëm.",
+    "question": "A mjafton shënimi i autorit që të riprodhosh çdo fotografi?",
+    "refs": [
+      "dce",
+      "writer"
+    ]
+  },
+  {
+    "id": "3.16",
+    "title": "Krijimi i prezantimeve digjitale",
+    "term": "Prezantimi digjital",
+    "definition": "Prezantimi digjital është një varg slajdesh që mbështesin shpjegimin e një teme para një audience.",
+    "body": "Në këtë aktivitet përdor LibreOffice Impress. Çdo slajd duhet të ketë një ide kryesore. Një titull, pak fjalë dhe një figurë e përshtatshme mund të ndihmojnë më shumë se një faqe e mbushur. Shpjegimi yt plotëson slajdin. Ruaj edhe skedarin ODP që ta ndryshosh më vonë.",
+    "extra": "Slajdet nuk janë dokument për t'u lexuar fjalë për fjalë. Zgjidh çfarë duhet të shohë publiku dhe çfarë do ta shpjegosh vetë.",
+    "steps": [
+      "Hap Impress dhe zgjidh një paraqitje të thjeshtë.",
+      "Krijo tri slajde: tema, shembulli, përfundimi.",
+      "Shkruaj nga një titull të qartë.",
+      "Në slajdin e dytë shto një figurë të lejuar me burimin poshtë.",
+      "Ruaje si prezantimi_im.odp në K03/Prezantime.",
+      "Nise prezantimin me komandën Slide Show dhe kontrollo rendin."
+    ],
+    "product": "Një prezantim me tri slajde që hapet si shfaqje.",
+    "question": "Cila ide duhet të mbetet te dëgjuesi pas slajdit të fundit?",
+    "refs": [
+      "impress"
+    ]
+  },
+  {
+    "id": "3.17",
+    "title": "Rregullat e një prezantimi të mirë",
+    "term": "Prezantim i qartë",
+    "definition": "Një prezantim i qartë e ndihmon dëgjuesin të ndjekë mesazhin përmes rendit, lexueshmërisë dhe shpjegimit.",
+    "body": "Kontrollo tekstin nga një largësi e ngjashme me atë të publikut. Përdor kontrast të dallueshëm dhe mos e mbulo informacionin me efekte. Shpjego figurën; mos supozo se të gjithë e kuptojnë njësoj. Provoje prezantimin me një shok dhe përdor komentet për ta përmirësuar.",
+    "extra": "Animacioni është i dobishëm vetëm kur ndihmon kuptimin. Shumë lëvizje dhe tinguj mund ta largojnë vëmendjen nga tema.",
+    "steps": [
+      "Hap prezantimi_im.odp.",
+      "Nise shfaqjen dhe lexo titujt nga pak më larg.",
+      "Shkurto tekstin e gjatë.",
+      "Kontrollo burimin dhe qartësinë e figurës.",
+      "Provoje para një shoku dhe kërko një koment konkret.",
+      "Përmirëso një slajd dhe ruaje."
+    ],
+    "product": "Një prezantim i rishikuar pas një prove reale.",
+    "question": "Çfarë ndryshove pas komentit të shokut dhe pse?",
+    "refs": [
+      "impress",
+      "dce"
+    ]
+  },
+  {
+    "id": "3.18",
+    "title": "Projekt praktik: Dokumenti dhe prezantimi im",
+    "term": "Portofoli i dokumentit",
+    "definition": "Portofoli është një përmbledhje punimesh që tregon çfarë ke krijuar dhe si është përmirësuar puna jote.",
+    "body": "Në projektin përmbyllës bashko një dokument me një prezantim të shkurtër. Zgjidh temën “Përdorimi i përgjegjshëm i laboratorit”. Përdor rregulla reale të shkollës dhe mos pretendo se një rregull i propozuar është miratuar. Dokumenti jep hollësi; prezantimi nxjerr pikat kryesore. Dorëzo edhe burimet dhe një shënim për ndryshimin që bëre pas kontrollit.",
+    "extra": "Një dosje me shumë skedarë nuk është vetvetiu portofol i qartë. Emërto produktet dhe shpjego rolin e secilit.",
+    "steps": [
+      "Hap një dokument të ri dhe shkruaj hyrjen, katër rregulla dhe një përfundim.",
+      "Shto një tabelë ose fotografi të lejuar me burim.",
+      "Ruaj ODT-në dhe eksporto PDF-në.",
+      "Përgatit tri ose katër slajde në Impress.",
+      "Provo hapjen e të tre formateve dhe prezanto punën.",
+      "Dorëzo dosjen K03 sipas mënyrës që përcakton mësimdhënësi."
+    ],
+    "product": "Dokument ODT/PDF, prezantim ODP dhe një reflektim i shkurtër.",
+    "question": "Si vërteton që skedarët e dorëzuar janë versionet që doje?",
+    "refs": [
+      "writer",
+      "impress",
+      "kosovo6"
+    ]
+  },
+  {
+    "id": "4.1",
+    "title": "Çfarë janë të dhënat digjitale?",
+    "term": "Të dhënat digjitale",
+    "definition": "Të dhënat digjitale janë të dhëna të koduara në një formë që një sistem digjital mund ta ruajë dhe përpunojë.",
+    "body": "Një tekst, një fotografi dhe një numër mund të ruhen digjitalisht. Në tabelat e këtij kapitulli do të punosh kryesisht me emra dhe numra. Mos e ngatërro mënyrën e ruajtjes me kuptimin: shifra 5 mund të jetë sasi, kod ose pjesë e një emri. Titujt e kolonave e bëjnë kuptimin të qartë.",
+    "extra": "Në materialin shoqërues, flete_shembull.csv përmban vlera të krijuara për ushtrim. Ato nuk paraqiten si matje reale të një klase.",
+    "steps": [
+      "Hap fletoren dhe shkruaj tri të dhëna: emrin e ditës, numrin e fletëve dhe ngjyrën e dosjes.",
+      "Trego cilat janë tekst dhe cila është sasi.",
+      "Shto njësinë “fletë” te sasia.",
+      "Shpjego cilën të dhënë mund ta mbledhësh me një numër tjetër.",
+      "Krahasoje me një shok."
+    ],
+    "product": "Dallon tekstin, sasinë dhe kuptimin e një të dhëne.",
+    "question": "Pse nuk ka kuptim të mbledhësh dy emra ditësh?",
+    "refs": [
+      "gaise",
+      "calc"
+    ]
+  },
+  {
+    "id": "4.2",
+    "title": "Mbledhja dhe organizimi i të dhënave",
+    "term": "Mbledhja e të dhënave",
+    "definition": "Mbledhja e të dhënave është regjistrimi i vëzhgimeve sipas një pyetjeje dhe një mënyre të përcaktuar.",
+    "body": "Përpara numërimit vendos çfarë do të numërosh, kur dhe si. Për shembull, numëro fletët e përdorshme në një kuti, jo të gjitha letrat pa dallim. Përdor të njëjtin rregull në çdo numërim. Një vlerë që mungon nuk është domosdoshmërisht zero. Shëno mungesën dhe pyet para llogaritjes.",
+    "extra": "Mos mblidh emra, adresa ose informacione personale kur pyetja mund të zgjidhet duke numëruar objekte.",
+    "steps": [
+      "Zgjidh me mësimdhënësin një pyetje për objektet e klasës.",
+      "Shkruaj rregullin e numërimit.",
+      "Përgatit kolonat Objekti, Numri, Data.",
+      "Numëro sipas rregullit dhe regjistro rezultatin.",
+      "Kërko një kontroll të dytë për një rresht."
+    ],
+    "product": "Një tabelë e vogël me të dhëna të mbledhura realisht dhe rregullin e përdorur.",
+    "question": "Si e dallon “nuk e numërova” nga “nuk kishte asnjë”?",
+    "refs": [
+      "gaise",
+      "ridsdale"
+    ]
+  },
+  {
+    "id": "4.3",
+    "title": "Hyrje në programet tabelare",
+    "term": "Programi tabelar",
+    "definition": "Programi tabelar organizon të dhëna në qeliza dhe lejon llogaritje me formula dhe paraqitje me grafikë.",
+    "body": "Në këtë kapitull hapat kryesorë përdorin LibreOffice Calc. Excel dhe Google Sheets kanë shumë koncepte të njëjta, por menytë mund të ndryshojnë. Një qelizë mund të ketë tekst, numër ose formulë. Kur ndryshon një vlerë, formulat që varen prej saj mund të përditësohen. Kjo ndihmon të provosh skenarë pa bërë çdo llogaritje nga e para.",
+    "extra": "Tabela e shkruar në një dokument teksti dhe fleta e programit tabelar nuk janë e njëjta gjë, edhe pse mund të duken të ngjashme.",
+    "steps": [
+      "Hap LibreOffice Calc.",
+      "Kliko A1 dhe shkruaj Dita.",
+      "Kliko B1 dhe shkruaj Flete.",
+      "Shkruaj E hënë në A2 dhe 12 në B2.",
+      "Ruaje si fletet.ods në K04."
+    ],
+    "product": "Një fletë pune me tituj kolonash dhe një rresht të dhënash.",
+    "question": "Çfarë avantazhi ka formula ndaj një rezultati të shkruar me dorë?",
+    "refs": [
+      "calc",
+      "gs"
+    ]
+  },
+  {
+    "id": "4.4",
+    "title": "Mjedisi i punës në Calc, Excel ose Google Sheets",
+    "term": "Mjedisi i programit tabelar",
+    "definition": "Mjedisi i programit tabelar përfshin rrjetën e qelizave, shiritin e formulës, menytë dhe skedat e fletëve.",
+    "body": "Në Calc, Excel ose Google Sheets, letra e kolonës dhe numri i rreshtit të ndihmojnë të gjesh qelizën. Shiriti i formulës tregon përmbajtjen e saj. Nëse përdor Google Sheets, hyr vetëm me llogarinë shkollore të lejuar. Nuk të duhet të krijosh llogari personale për ta kryer këtë kapitull: versioni me Calc punon lokalisht.",
+    "extra": "Një buton mund të zhvendoset nga një version te tjetri. Adresa e qelizës dhe logjika e formulës mbeten pika të mira orientimi.",
+    "steps": [
+      "Hap fletet.ods në Calc ose kopjen e caktuar nga mësimdhënësi.",
+      "Kliko B2.",
+      "Gjej adresën B2 dhe përmbajtjen 12 në mjetet e sipërme.",
+      "Gjej skedën e fletës poshtë.",
+      "Përshkruaj me fjalë ku do të kontrollosh formulën e një qelize."
+    ],
+    "product": "Identifikon qelizën aktive, shiritin e formulës dhe skedën e fletës.",
+    "question": "Pse duhet të kontrollosh adresën para se të shkruash?",
+    "refs": [
+      "calc"
+    ]
+  },
+  {
+    "id": "4.5",
+    "title": "Rreshtat, kolonat, qelizat dhe fletët e punës",
+    "term": "Adresa e qelizës",
+    "definition": "Adresa e qelizës formohet nga shkronja e kolonës dhe numri i rreshtit, për shembull B3.",
+    "body": "Kolonat ecin vertikalisht, ndërsa rreshtat horizontalisht. Një interval, si B2:B6, përfshin qelizat nga B2 deri te B6. Fleta është një pjesë e dokumentit tabelar; një dokument mund të ketë disa fletë. Kontrollo gjithmonë fletën aktive që të mos ndryshosh të dhënat në vendin e gabuar.",
+    "extra": "B2:B6 përfshin pesë qeliza, jo katër. Të dy skajet e intervalit përfshihen.",
+    "steps": [
+      "Hap fletet.ods.",
+      "Kliko A1, B2 dhe C3 dhe lexo adresat.",
+      "Përzgjidh intervalin B2:B6.",
+      "Numëro qelizat e përzgjedhura.",
+      "Shkruaj në fletore adresën e qelizës në kolonën C, rreshtin 5."
+    ],
+    "product": "Gjen qeliza dhe intervale pa i ngatërruar rreshtat me kolonat.",
+    "question": "Sa qeliza përfshin A1:A4?",
+    "refs": [
+      "calc"
+    ]
+  },
+  {
+    "id": "4.6",
+    "title": "Shkrimi dhe formatimi i të dhënave",
+    "term": "Formatimi i të dhënave",
+    "definition": "Formatimi i të dhënave ndryshon pamjen e qelizës, si madhësinë, ngjyrën ose mënyrën e shfaqjes së numrit.",
+    "body": "Shkruaj të dhënat para zbukurimit. Për tabelën shembull përdor ditët E hënë deri E premte dhe vlerat 12, 9, 15, 10, 14. Këto janë numra ushtrimi. Bëje rreshtin e titujve të dallueshëm dhe zgjero kolonën që teksti të lexohet. Formati nuk duhet ta fshehë kuptimin ose njësinë matëse.",
+    "extra": "Një qelizë mund të shfaqë numrin me më pak shifra dhjetore pa e ndryshuar domosdoshmërisht vlerën që përdoret në llogaritje.",
+    "steps": [
+      "Hap fletet.ods.",
+      "Plotëso A2:A6 me pesë ditët e javës.",
+      "Plotëso B2:B6 me 12, 9, 15, 10, 14.",
+      "Bëji titujt Bold dhe zgjero kolonën A.",
+      "Shkruaj poshtë tabelës “Të dhëna shembull për ushtrim”.",
+      "Ruaje punën."
+    ],
+    "product": "Një tabelë e lexueshme me burimin e vlerave të shpjeguar.",
+    "question": "Pse duhet ta dallosh tabelën e ushtrimit nga matjet reale?",
+    "refs": [
+      "calc",
+      "gaise"
+    ]
+  },
+  {
+    "id": "4.7",
+    "title": "Llojet e të dhënave në tabelë",
+    "term": "Lloji i të dhënës",
+    "definition": "Lloji i të dhënës përcakton nëse përmbajtja trajtohet si numër, tekst, datë ose një formë tjetër.",
+    "body": "Numri 12 mund të përdoret në mbledhje. Teksti “12 fletë” përmban edhe shkronja dhe zakonisht nuk sillet si i njëjti numër në formulë. Njësinë vendose në titullin e kolonës ose në një kolonë tjetër. Kodet që fillojnë me zero mund të duhen si tekst, që zeroja fillestare të mos humbasë.",
+    "extra": "Nëse formula nuk punon siç pret, kontrollo nëse qeliza është numër apo tekst. Pamja e ngjashme nuk garanton të njëjtin lloj.",
+    "steps": [
+      "Në një fletë prove shkruaj 12 në A1.",
+      "Shkruaj 12 fletë në A2.",
+      "Shkruaj =A1+3 në B1 dhe vëzhgo rezultatin.",
+      "Provo =A2+3 në B2 dhe lexo reagimin e programit.",
+      "Shpjego pse njësia duhet ndarë nga numri për këtë llogaritje."
+    ],
+    "product": "Një krahasim mes numrit dhe tekstit që përmban shifra.",
+    "question": "Kur është e dobishme që një kod me shifra të ruhet si tekst?",
+    "refs": [
+      "calc",
+      "gaise"
+    ]
+  },
+  {
+    "id": "4.8",
+    "title": "Operatorët themelorë aritmetikë",
+    "term": "Operatori aritmetik",
+    "definition": "Operatori aritmetik tregon veprimin që kryhet mbi numrat, si mbledhja, zbritja, shumëzimi ose pjesëtimi.",
+    "body": "Në formulat tabelare përdor +, -, * dhe /. Formula fillon me shenjën =. Shumëzimi dhe pjesëtimi kryhen para mbledhjes dhe zbritjes, përveçse kur kllapat ndryshojnë rendin. Për shembull, =2+3*4 jep 14, ndërsa =(2+3)*4 jep 20. Kontrollo me llogaritje në letër kur rezultati të duket i pazakontë.",
+    "extra": "Shenja x që përdoret në tekst për shumëzim nuk është operatori i zakonshëm i formulës. Në formulë përdor yllin *. ",
+    "steps": [
+      "Në një fletë bosh shkruaj =8+2 në A1.",
+      "Shkruaj =8-2 në A2, =8*2 në A3 dhe =8/2 në A4.",
+      "Llogariti rezultatet në fletore.",
+      "Provo dy formulat me kllapa dhe pa kllapa të shembullit.",
+      "Krahaso dhe shpjego dallimin."
+    ],
+    "product": "Katër veprime të sakta dhe një krahasim i rendit të veprimeve.",
+    "question": "Si e ndryshojnë kllapat rezultatin e llogaritjes?",
+    "refs": [
+      "calc"
+    ]
+  },
+  {
+    "id": "4.9",
+    "title": "Formulat e thjeshta",
+    "term": "Formula me referenca",
+    "definition": "Formula me referenca përdor adresat e qelizave në vend të disa vlerave të shkruara drejtpërdrejt.",
+    "body": "Nëse B2 ka sasinë dhe C2 çmimin, =B2*C2 llogarit koston. Kur ndryshon sasinë, formula mund të japë koston e re. Kjo e bën fletën të dobishme për planifikim. Mos shkruaj rezultatin me dorë në qelizën që duhet të përmbajë formulën. Kontrollo edhe njësitë: sasi herë euro për njësi jep euro.",
+    "extra": "Kopjimi i formulës poshtë zakonisht ndryshon referencat relative sipas rreshtit. Kontrolloje formulën e kopjuar, jo vetëm rezultatin.",
+    "steps": [
+      "Shkruaj Sasi në B1, Çmimi në C1 dhe Kosto në D1.",
+      "Vendos 6 në B2 dhe 2 në C2.",
+      "Në D2 shkruaj =B2*C2 dhe shtyp Enter.",
+      "Kontrollo që rezultati të jetë 12.",
+      "Ndrysho B2 në 7 dhe kontrollo rezultatin 14.",
+      "Ruaje si formula.ods."
+    ],
+    "product": "Një kosto që përditësohet kur ndryshon sasia.",
+    "question": "Pse =B2*C2 është më e dobishme se =6*2 në këtë tabelë?",
+    "refs": [
+      "calc"
+    ]
+  },
+  {
+    "id": "4.10",
+    "title": "Funksionet SUM, AVERAGE, MIN dhe MAX",
+    "term": "Funksioni tabelar",
+    "definition": "Funksioni tabelar është një llogaritje e gatshme që merr të dhëna si argumente dhe kthen rezultat.",
+    "body": "SUM mbledh vlerat; AVERAGE jep mesataren aritmetike; MIN dhe MAX gjejnë vlerën më të vogël e më të madhe. Për B2:B6 me 12, 9, 15, 10, 14, rezultatet janë 60, 12, 9 dhe 15. Kontrollo intervalin: përfshirja e titullit ose harrimi i një vlere mund të ndryshojë kuptimin e llogaritjes.",
+    "extra": "Qelizat bosh dhe zerot nuk janë e njëjta gjë në mesatare. Kontrollo mungesat para se të interpretosh rezultatin.",
+    "steps": [
+      "Hap fletet.ods.",
+      "Në D2 shkruaj =SUM(B2:B6).",
+      "Në D3 shkruaj =AVERAGE(B2:B6).",
+      "Në D4 shkruaj =MIN(B2:B6) dhe në D5 =MAX(B2:B6).",
+      "Shkruaj emrin e secilit rezultat pranë tij.",
+      "Krahasoji me llogaritjen në fletore."
+    ],
+    "product": "Katër rezultate të kontrolluara për të njëjtin interval.",
+    "question": "Çfarë tregon mesatarja 12 për këto pesë vlera?",
+    "refs": [
+      "calc",
+      "gaise"
+    ]
+  },
+  {
+    "id": "4.11",
+    "title": "Renditja dhe filtrimi i të dhënave",
+    "term": "Renditja dhe filtrimi",
+    "definition": "Renditja ndryshon radhën sipas një kriteri. Filtrimi shfaq vetëm rreshtat që e përmbushin një kusht.",
+    "body": "Kur rendit një tabelë, mbaji të lidhura të gjitha kolonat e rreshtit. Nëse rendit vetëm numrat dhe jo ditët, mund të krijosh çifte të gabuara. Filtri zakonisht i fsheh përkohësisht rreshtat që nuk përputhen; nuk duhet t'i ngatërrosh me rreshta të fshirë. Ruaj një kopje para provës.",
+    "extra": "Kriteri i renditjes duhet të lidhet me pyetjen. Renditja e ditëve sipas sasisë nuk tregon më rendin kronologjik.",
+    "steps": [
+      "Bëj një kopje të fletet.ods.",
+      "Përzgjidh të gjithë tabelën A1:B6.",
+      "Përdor Data, Sort dhe rendite sipas Flete nga më e madhja.",
+      "Kontrollo se çdo ditë mbeti me numrin e vet.",
+      "Aktivizo Data, AutoFilter dhe provo të shfaqësh një vlerë.",
+      "Hiqe filtrin dhe kontrollo të pesë rreshtat."
+    ],
+    "product": "Një tabelë e renditur pa prishur lidhjen mes kolonave.",
+    "question": "Pse duhet të përzgjedhësh gjithë tabelën para renditjes?",
+    "refs": [
+      "calc",
+      "gaise"
+    ]
+  },
+  {
+    "id": "4.12",
+    "title": "Krijimi dhe formatimi i grafikëve",
+    "term": "Grafiku",
+    "definition": "Grafiku është paraqitje pamore e të dhënave për të ndihmuar krahasimin dhe dallimin e ndryshimeve.",
+    "body": "Grafiku me shtylla është i dobishëm për krahasimin e kategorive. Titulli dhe etiketat duhet të tregojnë çfarë matet. Përdor shkallë të qartë dhe shmang efektet 3D që mund të shtrembërojnë pamjen. Për tabelën e fletëve, boshti horizontal tregon ditët dhe ai vertikal numrin e fletëve. Mbaje shënimin se vlerat janë shembull.",
+    "extra": "Një grafik i bukur nuk është domosdoshmërisht i saktë. Kontrollo intervalin, titullin, njësinë dhe shkallën para ngjyrave.",
+    "steps": [
+      "Hap fletet.ods dhe përzgjidh A1:B6.",
+      "Zgjidh Insert, Chart.",
+      "Zgjidh grafikun me shtylla dhe kontrollo që rreshti i parë të përdoret si tituj.",
+      "Shkruaj titullin “Fletë sipas ditës – shembull”.",
+      "Emërto boshtin e sasisë “Numri i fletëve”.",
+      "Kontrollo shtyllat dhe ruaje."
+    ],
+    "product": "Një grafik që përputhet me pesë vlerat e tabelës.",
+    "question": "Çfarë duhet të lexosh para se të krahasosh dy shtylla?",
+    "refs": [
+      "calc",
+      "gaise"
+    ]
+  },
+  {
+    "id": "4.13",
+    "title": "Leximi dhe interpretimi i grafikëve",
+    "term": "Interpretimi i grafikut",
+    "definition": "Interpretimi është shpjegimi i asaj që tregojnë të dhënat, duke respektuar kufijtë e tyre.",
+    "body": "Në shembullin tonë, vlera më e lartë është 15 dhe më e ulëta 9. Kjo nuk shpjegon pse ndryshuan sasitë. Një grafik mund të tregojë lidhje ose dallim pa provuar shkakun. Nëse mungon një ditë, thuaje. Ndaji fjalitë që lexohen drejtpërdrejt nga të dhënat nga pyetjet që kërkojnë informacion shtesë.",
+    "extra": "“U rrit” duhet të tregojë mes cilave pika dhe me sa. Mos e përdor si përfundim për çdo periudhë kur ke vetëm pak vlera.",
+    "steps": [
+      "Hap grafikun e njësisë 4.12.",
+      "Gjej ditën me vlerën më të madhe dhe më të vogël.",
+      "Llogarit diferencën mes tyre.",
+      "Shkruaj dy fjali që mbështeten drejtpërdrejt te tabela.",
+      "Shto një pyetje për të cilën grafiku nuk jep përgjigje."
+    ],
+    "product": "Dy përfundime të mbështetura dhe një kufizim i qartë.",
+    "question": "A tregon ky grafik arsyen pse një ditë ka më shumë fletë?",
+    "refs": [
+      "gaise",
+      "gould"
+    ]
+  },
+  {
+    "id": "4.14",
+    "title": "Aktivitet praktik: Analiza e të dhënave të klasës",
+    "term": "Analiza e të dhënave",
+    "definition": "Analiza e të dhënave është shqyrtimi i tyre për t'iu përgjigjur një pyetjeje me llogaritje dhe arsyetim.",
+    "body": "Kthehu te pyetja që zgjodhe në njësinë 4.2. Kontrollo të dhënat para llogaritjes: a janë të gjitha të të njëjtit lloj dhe të mbledhura me të njëjtin rregull? Nëse përdor skedarin shembull, shënoje qartë. Produkti duhet të përmbajë pyetjen, tabelën, një grafik dhe një përfundim që nuk thotë më shumë se provat.",
+    "extra": "Mungesa e të dhënave duhet të duket në raport. Mos vendos vlera të imagjinuara vetëm që tabela të jetë e plotë.",
+    "steps": [
+      "Hap një fletë të re dhe shkruaj pyetjen.",
+      "Vendos të dhënat e vëzhguara pa informacione personale.",
+      "Kontrollo rreshtat dhe shëno mungesat.",
+      "Llogarit një total ose mesatare kur ka kuptim.",
+      "Krijo një grafik dhe shkruaj një përfundim.",
+      "Ruaje si analiza_klases.ods dhe prezanto edhe kufizimin."
+    ],
+    "product": "Një analizë e vogël e riprodhueshme nga tabela e paraqitur.",
+    "question": "A mund ta kontrollojë dikush përfundimin tënd vetëm me tabelën?",
+    "refs": [
+      "gaise",
+      "ridsdale",
+      "kosovo6"
+    ]
+  },
+  {
+    "id": "4.15",
+    "title": "Projekt praktik: Buxheti i një aktiviteti shkollor",
+    "term": "Buxheti",
+    "definition": "Buxheti është plan i të ardhurave ose mjeteve të disponueshme dhe shpenzimeve të pritshme.",
+    "body": "Për ushtrim përdor këtë skenar të sajuar mësimor: 6 lapsa me 2 euro, 4 blloqe me 3 euro dhe 10 fletë kartoni me 1 euro. Çmimet janë vetëm për llogaritje, jo oferta tregu. Kostoja totale është 34 euro; nga buxheti 40 euro mbeten 6. Formula të ndihmon të shohësh çfarë ndryshon kur ndryshon sasia.",
+    "extra": "Planifikimi i një blerjeje nuk është blerje reale. Në këtë aktivitet nuk bëhet porosi dhe nuk kërkohen të dhëna pagese.",
+    "steps": [
+      "Krijo kolonat Materiali, Sasia, Çmimi, Kostoja.",
+      "Vendos tri rreshtat e shembullit.",
+      "Në D2 shkruaj =B2*C2 dhe kopjo formulën deri në D4.",
+      "Në D5 llogarit =SUM(D2:D4).",
+      "Në D6 shkruaj =40-D5 dhe kontrollo rezultatin 6.",
+      "Ndrysho një sasi, shpjego ndikimin dhe ruaje si buxheti.ods."
+    ],
+    "product": "Një buxhet me formula, total dhe mjete të mbetura.",
+    "question": "Cilën sasi do të ndryshoje nëse buxheti ulet në 30 euro?",
+    "refs": [
+      "calc",
+      "entrec",
+      "kosovo6"
+    ]
+  },
+  {
+    "id": "5.1",
+    "title": "Çfarë është interneti?",
+    "term": "Interneti",
+    "definition": "Interneti është një rrjet rrjetesh që lejon sisteme të ndryshme të shkëmbejnë të dhëna sipas rregullave të përbashkëta.",
+    "body": "Uebfaqet janë vetëm një nga shërbimet që përdorin internetin. Posta elektronike dhe shumë shërbime të tjera e përdorin gjithashtu. Një kompjuter mund të jetë i lidhur me rrjetin e klasës pa pasur dalje në internet. Kur një faqe nuk hapet, problemi mund të jetë te lidhja, adresa ose vetë shërbimi. Mos nxirr përfundim nga një provë e vetme.",
+    "extra": "Wi-Fi tregon një mënyrë lidhjeje pa tela në rrjet. Lidhja me Wi-Fi nuk garanton se interneti është i disponueshëm.",
+    "steps": [
+      "Hap shfletuesin e lejuar në klasë.",
+      "Shkruaj adresën e një burimi zyrtar nga libri.",
+      "Vëzhgo nëse faqja hapet.",
+      "Nëse jo, kontrollo shkrimin e adresës dhe kërko ndihmë për lidhjen.",
+      "Shpjego dallimin mes rrjetit lokal dhe internetit."
+    ],
+    "product": "Një përshkrim i saktë i lidhjes që po përdor.",
+    "question": "A mund të shkëmbesh skedarë në rrjet lokal pa internet?",
+    "refs": [
+      "networks",
+      "info"
+    ]
+  },
+  {
+    "id": "5.2",
+    "title": "Rrjetet kompjuterike",
+    "term": "Rrjeti kompjuterik",
+    "definition": "Rrjeti kompjuterik lidh pajisje që mund të shkëmbejnë të dhëna ose të përdorin burime të përbashkëta.",
+    "body": "Një LAN mbulon zakonisht një mjedis të kufizuar, si një shkollë. Lidhja mund të jetë me kabllo ose pa tela. Pajisjet e rrjetit, si ruteri dhe pika e qasjes, kanë role të caktuara. Nuk ke nevojë t'i ndryshosh cilësimet për të kuptuar lidhjen. Vëzhgo skemën e shpjeguar nga mësimdhënësi dhe emërto rrugën e komunikimit.",
+    "extra": "Një pajisje mund të kombinojë disa role. Kutia që quajmë “ruteri i shtëpisë” mund të ofrojë edhe Wi-Fi dhe funksione të tjera.",
+    "steps": [
+      "Shkruaj tri pajisje të lidhura në rrjetin e klasës, sipas shpjegimit të mësimdhënësit.",
+      "Shëno nëse lidhja është me kabllo apo pa tela.",
+      "Përcakto një burim që ndahet, për shembull printeri.",
+      "Përshkruaj rrugën nga kompjuteri te ai burim.",
+      "Mos regjistro fjalëkalime ose adresa të brendshme të rrjetit."
+    ],
+    "product": "Një përshkrim i rrjetit pa ndryshuar konfigurimin e tij.",
+    "question": "Çfarë përfitimi sjell një printer i përbashkët?",
+    "refs": [
+      "networks",
+      "kosovo6"
+    ]
+  },
+  {
+    "id": "5.3",
+    "title": "Adresat e internetit dhe domenet",
+    "term": "Adresa e uebit dhe domeni",
+    "definition": "URL-ja është adresa e një burimi në ueb. Domeni është pjesa që identifikon emrin e faqes ose shërbimit.",
+    "body": "Në https://microbit.org/get-started/, microbit.org është domeni, ndërsa pjesa pas tij tregon një rrugë në faqe. Shkruaje adresën me kujdes. Një emër shumë i ngjashëm mund të të çojë në faqe tjetër. HTTPS ndihmon në mbrojtjen e lidhjes, por nuk garanton që çdo përmbajtje ose ofertë në faqe është e vërtetë.",
+    "extra": "Ikona e sigurisë së lidhjes nuk është vlerësim i besueshmërisë së gjithë faqes. Kontrollo edhe domenin, autorin dhe qëllimin.",
+    "steps": [
+      "Kopjo në fletore adresën https://microbit.org/get-started/.",
+      "Nënvizo domenin.",
+      "Rretho pjesën e rrugës pas domenit.",
+      "Hape adresën duke e shkruar në shiritin e adresave.",
+      "Kontrollo emrin e faqes pasi hapet."
+    ],
+    "product": "Dallon domenin nga pjesa tjetër e adresës.",
+    "question": "Pse duhet ta lexosh domenin para se të shkruash të dhëna?",
+    "refs": [
+      "networks",
+      "dce"
+    ]
+  },
+  {
+    "id": "5.4",
+    "title": "Uebfaqet, shfletuesit dhe motorët e kërkimit",
+    "term": "Shfletuesi dhe motori i kërkimit",
+    "definition": "Shfletuesi hap përmbajtje uebi. Motori i kërkimit ndihmon të gjesh faqe sipas fjalëve që shkruan.",
+    "body": "Chrome, Firefox dhe Edge janë shembuj shfletuesish. Një motor kërkimi është shërbim që përdoret brenda shfletuesit. Kur e di adresën e saktë, mund ta shkruash drejtpërdrejt. Kur nuk e di, kërko me fjalë kyçe dhe shqyrto rezultatet. Rezultati i parë nuk është automatikisht më i saktë; disa rezultate mund të jenë reklama.",
+    "extra": "Shiriti i adresave mund të kryejë edhe kërkim. Ky kombinim nuk i bën shfletuesin dhe motorin e kërkimit të njëjtën gjë.",
+    "steps": [
+      "Hap shfletuesin.",
+      "Shkruaj adresën e micro:bit-it dhe hape.",
+      "Hap një skedë tjetër dhe kërko “micro:bit user guide”.",
+      "Krahaso hapjen me adresë të drejtpërdrejtë me kërkimin.",
+      "Identifiko rezultatin që i përket burimit zyrtar."
+    ],
+    "product": "Shpjegon dy mënyra për të arritur te një faqe.",
+    "question": "Pse një reklamë mund të shfaqet para faqes që kërkon?",
+    "refs": [
+      "dce",
+      "digcomp3"
+    ]
+  },
+  {
+    "id": "5.5",
+    "title": "Kërkimi me fjalë kyçe",
+    "term": "Fjalët kyçe",
+    "definition": "Fjalët kyçe janë terma të përzgjedhur që përshkruajnë qartë çfarë dëshiron të gjesh.",
+    "body": "Kërkimi “kompjuter” është shumë i gjerë. “micro:bit V2 udhëzues butonat” e ngushton temën. Përdor emrin e saktë të modelit kur kërkon manual. Lexo titullin dhe përshkrimin para hapjes. Kur rezultati nuk lidhet me pyetjen, ndrysho një term dhe shiko çfarë ndryshon. Mos e zgjidh përgjigjen vetëm sepse është e shkurtër.",
+    "extra": "Kërkimi i mirë fillon me pyetje të qartë. Shkruaje pyetjen me fjalët e tua para se ta shndërrosh në terma kërkimi.",
+    "steps": [
+      "Shkruaj pyetjen “Si përdoren butonat e micro:bit-it?”.",
+      "Zgjidh tri ose katër fjalë kyçe.",
+      "Kryeje kërkimin me mësimdhënësin.",
+      "Gjej një burim zyrtar dhe një rezultat që nuk të ndihmon.",
+      "Shpjego pse i dallove."
+    ],
+    "product": "Një pyetje e shndërruar në kërkim të përqendruar.",
+    "question": "Cili term do ta dallonte modelin V2 nga versioni i mëparshëm?",
+    "refs": [
+      "dce",
+      "digcomp3"
+    ]
+  },
+  {
+    "id": "5.6",
+    "title": "Kërkimi i avancuar i informacionit",
+    "term": "Kërkimi i përqendruar",
+    "definition": "Kërkimi i përqendruar përdor terma dhe kufizime për të zvogëluar rezultatet e parëndësishme.",
+    "body": "Në shumë motorë kërkimi, thonjëzat ndihmojnë të kërkosh një shprehje, ndërsa site: mund ta kufizojë kërkimin në një domen. Sjellja mund të ndryshojë sipas shërbimit. Provoje dhe lexo rezultatet, mos e trajto operatorin si garanci. Filtri i datës mund të jetë i dobishëm për programe që ndryshojnë, por një datë e re nuk garanton cilësi.",
+    "extra": "Një rezultat që përmend një fjalë kyçe nuk e mbështet domosdoshmërisht pretendimin tënd. Lexo pjesën përkatëse të burimit.",
+    "steps": [
+      "Kërko micro:bit temperature.",
+      "Provo kërkimin site:microbit.org temperature.",
+      "Krahaso domenet që shfaqen.",
+      "Hap një rezultat zyrtar dhe gjej çfarë mat pajisja.",
+      "Shkruaj përgjigjen dhe lidhjen e faqes."
+    ],
+    "product": "Një kërkim i kufizuar dhe një përgjigje e mbështetur në burim.",
+    "question": "Pse duhet ta hapësh burimin dhe jo të lexosh vetëm titullin?",
+    "refs": [
+      "dce",
+      "digcomp3"
+    ]
+  },
+  {
+    "id": "5.7",
+    "title": "Shkarkimi dhe ngarkimi i skedarëve",
+    "term": "Shkarkimi dhe ngarkimi",
+    "definition": "Shkarkimi sjell skedar nga një shërbim te pajisja jote. Ngarkimi e dërgon skedarin nga pajisja te shërbimi.",
+    "body": "Para shkarkimit kontrollo burimin dhe formatin. Para ngarkimit kontrollo përmbajtjen dhe kujt do t'i bëhet e dukshme. Dosja Downloads shpesh përdoret për shkarkime, por vendi mund të ndryshojë. Një skedar i marrë nuk duhet hapur pa kontroll kur vjen nga burim i panjohur. Ushtrimi përdor vetëm materialin e caktuar nga mësimdhënësi.",
+    "extra": "Ngarkimi nuk do të thotë gjithmonë publikim për të gjithë. Dukshmëria varet nga shërbimi dhe lejet që zgjedh.",
+    "steps": [
+      "Hap lidhjen e materialit TIK_VI që të jep mësimdhënësi.",
+      "Shkarko një skedar të vogël prove.",
+      "Gjeje në dosjen e shkarkimeve dhe kontrollo emrin.",
+      "Kopjoje në K05.",
+      "Për ngarkim përdor vetëm hapësirën shkollore të caktuar dhe skedarin pa të dhëna personale.",
+      "Kontrollo që ngarkimi përfundoi."
+    ],
+    "product": "Dallon drejtimin e transferimit dhe gjen skedarin e marrë.",
+    "question": "Çfarë duhet të kontrollosh para se të ngarkosh një dokument?",
+    "refs": [
+      "digcomp3",
+      "dce"
+    ]
+  },
+  {
+    "id": "5.8",
+    "title": "Vlerësimi i burimeve elektronike",
+    "term": "Burimi i besueshëm",
+    "definition": "Burimi i besueshëm lejon të kontrollosh autorësinë, provat dhe lidhjen e informacionit me pyetjen tënde.",
+    "body": "Për një pajisje përdor manualin e modelit. Për një program përdor dokumentacionin zyrtar. Një burim shkencor duhet lexuar sipas pyetjes dhe kufizimeve të studimit. Kontrollo kush e ka publikuar, kur, për çfarë qëllimi dhe me çfarë provash. Nuk mjafton pamja profesionale e faqes. Krahaso pretendimin me një burim tjetër të pavarur kur ka rëndësi.",
+    "extra": "Besueshmëria varet edhe nga tema. Një faqe mund të jetë burim i mirë për produktin e vet, por jo provë e pavarur se është më i miri.",
+    "steps": [
+      "Zgjidh një pretendim të thjeshtë për micro:bit-in.",
+      "Gjej shpjegimin në burimin zyrtar.",
+      "Shëno autorin ose institucionin, titullin dhe lidhjen.",
+      "Kontrollo nëse flitet për modelin e duhur.",
+      "Shkruaj çfarë u verifikua dhe çfarë mbetet e paqartë."
+    ],
+    "product": "Një kartë burimi me pretendim dhe provë përkatëse.",
+    "question": "Çfarë do të të bënte të mos e përdorje një faqe?",
+    "refs": [
+      "dce",
+      "journalism"
+    ]
+  },
+  {
+    "id": "5.9",
+    "title": "Faktet, opinionet dhe lajmet e rreme",
+    "term": "Fakti dhe opinioni",
+    "definition": "Fakti është pohim që mund të kontrollohet me prova. Opinioni shpreh vlerësim, qëndrim ose pëlqim.",
+    "body": "“Kjo tabelë ka pesë rreshta të dhënash” mund të kontrollohet. “Ky është grafiku më i bukur” është vlerësim. Një tekst mund t'i përmbajë të dyja. Informacioni i pasaktë mund të jetë gabim ose i përhapur me qëllim; mos pretendo se e di qëllimin pa prova. Kontrollo titullin kundrejt përmbajtjes dhe burimit.",
+    "extra": "Një fjali e përsëritur në shumë faqe nuk bëhet automatikisht fakt. Faqet mund ta kenë kopjuar të njëjtin burim.",
+    "steps": [
+      "Shkruaj dy fjalitë e shembullit në fletore.",
+      "Shëno cilën mund ta kontrollosh dhe si.",
+      "Gjej në një tekst të shkollës një fakt dhe një opinion.",
+      "Shëno provën për faktin.",
+      "Rishkruaj një titull të tepruar në mënyrë më të saktë, pa shtuar informacion."
+    ],
+    "product": "Dallon pohimin e kontrollueshëm nga vlerësimi.",
+    "question": "Pse numri i shpërndarjeve nuk është provë e vërtetësisë?",
+    "refs": [
+      "journalism",
+      "dce"
+    ]
+  },
+  {
+    "id": "5.10",
+    "title": "Posta elektronike dhe përdorimi i saj",
+    "term": "Posta elektronike",
+    "definition": "Posta elektronike është shërbim për dërgimin dhe marrjen e mesazheve digjitale në adresa të caktuara.",
+    "body": "Një mesazh i qartë ka marrësin e saktë, temën, përshëndetjen, kërkesën dhe mbylljen. Bashkëngjitja është skedar që udhëton me mesazhin. Kontrollo përmbajtjen para dërgimit. Në këtë ushtrim përgatit një draft në Writer; nuk kërkohet llogari personale dhe nuk dërgohet mesazh pa udhëzimin e mësimdhënësit.",
+    "extra": "Mos hap bashkëngjitje të papritura vetëm sepse emri i dërguesit duket i njohur. Kontrolloje me një mënyrë tjetër komunikimi.",
+    "steps": [
+      "Hap Writer dhe shkruaj fushat Për, Tema, Mesazhi.",
+      "Te Për shkruaj “adresa e mësimdhënësit”, pa sajuar adresë reale.",
+      "Vendos temën “Dorëzimi i projektit K03”.",
+      "Shkruaj një kërkesë ose njoftim me tri fjali të sjellshme.",
+      "Shëno emrin e skedarit që do të bashkëngjisje.",
+      "Ruaje si draft_email.odt."
+    ],
+    "product": "Një draft i plotë dhe i kontrolluar, pa dërgim automatik.",
+    "question": "Cilat dy gjëra duhet t'i kontrollosh para dërgimit?",
+    "refs": [
+      "dce",
+      "kosovo6"
+    ]
+  },
+  {
+    "id": "5.11",
+    "title": "Komunikimi dhe bashkëpunimi online",
+    "term": "Bashkëpunimi online",
+    "definition": "Bashkëpunimi online është puna e përbashkët përmes mjeteve të rrjetit, me role dhe rregulla të dakorduara.",
+    "body": "Një dokument i përbashkët mund të ketë shkrues, kontrollues dhe prezantues. Roli nuk të jep të drejtë të heqësh punën e tjetrit pa marrëveshje. Komentet duhet të lidhen me produktin, jo me personin. Përcaktoni çfarë dorëzoni dhe kur. Shënoni kontributin individual që puna e grupit të kuptohet.",
+    "extra": "Të jesh i lidhur në të njëjtin dokument nuk do të thotë se po bashkëpunon mirë. Duhet qëllim, ndarje pune dhe kontroll i përbashkët.",
+    "steps": [
+      "Formo një grup sipas udhëzimit të mësimdhënësit.",
+      "Zgjidhni një dokument ose projekt të vogël.",
+      "Ndani rolet: shkrim, kontroll, prezantim.",
+      "Shkruani nga një detyrë konkrete për secilin.",
+      "Përcaktoni si do t'i bashkoni dhe kontrolloni pjesët."
+    ],
+    "product": "Një plan grupi me përgjegjësi të qarta.",
+    "question": "Si mund ta ndihmosh grupin pa e marrë gjithë punën vetë?",
+    "refs": [
+      "dce",
+      "lifec"
+    ]
+  },
+  {
+    "id": "5.12",
+    "title": "Rregullat e komunikimit digjital",
+    "term": "Netiketa",
+    "definition": "Netiketa janë rregulla të sjelljes së respektueshme gjatë komunikimit digjital.",
+    "body": "Përdor gjuhë të qartë dhe të sjellshme. Mos e shpërnda mesazhin privat të dikujt pa leje. Pyet kur nuk e kupton tonin, sepse teksti nuk e tregon gjithmonë mënyrën si është thënë diçka. Komenti për një gabim duhet të tregojë edhe çfarë mund të përmirësohet. Mos u përfshi në fyerje ose tallje.",
+    "extra": "Shkrimi me shkronja të mëdha mund të kuptohet si bërtitje në disa biseda. Më e rëndësishmja është qartësia dhe respekti i mesazhit.",
+    "steps": [
+      "Shkruaj një koment të paqartë: “Kjo s'vlen”.",
+      "Rishkruaje duke emërtuar problemin konkret të një dokumenti prove.",
+      "Shto një propozim për përmirësim.",
+      "Lexoje si të ishe marrësi.",
+      "Përgatit tri rregulla për komentet e grupit."
+    ],
+    "product": "Një koment ndihmues që nuk fyen personin.",
+    "question": "Si e dallon kritikën për punën nga fyerja e personit?",
+    "refs": [
+      "dce",
+      "lifec"
+    ]
+  },
+  {
+    "id": "5.13",
+    "title": "Çfarë është Cloud Computing?",
+    "term": "Cloud computing",
+    "definition": "Cloud computing është përdorimi përmes rrjetit i burimeve kompjuterike që ofrohen si shërbim, si ruajtja ose përpunimi.",
+    "body": "Kur punon në një shërbim cloud, disa të dhëna ose veprime mund të ndodhen në sistemet e ofruesit. “Reja” nuk është një vend në qiell; janë sisteme fizike të menaxhuara. Përfitimi mund të jetë qasja nga pajisje të ndryshme. Duhet të kontrollosh llogarinë, lejet, kushtet dhe çfarë ndodh kur nuk ke lidhje.",
+    "extra": "Jo çdo program që hapet në shfletues i dërgon të dhënat në cloud. Disa mjete përpunojnë lokalisht brenda pajisjes.",
+    "steps": [
+      "Shkruaj dy mënyra ruajtjeje: në K05 dhe në një hapësirë shkollore online.",
+      "Trego ku duhet të kërkosh secilin skedar.",
+      "Shëno çfarë nevojitet për qasje nga një pajisje tjetër.",
+      "Diskuto çfarë ndodh kur mungon interneti.",
+      "Përmend një përfitim dhe një kujdes për secilën mënyrë."
+    ],
+    "product": "Një krahasim i ruajtjes lokale dhe shërbimit cloud.",
+    "question": "Pse duhet ta dish kush e ofron shërbimin?",
+    "refs": [
+      "cloud",
+      "info"
+    ]
+  },
+  {
+    "id": "5.14",
+    "title": "Ruajtja lokale dhe ruajtja në cloud",
+    "term": "Ruajtja lokale dhe në cloud",
+    "definition": "Ruajtja lokale mban skedarin në pajisjen ose mjetin e ruajtjes që përdor. Ruajtja në cloud e mban në shërbimin online.",
+    "body": "Një skedar mund të ketë kopje në të dy vendet. Sinkronizimi përpiqet t'i mbajë ndryshimet të përputhura, por sjellja varet nga programi. Fshirja mund të përhapet edhe te kopja e sinkronizuar. Për këtë arsye, sinkronizimi nuk duhet ngatërruar me çdo lloj kopjeje rezervë. Kontrollo vendndodhjen dhe gjendjen e ruajtjes.",
+    "extra": "Emri i njëjtë nuk provon se dy skedarë kanë përmbajtje të njëjtë. Hapji ose krahaso versionet kur ke paqartësi.",
+    "steps": [
+      "Zgjidh një dokument prove pa të dhëna personale.",
+      "Ruaje lokalisht në K05.",
+      "Nëse shkolla ka hapësirë të lejuar cloud, ruaj një kopje atje me ndihmë.",
+      "Shëno emrin dhe vendndodhjen e të dy kopjeve.",
+      "Kontrollo se cili version përmban ndryshimin e fundit."
+    ],
+    "product": "Një listë vendndodhjesh dhe versionesh të kontrolluara.",
+    "question": "Pse fshirja e sinkronizuar mund ta ndikojë edhe kopjen tjetër?",
+    "refs": [
+      "cloud",
+      "dce"
+    ]
+  },
+  {
+    "id": "5.15",
+    "title": "Ruajtja dhe ndarja e skedarëve online",
+    "term": "Ndarja e skedarit",
+    "definition": "Ndarja e skedarit u jep personave të tjerë qasje sipas lejeve që përcakton pronari ose administratori.",
+    "body": "Leja për ta parë një dokument ndryshon nga leja për ta redaktuar. Një lidhje publike mund të lexohet nga persona jashtë grupit. Për punë shkollore përdor marrës të përcaktuar dhe lejen më të vogël që e kryen detyrën. Nëse nuk i kupton opsionet, kërko ndihmë para se ta ndash. Mos ngarko fotografi nxënësish në këtë aktivitet.",
+    "extra": "Dërgimi i lidhjes dhe dhënia e lejes janë veprime të lidhura, por jo të njëjta. Marrësi mund ta ketë lidhjen dhe të mos ketë qasje.",
+    "steps": [
+      "Përgatit një dokument prove me dy fjali të përgjithshme.",
+      "Hape në hapësirën e miratuar të shkollës.",
+      "Me mësimdhënësin, gjej komandën Share.",
+      "Zgjidh vetëm marrësin e caktuar dhe rolin Viewer ose Reader.",
+      "Kërko që marrësi të kontrollojë nëse mund ta shohë.",
+      "Nëse nuk ka llogari shkollore, shkruaje planin e lejeve në fletore."
+    ],
+    "product": "Një ndarje e kufizuar ose një plan lejesh i shpjeguar.",
+    "question": "Kur duhet leje redaktimi dhe kur mjafton leximi?",
+    "refs": [
+      "dce",
+      "digcomp3"
+    ]
+  },
+  {
+    "id": "5.16",
+    "title": "Krijimi i dokumenteve të përbashkëta",
+    "term": "Dokumenti i përbashkët",
+    "definition": "Dokumenti i përbashkët lejon disa përdorues të kontribuojnë në të njëjtin material sipas lejeve të tyre.",
+    "body": "Ndarja e pjesëve para shkrimit zvogëlon përplasjet. Komentet ndihmojnë të propozosh ndryshime pa e zëvendësuar menjëherë tekstin. Disa shërbime ruajnë histori versionesh; kontrollo funksionin e mjetit që përdor shkolla. Edhe kur historia ekziston, ruaj një version të dorëzuar me emër dhe datë të qartë.",
+    "extra": "Ndryshimi i tekstit të dikujt tjetër duhet të ketë arsye dhe marrëveshje. Mos e përdor funksionin e bashkëpunimit për ta prishur punën e grupit.",
+    "steps": [
+      "Hap dokumentin e grupit që ka përgatitur mësimdhënësi.",
+      "Shkruaj vetëm në pjesën që të është caktuar.",
+      "Lëre një koment për një paqartësi në pjesën tjetër.",
+      "Lexo komentet që ke marrë dhe përmirëso tekstin.",
+      "Shëno kontributin tënd dhe kontrolloni versionin përfundimtar."
+    ],
+    "product": "Një pjesë e shkruar, një koment ndihmues dhe një përmirësim.",
+    "question": "Çfarë duhet të shënosh që kontributi yt të kuptohet?",
+    "refs": [
+      "dce",
+      "lifec"
+    ]
+  },
+  {
+    "id": "5.17",
+    "title": "Privatësia dhe siguria në cloud",
+    "term": "Privatësia në cloud",
+    "definition": "Privatësia lidhet me kontrollin dhe mbrojtjen e informacionit për personat, përfshirë mënyrën si mblidhet dhe ndahet ai.",
+    "body": "Përpara ngarkimit pyet: a është e nevojshme kjo e dhënë dhe kush do ta shohë? Emri i plotë, adresa, fotografia dhe vendndodhja mund të lidhen me një person. Për ushtrimet përdor përmbajtje të përgjithshme dhe llogari shkollore të miratuara. Kur përfundon në kompjuter të përbashkët, dil nga llogaria sipas udhëzimit.",
+    "extra": "Një dosje që ti e quan “private” nuk është domosdoshmërisht private në cilësimet e shërbimit. Kontrollo lejet, jo vetëm emrin.",
+    "steps": [
+      "Hap një dokument prove që do ta ndaje.",
+      "Kontrollo nëse përmban të dhëna të panevojshme për persona.",
+      "Hiqi ato nga kopja e ushtrimit.",
+      "Shkruaj kush duhet të ketë qasje dhe për sa kohë.",
+      "Kontrollo lejet me mësimdhënësin.",
+      "Përfundo duke dalë nga llogaria në pajisjen e përbashkët."
+    ],
+    "product": "Një dokument me vetëm të dhënat e nevojshme dhe leje të kontrolluara.",
+    "question": "Pse emri i dosjes nuk mjafton për të provuar privatësinë?",
+    "refs": [
+      "dce",
+      "unicef"
+    ]
+  },
+  {
+    "id": "5.18",
+    "title": "Aktivitet praktik: Dokumenti i përbashkët online",
+    "term": "Produkti i përbashkët",
+    "definition": "Produkti i përbashkët bashkon kontributet e grupit në një rezultat që mund të kontrollohet dhe shpjegohet.",
+    "body": "Përgatitni “Udhëzuesin e klasës për kërkim të sigurt”. Përdorni një dokument shkollor online nëse është i disponueshëm. Në mungesë të tij, punoni me radhë në një dokument lokal dhe shënoni kontributet. Qëllimi është bashkëpunimi me burime të kontrolluara, jo krijimi i llogarive personale. Udhëzuesi duhet të jetë i shkurtër dhe i zbatueshëm.",
+    "extra": "Produkti duhet të dallojë këshillat që grupi propozon nga rregullat zyrtare të shkollës. Mos i paraqitni propozimet si rregulla të miratuara.",
+    "steps": [
+      "Ndani rolet dhe pjesët: kërkimi, kontrolli i burimit, privatësia.",
+      "Shkruani nga dy udhëzime konkrete për secilën pjesë.",
+      "Shtoni lidhjet e burimeve zyrtare.",
+      "Lexoni të gjithë dokumentin dhe hiqni përsëritjet.",
+      "Kontrolloni lejet e ndarjes dhe ruani një PDF të versionit final.",
+      "Prezantojeni dhe shënoni një përmirësim nga komentet."
+    ],
+    "product": "Një udhëzues i përbashkët me burime dhe kontribute të dokumentuara.",
+    "question": "Cili vendim i grupit e bëri bashkëpunimin më të lehtë?",
+    "refs": [
+      "dce",
+      "digcomp3",
+      "kosovo6"
+    ]
+  },
+  {
+    "id": "6.1",
+    "title": "Komunikimi përmes vizatimit dhe dizajnit",
+    "term": "Dizajni",
+    "definition": "Dizajni është planifikimi i një zgjidhjeje duke menduar për përdorimin, paraqitjen dhe kufizimet e saj.",
+    "body": "Përpara se të vizatosh një objekt, përcakto nevojën. Një raft duhet të mbajë libra dhe të përshtatet me hapësirën. Skica të ndihmon të diskutosh idenë para realizimit. Shëno përmasat dhe atë që ende nuk e di. Në këtë kapitull krijon modele mësimore; ato nuk zëvendësojnë projektin teknik të një profesionisti.",
+    "extra": "Një vizatim i bukur nuk provon se objekti është i qëndrueshëm, i sigurt ose i ndërtueshëm. Këto kërkojnë kontrolle të tjera.",
+    "steps": [
+      "Zgjidh një nevojë të klasës, si vendi për librat.",
+      "Shkruaj kush do ta përdorë.",
+      "Bëj një skicë të thjeshtë në fletore.",
+      "Shëno dy kërkesa, si hapësira dhe përdorimi i lehtë.",
+      "Kërko një koment dhe përmirëso skicën."
+    ],
+    "product": "Një skicë që i përgjigjet një nevoje dhe dy kërkesave.",
+    "question": "Cila pjesë e skicës e ndihmon përdoruesin?",
+    "refs": [
+      "kosovo6",
+      "digitalmodel"
+    ]
+  },
+  {
+    "id": "6.2",
+    "title": "Vizatimet dydimensionale dhe tredimensionale",
+    "term": "2D dhe 3D",
+    "definition": "Një paraqitje 2D përdor dy dimensione. Një model 3D përfshin edhe dimensionin e tretë, si lartësia ose thellësia.",
+    "body": "Një drejtkëndësh në fletë mund të paraqesë planin e një tavoline. Një prizëm drejtkëndor tregon edhe vëllimin e saj. Ekrani është i sheshtë, por programi e paraqet modelin nga kënde të ndryshme. Rrotullimi i pamjes të ndihmon ta kuptosh objektin; nuk do të thotë se ke ndryshuar përmasat e tij.",
+    "extra": "Pamja në perspektivë mund t'i bëjë vijat me gjatësi të njëjtë të duken ndryshe. Përmasat kontrollohen me mjete matëse, jo vetëm me sy.",
+    "steps": [
+      "Vizato një drejtkëndësh dhe emërto gjatësinë e gjerësinë.",
+      "Përshkruaj çfarë mungon për të paraqitur një kuti.",
+      "Vizato ose ndërto me letër një kuti të thjeshtë.",
+      "Vëzhgoje nga sipër dhe nga anash.",
+      "Shëno cilat përmasa shihen në secilën pamje."
+    ],
+    "product": "Dallon planin 2D nga objekti me tri përmasa.",
+    "question": "Pse një pamje e vetme mund të mos mjaftojë?",
+    "refs": [
+      "digitalmodel",
+      "freecad"
+    ]
+  },
+  {
+    "id": "6.3",
+    "title": "Hyrje në SketchUp për shkolla",
+    "term": "SketchUp për shkolla",
+    "definition": "SketchUp for Schools është një mjedis modelimi 3D që mund të përdoret nga shkollat me qasje institucionale të përshtatshme.",
+    "body": "Në strukturën fillestare ky mjet quhej “Google SketchUp”. Këtu përdorim emrin e shërbimit shkollor dhe dokumentacionin aktual. Qasjen e përgatit shkolla përmes Google for Education ose Microsoft Education, sipas mbështetjes së shërbimit. Mos krijo llogari personale për ta anashkaluar këtë kërkesë. Nëse qasja mungon, mësimdhënësi demonstron modelin dhe ti planifikon në letër.",
+    "extra": "Hyrja në një shërbim dhe instalimi i një programi janë veprime të ndryshme. Versioni në ueb hapet në shfletues; mund të kërkojë hyrje institucionale.",
+    "steps": [
+      "Kërko lidhjen dhe udhëzimin e hyrjes nga mësimdhënësi.",
+      "Hap edu.sketchup.com vetëm në mjedisin e lejuar.",
+      "Përdor llogarinë shkollore kur të udhëzohesh.",
+      "Hap një model të ri ose modelin e caktuar.",
+      "Gjej ndihmën e mjetit dhe kontrollo njësinë matëse."
+    ],
+    "product": "Një model i hapur në mjedisin e miratuar ose plan pune në letër.",
+    "question": "Pse qasja e shkollës duhet përgatitur para orës?",
+    "refs": [
+      "digitalmodel",
+      "freecad",
+      "sketchupschools",
+      "sketchupinterface"
+    ]
+  },
+  {
+    "id": "6.4",
+    "title": "Mjedisi i punës dhe veglat themelore",
+    "term": "Vegla e modelimit",
+    "definition": "Vegla e modelimit është komandë që vizaton, ndryshon ose ndihmon të shohësh pjesë të modelit.",
+    "body": "Select përzgjedh; Line vizaton vija; Rectangle krijon drejtkëndësh; Push/Pull i jep thellësi një faqeje të përshtatshme. Orbit ndryshon këndin e pamjes, Pan e lëviz pamjen dhe Zoom afron ose largon. Provoje një vegël në një model prove para se ta përdorësh në projekt. Përdor Undo kur veprimi nuk është ai që synoje.",
+    "extra": "Lëvizja e kamerës dhe lëvizja e objektit janë të ndryshme. Pas Orbit, objekti mbetet në të njëjtin vend të modelit.",
+    "steps": [
+      "Hap modelin e provës.",
+      "Gjej Select, Rectangle dhe Orbit.",
+      "Vizato një drejtkëndësh të vogël.",
+      "Rrotullo pamjen me Orbit.",
+      "Përdor Zoom dhe vëzhgo çfarë ndryshon.",
+      "Shpjego cilat veprime ndryshuan modelin dhe cilat vetëm pamjen."
+    ],
+    "product": "Dallon veglat e krijimit nga veglat e pamjes.",
+    "question": "Pse objekti duket më i madh pas Zoom edhe pa ndryshuar përmasat?",
+    "refs": [
+      "digitalmodel",
+      "freecad",
+      "sketchupschools",
+      "sketchupinterface"
+    ]
+  },
+  {
+    "id": "6.5",
+    "title": "Vizatimi i figurave gjeometrike 2D",
+    "term": "Figura e mbyllur 2D",
+    "definition": "Figura e mbyllur 2D ka kufi të lidhur që rrethon një sipërfaqe në një plan.",
+    "body": "Në modelim, një grup vijash që duket i mbyllur mund të ketë një boshllëk të vogël. Pa mbyllje ose kur pikat nuk janë në të njëjtin plan, programi mund të mos krijojë faqe. Për një ushtrim fillestar përdor Rectangle. Shiko sinjalet e kapjes së pikave dhe mos vizato vetëm “afërsisht”. Saktësia e skicës e lehtëson hapin 3D.",
+    "extra": "Një vijë e vizatuar mbi një tjetër nuk krijon gjithmonë lidhjen që mendon. Kontrollo skajet dhe sipërfaqen e krijuar.",
+    "steps": [
+      "Hap model të ri në SketchUp.",
+      "Zgjidh Rectangle dhe kliko pikën fillestare.",
+      "Lëvize treguesin në planin e zgjedhur dhe vendos këndin tjetër.",
+      "Kontrollo nëse është krijuar faqe.",
+      "Provo një figurë me Line dhe kontrollo mbylljen.",
+      "Ruaje modelin me emrin figura_2D."
+    ],
+    "product": "Një faqe drejtkëndore e mbyllur, gati për modelim 3D.",
+    "question": "Çfarë do të kontrollosh nëse faqja nuk krijohet?",
+    "refs": [
+      "digitalmodel",
+      "freecad",
+      "sketchupschools",
+      "sketchupinterface"
+    ]
+  },
+  {
+    "id": "6.6",
+    "title": "Krijimi i objekteve 3D",
+    "term": "Ekstrudimi",
+    "definition": "Ekstrudimi i jep një faqeje 2D shtrirje në drejtim tjetër për të krijuar një formë 3D.",
+    "body": "Në SketchUp, Push/Pull përdoret për ta shtyrë ose tërhequr një faqe të përshtatshme. Një drejtkëndësh mund të bëhet prizëm. Modeli i krijuar është objekt mësimor, jo fotografi e një objekti real. Pasi e krijon, vëzhgoje nga disa kënde që të dallosh faqet dhe përmasën e re. Mos e ndrysho pamjen me qëllim që të fshehësh një gabim.",
+    "extra": "Një model që duket i mbyllur mund të ketë faqe që mungojnë. Kontrolloje para se ta përdorësh si bazë për pjesë të tjera.",
+    "steps": [
+      "Hap figura_2D.",
+      "Zgjidh Push/Pull dhe kliko faqen e drejtkëndëshit.",
+      "Tërhiqe për të krijuar lartësi.",
+      "Përdor Orbit për ta parë nga anash.",
+      "Kontrollo faqet dhe zgjidh Undo nëse ke prekur faqen e gabuar.",
+      "Ruaje si kutia_3D."
+    ],
+    "product": "Një formë 3D e krijuar nga një faqe 2D.",
+    "question": "Cila përmasë u shtua në këtë veprim?",
+    "refs": [
+      "digitalmodel",
+      "freecad",
+      "sketchupschools",
+      "sketchupinterface"
+    ]
+  },
+  {
+    "id": "6.7",
+    "title": "Përmasat, matja dhe saktësia",
+    "term": "Përmasa dhe shkalla",
+    "definition": "Përmasa tregon madhësinë me njësi matëse. Shkalla lidh madhësinë në paraqitje me madhësinë që përfaqëson.",
+    "body": "Kur planifikon një klasë, shëno matjet reale të lejuara. Mos i përziej centimetrat me metrat pa konvertim. Nëse përdor përmasa ushtrimi, etiketoji si shembull. Në program vendos njësinë përpara punës. Një tavolinë e modeluar me numrin 120 mund të jetë gabim nëse mendoje centimetra, por modeli është në metra.",
+    "extra": "Përmasat e dukshme në ekran nuk varen vetëm nga madhësia reale, sepse Zoom dhe perspektiva e ndryshojnë pamjen.",
+    "steps": [
+      "Zgjidh një objekt të sigurt për matje me mësimdhënësin.",
+      "Mat gjatësinë dhe gjerësinë me një mjet të përshtatshëm.",
+      "Shëno numrin bashkë me njësinë.",
+      "Kontrollo njësinë në model.",
+      "Vendos matjet ose shkruaj në plan si do t'i përdorësh.",
+      "Krahaso raportin mes dy përmasave."
+    ],
+    "product": "Dy matje me njësi të qarta dhe përdorim të qëndrueshëm në model.",
+    "question": "Sa centimetra ka një metër dhe pse ka rëndësi ky konvertim?",
+    "refs": [
+      "kosovo6",
+      "freecad"
+    ]
+  },
+  {
+    "id": "6.8",
+    "title": "Ngjyrosja dhe përdorimi i teksturave",
+    "term": "Materiali dhe tekstura",
+    "definition": "Në modelim, materiali përshkruan pamjen e sipërfaqes; tekstura është një paraqitje që mund të simulojë hollësi të saj.",
+    "body": "Ngjyra mund të dallojë pjesët e modelit. Një teksturë druri në ekran nuk e bën objektin realisht prej druri dhe nuk provon rezistencën e tij. Zgjidh materiale të thjeshta që e ndihmojnë shpjegimin. Nëse përdor tekstura të të tjerëve, kontrollo burimin dhe kushtet. Në ushtrimin fillestar mjaftojnë ngjyrat bazë të programit.",
+    "extra": "Modeli pamor nuk është test fizik i materialit. Për siguri dhe ndërtim duhen të dhëna e kontrolle të tjera.",
+    "steps": [
+      "Hap kutia_3D.",
+      "Përzgjidh një faqe dhe hap mjetin e materialeve ose ngjyrave.",
+      "Vendos një ngjyrë të thjeshtë.",
+      "Përdor ngjyrë tjetër për një faqe që dëshiron ta shpjegosh.",
+      "Shëno pse i zgjodhe ngjyrat.",
+      "Ruaje pa e paraqitur modelin si fotografi reale."
+    ],
+    "product": "Një model ku ngjyra ka rol shpjegues.",
+    "question": "Çfarë nuk mund të kuptosh për materialin vetëm nga ngjyra?",
+    "refs": [
+      "digitalmodel",
+      "freecad"
+    ]
+  },
+  {
+    "id": "6.9",
+    "title": "Lëvizja, rrotullimi dhe ndryshimi i objekteve",
+    "term": "Transformimi i objektit",
+    "definition": "Transformimi ndryshon pozicionin, orientimin ose madhësinë e objektit në model.",
+    "body": "Move e zhvendos, Rotate e rrotullon dhe Scale ndryshon madhësinë. Përdor grupimin kur dëshiron që pjesët të lëvizin së bashku. Nëse zgjatet vetëm një drejtim, përpjesëtimet mund të ndryshojnë. Përpara çdo veprimi kontrollo çfarë ke përzgjedhur. Provo një ndryshim të vogël dhe përdor Undo nëse rezultati nuk përputhet me synimin.",
+    "extra": "Rrotullimi i pamjes me Orbit nuk është Rotate i objektit. Njëra lëviz këndvështrimin, tjetra ndryshon orientimin e modelit.",
+    "steps": [
+      "Përzgjidh të gjitha pjesët e kutisë dhe grupoji sipas udhëzimit të mjetit.",
+      "Zhvendose grupin me Move.",
+      "Rrotulloje me Rotate.",
+      "Provo Scale dhe vëzhgo përpjesëtimet.",
+      "Kthe një veprim me Undo.",
+      "Ruaj variantin që i përshtatet planit."
+    ],
+    "product": "Tre transformime të provuara dhe një zgjedhje e arsyetuar.",
+    "question": "Pse grupimi ndihmon kur lëviz një objekt me shumë pjesë?",
+    "refs": [
+      "digitalmodel",
+      "freecad",
+      "sketchupschools",
+      "sketchupinterface"
+    ]
+  },
+  {
+    "id": "6.10",
+    "title": "Dizajnimi i hapësirave të brendshme dhe të jashtme",
+    "term": "Plani i hapësirës",
+    "definition": "Plani i hapësirës tregon vendosjen e pjesëve sipas përdorimit, përmasave dhe lidhjeve mes tyre.",
+    "body": "Për një klasë, mendo për bankat, derën, kalimin dhe fushën e shikimit. Puno me matje të lejuara dhe me nevojat e përdoruesve. Mos paraqit një propozim mësimor si projekt të miratuar ndërtimi. Një model duhet të lejojë shpjegimin e vendimeve: pse një objekt është aty dhe çfarë ndodh nëse lëvizet.",
+    "extra": "Qasja e lehtë dhe kalimi i lirë duhen shqyrtuar. Një vizatim që “i fut” objektet nuk garanton përdorim të rehatshëm ose siguri.",
+    "steps": [
+      "Vizato planin e një këndi të klasës në letër.",
+      "Shëno derën ose hyrjen dhe objektet kryesore.",
+      "Vendos përmasat e matura ose etiketo përmasat si ushtrim.",
+      "Modelo dy ose tri objekte të thjeshta.",
+      "Kontrollo rrugën e lëvizjes dhe shpjego një përmirësim."
+    ],
+    "product": "Një plan hapësire me vendosje të arsyetuar.",
+    "question": "Cilin përdorues duhet ta kesh parasysh kur kontrollon kalimin?",
+    "refs": [
+      "kosovo6",
+      "digitalmodel",
+      "warehouse"
+    ]
+  },
+  {
+    "id": "6.11",
+    "title": "Përdorimi i objekteve nga 3D Warehouse",
+    "term": "Objekti nga një bibliotekë 3D",
+    "definition": "Biblioteka 3D është koleksion modelesh që mund të shqyrtohen ose përdoren sipas kushteve të tyre.",
+    "body": "3D Warehouse është një burim modelesh për ekosistemin SketchUp. Modelet mund të kenë autorë, hollësi dhe madhësi të ndryshme. Shkarkimi nuk e bën modelin punë tënden. Kontrollo autorin, kushtet dhe përmasat përpara përdorimit. Nëse qasja ose leja nuk është e qartë, ndërto një formë të thjeshtë vetë për ushtrim.",
+    "extra": "Një model me shumë hollësi mund ta rëndojë projektin. Për mësim shpesh mjafton një formë më e thjeshtë që e tregon funksionin.",
+    "steps": [
+      "Me mësimdhënësin hap bibliotekën nga mjeti i miratuar.",
+      "Kërko një objekt të thjeshtë, si tavolinë.",
+      "Lexo autorin, përshkrimin dhe kushtet e përdorimit.",
+      "Kontrollo përmasat përpara vendosjes.",
+      "Shëno burimin në portofol; nëse nuk ka leje të qartë, mos e përdor."
+    ],
+    "product": "Një kartë vlerësimi e modelit, edhe nëse vendos të mos e shkarkosh.",
+    "question": "Pse duhet të shënosh burimin e një modeli 3D?",
+    "refs": [
+      "digitalmodel",
+      "dce",
+      "sketchupschools",
+      "sketchupinterface"
+    ]
+  },
+  {
+    "id": "6.12",
+    "title": "Vlerësimi dhe përmirësimi i një modeli",
+    "term": "Vlerësimi i modelit",
+    "definition": "Vlerësimi i modelit është kontrolli nëse ai i plotëson kërkesat e vendosura në fillim.",
+    "body": "Kthehu te nevoja, përmasat dhe përdoruesi. Provoje modelin nga disa pamje. Shiko nëse ndonjë pjesë mbivendoset pa qëllim ose nëse emërtimet mungojnë. Kërko një koment për një kriter të caktuar, si kalimi ose lexueshmëria e planit. Ndrysho një gjë dhe shëno pse. Kjo tregon procesin, jo vetëm pamjen përfundimtare.",
+    "extra": "Komenti “më pëlqen” nuk mjafton për kontroll teknik. Kërko të tregohet cila kërkesë plotësohet ose cili problem mbetet.",
+    "steps": [
+      "Hap modelin tënd dhe kërkesat fillestare.",
+      "Kontrollo përmasat dhe vendosjen e objekteve.",
+      "Vëzhgoje nga sipër e anash.",
+      "Kërko një koment për një kërkesë konkrete.",
+      "Përmirëso një pjesë dhe ruaj version të ri.",
+      "Shkruaj një fjali para/pas."
+    ],
+    "product": "Një model i rishikuar me arsyen e ndryshimit.",
+    "question": "Si e vërteton se ndryshimi e përmirësoi modelin?",
+    "refs": [
+      "digitalmodel",
+      "lifec"
+    ]
+  },
+  {
+    "id": "6.13",
+    "title": "Projekt praktik: Klasa ose shtëpia ime në 3D",
+    "term": "Projekti i hapësirës 3D",
+    "definition": "Projekti 3D bashkon nevojën, skicën, përmasat, modelin dhe kontrollin në një proces të dokumentuar.",
+    "body": "Modelo një kënd të klasës ose një hapësirë mësimore të propozuar. Për shtëpinë mos përdor plan që zbulon adresë ose hollësi private. Zgjidh pak objekte, por shpjegoji mirë. Shëno cilat përmasa janë matur dhe cilat janë shembull. Produkti është model mësimor; nuk autorizon punime ndërtimi ose ndryshime fizike në shkollë.",
+    "extra": "Fotografia e ekranit tregon pamjen e modelit, por skedari i editueshëm lejon kontroll dhe përmirësim. Ruaji të dyja kur mjeti e mundëson.",
+    "steps": [
+      "Shkruaj nevojën dhe tri kërkesa.",
+      "Përgatit skicën me përmasa dhe njësi.",
+      "Ndërto modelin me forma të thjeshta.",
+      "Shto ngjyra vetëm për ta bërë më të kuptueshëm.",
+      "Kontrolloje me një shok dhe ruaj përmirësimin.",
+      "Dorëzo skedarin e modelit, një pamje të tij dhe burimet e përdorura."
+    ],
+    "product": "Një projekt me plan, model dhe kontroll të dokumentuar.",
+    "question": "Cila pjesë e projektit tënd është matje dhe cila është propozim?",
+    "refs": [
+      "kosovo6",
+      "digitalmodel",
+      "freecad"
+    ]
+  },
+  {
+    "id": "7.1",
+    "title": "Problemet dhe mënyrat e zgjidhjes së tyre",
+    "term": "Problem",
+    "definition": "Një problem është një situatë ku duhet të arrish një qëllim duke respektuar disa kushte.",
+    "body": "Para zgjidhjes, sqaro çfarë kërkohet dhe çfarë ke në dispozicion. Nëse do të organizosh librat, duhet të dish numrin, vendin dhe mënyrën e ndarjes. Zgjidhja kontrollohet kundrejt qëllimit, jo vetëm pamjes.",
+    "extra": "Dy zgjidhje mund të jenë të vlefshme. Krahasoji sipas kohës, mjeteve dhe rezultatit.",
+    "steps": [
+      "Zgjidh problemin e renditjes së gjashtë librave.",
+      "Shkruaj qëllimin me një fjali.",
+      "Shëno dy kushte.",
+      "Propozo dy mënyra renditjeje.",
+      "Provo njërën dhe shpjego nëse qëllimi u arrit."
+    ],
+    "product": "Një përshkrim i qartë i problemit dhe një zgjidhje e kontrolluar.",
+    "question": "Çfarë do të ndryshonte po të kishe gjashtëdhjetë libra?",
+    "refs": [
+      "wing",
+      "csfg"
+    ]
+  },
+  {
+    "id": "7.2",
+    "title": "Zbërthimi i problemit në pjesë më të vogla",
+    "term": "Zbërthim",
+    "definition": "Zbërthimi është ndarja e një problemi në pjesë më të vogla e më të menaxhueshme.",
+    "body": "Për një prezantim grupor mund të ndash punën në mbledhje burimesh, shkrim, përgatitje pamjesh dhe provë. Çdo pjesë duhet të lidhet me produktin e përbashkët. Cakto përgjegjësi dhe afate që të mos mbeten pjesë pa kryer.",
+    "extra": "Ndarja e punës nuk mjafton: pjesët duhet të kontrollohen dhe të bashkohen.",
+    "steps": [
+      "Shkruaj qëllimin e një prezantimi për riciklimin.",
+      "Ndaje në katër detyra.",
+      "Cakto çfarë dorëzon secila detyrë.",
+      "Vendos rendin e tyre.",
+      "Shëno si do t'i bashkosh rezultatet."
+    ],
+    "product": "Një plan me detyra dhe produkte të dallueshme.",
+    "question": "Cila detyrë varet nga përfundimi i një tjetre?",
+    "refs": [
+      "wing",
+      "k12cs"
+    ]
+  },
+  {
+    "id": "7.3",
+    "title": "Njohja e modeleve",
+    "term": "Model",
+    "definition": "Një model i përsëritur është një ngjashmëri që mund ta përdorim për të kuptuar ose zgjidhur raste të tjera.",
+    "body": "Në vargun 2, 4, 6, 8 dallojmë rritjen me dy. Në organizimin e skedarëve mund të përsërisim të njëjtën mënyrë emërtimi. Gjithmonë kontrollo nëse rregulli vlen për rastet që ke.",
+    "extra": "Pak shembuj nuk provojnë se një rregull vlen përgjithmonë. Një varg i shkurtër mund të vazhdohet në disa mënyra.",
+    "steps": [
+      "Shkruaj vargun 3, 6, 9, 12.",
+      "Propozo një rregull.",
+      "Shto dy vlera sipas atij rregulli.",
+      "Gjej një përsëritje në dosjet e tua.",
+      "Shpjego ku të ndihmon njohja e saj."
+    ],
+    "product": "Një rregull i shpjeguar dhe një përdorim praktik.",
+    "question": "Si do ta kontrolloje një rast që nuk i përshtatet rregullit?",
+    "refs": [
+      "grover",
+      "unplugged"
+    ]
+  },
+  {
+    "id": "7.4",
+    "title": "Përzgjedhja e informacionit të rëndësishëm",
+    "term": "Abstraksion",
+    "definition": "Abstraksioni është përqendrimi te të dhënat e rëndësishme për një qëllim, duke lënë mënjanë hollësitë e panevojshme.",
+    "body": "Për të gjetur rrugën në një plan klase, na duhen dyert, tavolinat dhe pengesat. Ngjyra e çantave zakonisht nuk na ndihmon. Çfarë është e rëndësishme ndryshon sipas detyrës.",
+    "extra": "Një hollësi e panevojshme për një detyrë mund të jetë thelbësore për një tjetër.",
+    "steps": [
+      "Vizato një plan të thjeshtë të klasës.",
+      "Shëno derën dhe pengesat.",
+      "Hiq zbukurimet që nuk ndihmojnë orientimin.",
+      "Kërko që një shok të tregojë rrugën në plan.",
+      "Përmirëso një shenjë të paqartë."
+    ],
+    "product": "Një plan i lexueshëm për orientim.",
+    "question": "Kur do të bëhej e rëndësishme ngjyra e një objekti?",
+    "refs": [
+      "wing",
+      "k12cs"
+    ]
+  },
+  {
+    "id": "7.5",
+    "title": "Çfarë është algoritmi?",
+    "term": "Algoritëm",
+    "definition": "Një algoritëm është një varg hapash të qartë e të renditur për zgjidhjen e një detyre.",
+    "body": "Një recetë mund të ilustrojë idenë e algoritmit. Duhet të dimë çfarë kemi në fillim, çfarë bëjmë dhe kur përfundojmë. Në informatikë, hapat duhet të jenë aq të saktë sa zbatuesi të mos ketë nevojë të hamendësojë.",
+    "extra": "Algoritmi përshkruan zgjidhjen; programi e shpreh atë në një gjuhë që mund të ekzekutohet nga kompjuteri.",
+    "steps": [
+      "Shkruaj hapat për të gjetur numrin më të madh mes 4 dhe 7.",
+      "Trego cilat janë hyrjet.",
+      "Krahaso dy numrat.",
+      "Shëno daljen.",
+      "Provoje përsëri me 9 dhe 2, pastaj me 5 dhe 5."
+    ],
+    "product": "Hapa që trajtojnë edhe rastin kur numrat janë të barabartë.",
+    "question": "Pse duhet ta kontrollosh rastin e barazisë?",
+    "refs": [
+      "csfg",
+      "unplugged"
+    ]
+  },
+  {
+    "id": "7.6",
+    "title": "Algoritmet në jetën e përditshme",
+    "term": "Algoritëm i përditshëm",
+    "definition": "Një procedurë e përditshme mund të përshkruhet si hapa për të arritur një rezultat.",
+    "body": "Përgatitja e çantës kërkon orarin, materialet dhe një kontroll në fund. Hapat e renditur të ndihmojnë të vëresh mungesat. Procedura duhet të përshtatet me rrethanat, për shembull kur orari ndryshon.",
+    "extra": "Nuk ka nevojë që çdo veprim njerëzor të kryhet si program. Këtu përdorim një shembull për të kuptuar renditjen.",
+    "steps": [
+      "Hap orarin e ditës tjetër.",
+      "Shkruaj listën e materialeve.",
+      "Kontrollo secilin material.",
+      "Shëno çfarë mungon.",
+      "Rilexo procedurën dhe hiq një hap të panevojshëm."
+    ],
+    "product": "Një procedurë që mund ta ndjekë edhe një nxënës tjetër.",
+    "question": "Çfarë duhet të ndryshosh kur ndryshon orari?",
+    "refs": [
+      "unplugged",
+      "k12cs"
+    ]
+  },
+  {
+    "id": "7.7",
+    "title": "Instruksionet e sakta dhe renditja e tyre",
+    "term": "Instruksion",
+    "definition": "Instruksioni është një udhëzim për të kryer një veprim të caktuar.",
+    "body": "“Lëviz pak” është i paqartë. “Lëviz dy katrorë djathtas” është më i saktë në një rrjetë. Përcakto pozicionin fillestar dhe kuptimin e drejtimeve përpara ekzekutimit.",
+    "extra": "Një udhëzim mund të jetë i qartë për ty dhe i paqartë për personin tjetër.",
+    "steps": [
+      "Vizato një rrjetë 4 me 4.",
+      "Vendos fillimin poshtë majtas.",
+      "Shkruaj udhëzime për të arritur sipër djathtas.",
+      "Jepja një shoku pa shpjegim shtesë.",
+      "Korrigjo udhëzimin që u kuptua ndryshe."
+    ],
+    "product": "Një rrugë e përsëritshme nga udhëzimet.",
+    "question": "A do të ndryshonte rruga nëse ndryshon pika e fillimit?",
+    "refs": [
+      "unplugged",
+      "creative"
+    ]
+  },
+  {
+    "id": "7.8",
+    "title": "Paraqitja e algoritmit me hapa",
+    "term": "Hapa të numëruar",
+    "definition": "Paraqitja me hapa e bën rendin e veprimeve të dukshëm dhe të kontrollueshëm.",
+    "body": "Për të llogaritur shumën e dy numrave, fillimisht i merr, pastaj i mbledh dhe në fund e paraqet rezultatin. Shkrimi në gjuhë të zakonshme ndihmon planifikimin para kodimit.",
+    "extra": "Mos e fshi një hap vetëm sepse të duket i vetëkuptueshëm. Zbatuesit mund t'i mungojë ai informacion.",
+    "steps": [
+      "Shkruaj Hapi 1: merr numrin e parë.",
+      "Shkruaj Hapi 2: merr numrin e dytë.",
+      "Shkruaj Hapi 3: mblidhi.",
+      "Shkruaj Hapi 4: paraqit shumën.",
+      "Provo hapat me 6 dhe 4, pastaj me 0 dhe 8."
+    ],
+    "product": "Rezultatet janë 10 dhe 8 për këto dy prova.",
+    "question": "Ku do ta vendosje një kontroll për hyrje jo numerike?",
+    "refs": [
+      "csfg",
+      "thinkpython"
+    ]
+  },
+  {
+    "id": "7.9",
+    "title": "Simbolet e diagramit të rrjedhës",
+    "term": "Diagram rrjedhe",
+    "definition": "Diagrami i rrjedhës paraqet hapat dhe vendimet e një procedure me simbole dhe shigjeta.",
+    "body": "Zakonisht përdorim oval për fillim e fund, drejtkëndësh për veprim, romb për pyetje dhe paralelogram për hyrje ose dalje. Shigjetat tregojnë rendin. Shkruaj “Po” dhe “Jo” te degët e vendimit.",
+    "extra": "Simbolet pa tekst nuk e shpjegojnë detyrën. Etiketat e qarta janë pjesë e diagramit.",
+    "steps": [
+      "Vizato katër simbolet në fletore.",
+      "Shkruaj rolin poshtë secilit.",
+      "Vendos një pyetje në romb.",
+      "Shto dy shigjeta me Po dhe Jo.",
+      "Kontrollo që të dyja rrugët të çojnë te një hap i kuptueshëm."
+    ],
+    "product": "Një legjendë simbolesh dhe një vendim me dy degë.",
+    "question": "Pse rombi duhet të ketë dalje të shënuara?",
+    "refs": [
+      "csfg",
+      "openstaxcs"
+    ]
+  },
+  {
+    "id": "7.10",
+    "title": "Krijimi i diagrameve të thjeshta të rrjedhës",
+    "term": "Rrjedhë veprimesh",
+    "definition": "Rrjedha tregon si kalon zbatimi nga një hap te tjetri.",
+    "body": "Provo një diagram që kontrollon nëse një numër është më i madh se 10. Përgjigjja duhet të jetë e qartë edhe kur numri është pikërisht 10. Një shembull i kufirit shpesh zbulon gabime.",
+    "extra": "Pyetjet “më i madh” dhe “më i madh ose i barabartë” japin rezultate të ndryshme në kufi.",
+    "steps": [
+      "Vizato Fillim dhe Merr numrin.",
+      "Shto rombin Numri > 10?",
+      "Te Po shkruaj Më i madh se 10.",
+      "Te Jo shkruaj Jo më i madh se 10.",
+      "Bashko degët te Fund dhe provo 9, 10, 11."
+    ],
+    "product": "Tre prova me rrugën përkatëse të shënuar.",
+    "question": "Cilën degë ndjek numri 10 dhe pse?",
+    "refs": [
+      "csfg",
+      "thinkpython"
+    ]
+  },
+  {
+    "id": "7.11",
+    "title": "Strukturat rendore",
+    "term": "Sekuencë",
+    "definition": "Sekuenca është ekzekutimi i veprimeve njëri pas tjetrit sipas rendit.",
+    "body": "Në përgatitjen e një dokumenti, krijimi zakonisht vjen para shkrimit dhe ruajtjes. Ndryshimi i rendit mund të ndryshojë rezultatin ose ta bëjë një hap të pamundur.",
+    "extra": "Dy hapa mund të ndërrojnë vend pa pasoja vetëm nëse nuk varen nga njëri-tjetri.",
+    "steps": [
+      "Shkruaj veprimet hap, shkruaj, ruaj, mbyll.",
+      "Renditi për një dokument të ri.",
+      "Provoje në Writer me një fjali.",
+      "Hape sërish dokumentin.",
+      "Shpjego pse mbyllja para ruajtjes mund të humbë punën."
+    ],
+    "product": "Një dokument i ruajtur dhe rendi i arsyetuar.",
+    "question": "Cilat veprime duhet të mbeten patjetër në rend?",
+    "refs": [
+      "creative",
+      "writer"
+    ]
+  },
+  {
+    "id": "7.12",
+    "title": "Zgjedhja dhe vendimmarrja",
+    "term": "Kusht",
+    "definition": "Kushti është një shprehje që kontrollohet si e vërtetë ose e pavërtetë për të zgjedhur veprimin.",
+    "body": "“Nëse numri i librave është mbi 5, përdor dy kuti; përndryshe, një kuti” është një rregull mësimor. Kapaciteti real i kutive duhet kontrolluar veçmas. Rregulli shërben këtu vetëm për të ushtruar vendimin.",
+    "extra": "Kushti nuk është hamendësim; duhet të përcaktojë qartë çfarë krahasohet.",
+    "steps": [
+      "Shkruaj rregullin në fletore.",
+      "Provoje për 3 libra.",
+      "Provoje për 5 libra.",
+      "Provoje për 6 libra.",
+      "Shpjego se ku ndryshon dega."
+    ],
+    "product": "Për shembullin, 3 dhe 5 japin një kuti; 6 jep dy.",
+    "question": "Çfarë ndryshon nëse shkruajmë të paktën 5?",
+    "refs": [
+      "creative",
+      "thinkpython"
+    ]
+  },
+  {
+    "id": "7.13",
+    "title": "Përsëritja e veprimeve",
+    "term": "Përsëritje",
+    "definition": "Përsëritja kryen të njëjtin grup veprimesh disa herë ose derisa të plotësohet një kusht.",
+    "body": "Në vend që të shkruash katër herë “vizato një anë dhe kthehu”, mund të përdorësh përsëritje. Duhet të përcaktosh çfarë përsëritet dhe kur ndalet.",
+    "extra": "Një përsëritje pa ndalim mund të vazhdojë pafund. Në një animacion kjo mund të jetë e qëllimshme, por kërkon kontroll.",
+    "steps": [
+      "Shkruaj një hap që vizaton një segment.",
+      "Shto kthimin 90 gradë.",
+      "Përsëriti të dy hapat katër herë në letër.",
+      "Kontrollo formën e përftuar.",
+      "Shkruaj të njëjtën procedurë me fjalën Përsërit."
+    ],
+    "product": "Një katror dhe një përshkrim më i shkurtër i hapave.",
+    "question": "Pse duhet të përsëritet edhe kthimi?",
+    "refs": [
+      "creative",
+      "unplugged"
+    ]
+  },
+  {
+    "id": "7.14",
+    "title": "Variablat dhe ruajtja e vlerave",
+    "term": "Variabël",
+    "definition": "Variabla është një emër që lidhet me një vlerë, e cila mund të ndryshojë gjatë programit.",
+    "body": "Në një lojë, variabla “pikët” mund të fillojë me zero dhe të rritet pas një përgjigjeje. Emri të ndihmon të kuptosh rolin e vlerës. Shëno vlerën fillestare për ta ndjekur ndryshimin.",
+    "extra": "Emri i variablës dhe vlera e saj janë gjëra të ndryshme. “pikët” është emër; 3 është një vlerë e mundshme.",
+    "steps": [
+      "Shkruaj pikët = 0.",
+      "Shto 1 dhe shëno vlerën e re.",
+      "Shto edhe 2.",
+      "Hiq 1.",
+      "Krijo një tabelë me katër ndryshimet."
+    ],
+    "product": "Vlera përfundimtare është 2.",
+    "question": "Çfarë ndodh nëse harron vlerën fillestare?",
+    "refs": [
+      "thinkpython",
+      "creative"
+    ]
+  },
+  {
+    "id": "7.15",
+    "title": "Detyrat logjike të tipit Bebras",
+    "term": "Arsyetim logjik",
+    "definition": "Arsyetimi logjik lidh kushtet me përfundime që mund të shpjegohen.",
+    "body": "Bebras përdor detyra të të menduarit kompjuterik. Ushtrimi këtu është krijuar për këtë libër; nuk është detyrë zyrtare e një gare. Në një rrjetë duhet të gjesh rrugën duke respektuar pengesat dhe të shpjegosh pse funksionon.",
+    "extra": "Një përgjigje e saktë pa shpjegim nuk tregon gjithmonë si arsyetove. Trego provën.",
+    "steps": [
+      "Vizato një rrjetë 3 me 3.",
+      "Shëno fillimin poshtë majtas dhe fundin sipër djathtas.",
+      "Blloko katrorin qendror.",
+      "Gjej dy rrugë që lëvizin vetëm djathtas ose lart.",
+      "Shëno numrin e lëvizjeve për secilën."
+    ],
+    "product": "Dy rrugë me nga katër lëvizje që shmangin qendrën.",
+    "question": "Pse nuk mund të mjaftojnë tri lëvizje?",
+    "refs": [
+      "csfg",
+      "assessct"
+    ]
+  },
+  {
+    "id": "7.16",
+    "title": "Kodimi dhe numrat binarë",
+    "term": "Numër binar",
+    "definition": "Sistemi binar përdor shifrat 0 dhe 1. Vlera e secilës shifër varet nga pozicioni.",
+    "body": "Me katër pozicione, vlerat nga e majta janë 8, 4, 2, 1. Shifra 1 tregon se e përfshijmë atë vlerë në shumë. Për shembull, 1010 përfaqëson 8 + 2 = 10 në sistemin dhjetor.",
+    "extra": "Një bit mund të marrë vlerën 0 ose 1. Katër bitë pa shenjë përfaqësojnë numrat nga 0 deri në 15.",
+    "steps": [
+      "Shkruaj kartat 8, 4, 2, 1.",
+      "Zgjidh kartat që japin shumën 5.",
+      "Shëno 1 për kartën e zgjedhur dhe 0 për tjetrën.",
+      "Kontrollo se përfton 0101.",
+      "Provo edhe numrat 0, 9 dhe 15."
+    ],
+    "product": "0 = 0000; 9 = 1001; 15 = 1111.",
+    "question": "Pse nuk mund ta paraqesim 16 me vetëm këta katër bitë?",
+    "refs": [
+      "unplugged",
+      "csfg"
+    ]
+  },
+  {
+    "id": "7.17",
+    "title": "Aktivitet praktik: Zgjidhja algoritmike e një problemi",
+    "term": "Testim algoritmi",
+    "definition": "Testimi kontrollon algoritmin me raste të zgjedhura dhe krahason rezultatin me pritjen.",
+    "body": "Krijo një procedurë për të gjetur më të madhin nga tre numra. Mbaj si kandidat numrin e parë; krahasoje me të dytin dhe të tretin. Kjo të shmang numërimin e shumë rasteve veçmas.",
+    "extra": "Testet e suksesshme rrisin besimin, por nuk provojnë vetvetiu se nuk ka asnjë gabim.",
+    "steps": [
+      "Shkruaj hyrjet a, b, c.",
+      "Vendos kandidatin baras me a.",
+      "Nëse b është më i madh, ndrysho kandidatin.",
+      "Bëj të njëjtën gjë me c.",
+      "Provo 3, 8, 5 dhe 7, 7, 2.",
+      "Ruaj hapat dhe provat në K07/algoritmi.odt."
+    ],
+    "product": "Rezultatet janë 8 dhe 7; dokumenti tregon edhe krahasimet.",
+    "question": "Çfarë testi tjetër do të shtoje?",
+    "refs": [
+      "thinkpython",
+      "csfg"
+    ]
+  },
+  {
+    "id": "8.1",
+    "title": "Çfarë është programimi?",
+    "term": "Programim",
+    "definition": "Programimi është shkrimi dhe kontrollimi i udhëzimeve që një kompjuter mund të ekzekutojë.",
+    "body": "Fillimisht përcakto detyrën, pastaj ndërto zgjidhjen dhe testo rezultatin. Programimi përfshin edhe gjetjen e gabimeve dhe përmirësimin e udhëzimeve. Në këtë kapitull fillon me blloqe dhe provon pak kod Python.",
+    "extra": "Kompjuteri ekzekuton udhëzimet sipas gjuhës së programimit; ai nuk e merr me mend qëllimin tënd.",
+    "steps": [
+      "Zgjidh një objekt që duhet të lëvizë në ekran.",
+      "Shkruaj çfarë e nis lëvizjen.",
+      "Përcakto drejtimin.",
+      "Përcakto kur ndalet.",
+      "Krahaso planin me një shok."
+    ],
+    "product": "Një plan i vogël që mund të kthehet në program.",
+    "question": "Cila pjesë e planit është ende e paqartë?",
+    "refs": [
+      "creative",
+      "k12cs"
+    ]
+  },
+  {
+    "id": "8.2",
+    "title": "Programi, programuesi dhe gjuha programuese",
+    "term": "Gjuhë programuese",
+    "definition": "Gjuha programuese ka rregulla për shprehjen e udhëzimeve të një programi.",
+    "body": "Programuesi krijon programin në një gjuhë të caktuar. Scratch përdor blloqe që lidhen, ndërsa Python përdor tekst. Të dyja lejojnë sekuenca, kushte dhe përsëritje, megjithëse i shprehin ndryshe.",
+    "extra": "Një gjuhë e përshtatshme zgjidhet sipas detyrës dhe mjedisit; nuk ka një gjuhë të vetme më të mirë për çdo punë.",
+    "steps": [
+      "Shkruaj një detyrë që do të programosh.",
+      "Nënvizo veprimet kryesore.",
+      "Dallo programin nga personi që e shkruan.",
+      "Përmend një gjuhë me blloqe dhe një me tekst.",
+      "Shpjego pse po fillojmë me blloqe."
+    ],
+    "product": "Përdor saktë fjalët program, programues dhe gjuhë.",
+    "question": "A është një skedar me udhëzime gjithmonë program i ekzekutueshëm?",
+    "refs": [
+      "creative",
+      "thinkpython"
+    ]
+  },
+  {
+    "id": "8.3",
+    "title": "Gjuhët vizuale dhe gjuhët tekstuale",
+    "term": "Blloqe dhe tekst",
+    "definition": "Në programimin vizual udhëzimet mund të ndërtohen me blloqe; në programimin tekstual shkruhen sipas një sintakse.",
+    "body": "Blloqet ndihmojnë të shohësh strukturën dhe kufizojnë disa gabime lidhjeje. Në tekst duhet të kujdesesh edhe për shenjat dhe hapësirat. Në të dy rastet logjika mund të jetë e gabuar.",
+    "extra": "Një program që ekzekutohet pa mesazh gabimi mund të japë rezultat të pasaktë.",
+    "steps": [
+      "Shkruaj me fjalë: thuaj Përshëndetje.",
+      "Gjej bllokun say në Scratch.",
+      "Shiko shembullin print(\"Përshëndetje\") në Python.",
+      "Krahaso qëllimin e dy udhëzimeve.",
+      "Shëno një dallim në paraqitje."
+    ],
+    "product": "Dallon paraqitjen nga kuptimi i veprimit.",
+    "question": "Pse blloqet nuk i heqin të gjitha gabimet?",
+    "refs": [
+      "creative",
+      "thinkpython"
+    ]
+  },
+  {
+    "id": "8.4",
+    "title": "Mjedisi i programimit Scratch",
+    "term": "Mjedis Scratch",
+    "definition": "Scratch është një mjedis ku krijon tregime, lojëra dhe animacione me blloqe.",
+    "body": "Përdor aplikacionin e instaluar ose editorin në scratch.mit.edu. Mund të punosh dhe ta ruash projektin në kompjuter pa e publikuar. Nëse shfletuesi nuk hap editorin, përdor aplikacionin me ndihmën e mësimdhënësit.",
+    "extra": "Ruajtja në kompjuter dhe publikimi në internet janë veprime të ndryshme. Për këtë aktivitet mjafton skedari lokal.",
+    "steps": [
+      "Hap Scratch.",
+      "Zgjidh Create në faqen zyrtare ose një projekt të ri në aplikacion.",
+      "Gjej paletën e blloqeve, zonën e kodit dhe skenën.",
+      "Zgjidh File > Save to your computer.",
+      "Ruaje si K08/prova.sb3."
+    ],
+    "product": "Një skedar .sb3 që rihapet në Scratch.",
+    "question": "Ku gjendet kopja e projektit pasi e ruan?",
+    "refs": [
+      "creative",
+      "scratchbook"
+    ]
+  },
+  {
+    "id": "8.5",
+    "title": "Objektet, skena dhe blloqet programuese",
+    "term": "Objekt dhe skenë",
+    "definition": "Objekti, ose sprite, është një element i programueshëm; skena është hapësira ku shfaqet projekti.",
+    "body": "Çdo objekt ka kodin e vet dhe mund të ketë kostume të ndryshme. Skena mund të ketë sfonde. Para se të shtosh kod, kontrollo cilin objekt ke përzgjedhur.",
+    "extra": "Kodi i vendosur te objekti i gabuar mund të jetë i saktë, por të mos veprojë aty ku prisje.",
+    "steps": [
+      "Hap projektin prova.sb3.",
+      "Zgjidh objektin ekzistues.",
+      "Ndrysho emrin në Personazhi.",
+      "Shto një sfond nga biblioteka e Scratch.",
+      "Kliko sërish Personazhi dhe ruaj projektin."
+    ],
+    "product": "Një objekt i emërtuar dhe një sfond i zgjedhur.",
+    "question": "Si e kupton cili objekt është aktiv?",
+    "refs": [
+      "creative",
+      "scratchbook"
+    ]
+  },
+  {
+    "id": "8.6",
+    "title": "Komandat dhe sekuencat",
+    "term": "Sekuencë blloqesh",
+    "definition": "Blloqet e lidhura ekzekutohen sipas rendit të tyre pas ngjarjes që i nis.",
+    "body": "Ndërto një program që përshëndet dhe pastaj lëviz. Blloku i nisjes është te Events, i të folurit te Looks dhe i lëvizjes te Motion. Emrat këtu janë në ndërfaqen anglisht.",
+    "extra": "Blloqet e shkëputura nuk bëhen automatikisht pjesë e të njëjtit program.",
+    "steps": [
+      "Vendos when green flag clicked.",
+      "Lidhe me say Përshëndetje for 2 seconds.",
+      "Shto move 20 steps.",
+      "Kliko flamurin e gjelbër.",
+      "Ndrysho rendin e dy veprimeve dhe provo përsëri."
+    ],
+    "product": "Vëren dallimin kur lëvizja kryhet para përshëndetjes.",
+    "question": "Si ndikon rendi te ajo që sheh përdoruesi?",
+    "refs": [
+      "creative",
+      "scratchbook"
+    ]
+  },
+  {
+    "id": "8.7",
+    "title": "Koordinatat dhe lëvizja e objekteve",
+    "term": "Koordinata",
+    "definition": "Koordinatat x dhe y përcaktojnë pozicionin e objektit në skenë.",
+    "body": "Në skenën standarde të Scratch, qendra ka x = 0 dhe y = 0. X rritet djathtas dhe y lart. Kufijtë e skenës standarde janë x nga −240 në 240 dhe y nga −180 në 180.",
+    "extra": "Objekti mund të shkojë pjesërisht jashtë skenës. Pozicioni i tij nuk është i njëjtë me skajin e kostumit.",
+    "steps": [
+      "Shto go to x:0 y:0 pas flamurit.",
+      "Provo x:100 y:0.",
+      "Provo x:0 y:100.",
+      "Shkruaj çfarë ndryshoi në secilin rast.",
+      "Ktheje objektin në qendër dhe ruaj."
+    ],
+    "product": "Dallon lëvizjen horizontale nga ajo vertikale.",
+    "question": "Çfarë pritet të ndodhë me x = −100?",
+    "refs": [
+      "creative",
+      "scratchbook"
+    ]
+  },
+  {
+    "id": "8.8",
+    "title": "Ngjarjet dhe ndërveprimi",
+    "term": "Ngjarje",
+    "definition": "Ngjarja është diçka që mund të nisë një pjesë të programit, si klikimi ose shtypja e një tasti.",
+    "body": "Në një projekt ndërveprues, përdoruesi ndikon te veprimi. Mund të përdorësh shigjetën djathtas për lëvizje djathtas dhe shigjetën majtas për drejtimin tjetër.",
+    "extra": "Një projekt mund të ketë disa programe që nisen nga ngjarje të ndryshme.",
+    "steps": [
+      "Vendos when right arrow key pressed.",
+      "Lidh change x by 10.",
+      "Krijo një nisje when left arrow key pressed.",
+      "Lidh change x by −10.",
+      "Provo të dy tastet dhe ruaj si levizja.sb3."
+    ],
+    "product": "Objekti përgjigjet në të dy drejtimet.",
+    "question": "Çfarë ndodh nëse të dy blloqet ndryshojnë x me 10?",
+    "refs": [
+      "creative",
+      "scratchbook"
+    ]
+  },
+  {
+    "id": "8.9",
+    "title": "Përdorimi i variablave",
+    "term": "Variabël në Scratch",
+    "definition": "Një variabël në Scratch ruan një vlerë që programi mund ta lexojë dhe ta ndryshojë.",
+    "body": "Krijo një numërues pikësh. Vendose në zero kur fillon projekti, në mënyrë që çdo provë të nisë nga e njëjta gjendje. Pastaj ndryshoje me një ngjarje të thjeshtë.",
+    "extra": "Pa rivendosje, provat mund të nisin me pikët e provës së mëparshme.",
+    "steps": [
+      "Te Variables zgjidh Make a Variable.",
+      "Emërtoje piket.",
+      "Pas flamurit vendos set piket to 0.",
+      "Te when this sprite clicked lidh change piket by 1.",
+      "Kliko flamurin dhe objektin tri herë."
+    ],
+    "product": "Numëruesi tregon 3 dhe kthehet në 0 kur nis sërish.",
+    "question": "Pse rivendosja është pjesë e programit?",
+    "refs": [
+      "creative",
+      "scratchbook"
+    ]
+  },
+  {
+    "id": "8.10",
+    "title": "Kushtet dhe vendimmarrja",
+    "term": "Kusht në Scratch",
+    "definition": "Blloku if kontrollon një kusht dhe ekzekuton blloqet brenda kur kushti është i vërtetë.",
+    "body": "Përdor një kontroll pas ndryshimit të pikëve. Kur pikët kalojnë 2, personazhi mund të thotë “Arrite tri pikë!”. Provoje edhe para arritjes së kufirit.",
+    "extra": "Nëse e kontrollon kushtin para ndryshimit, njoftimi mund të shfaqet një klikim më vonë.",
+    "steps": [
+      "Hap numëruesin e njësisë 8.9.",
+      "Pas change piket by 1 shto if.",
+      "Vendos kushtin piket > 2 nga Operators.",
+      "Brenda vendos say Arrite tri pikë! for 2 seconds.",
+      "Provo me 1, 2 dhe 3 klikime."
+    ],
+    "product": "Mesazhi shfaqet nga klikimi i tretë.",
+    "question": "A do të ndryshonte rezultati me kushtin piket > 3?",
+    "refs": [
+      "creative",
+      "scratchbook"
+    ]
+  },
+  {
+    "id": "8.11",
+    "title": "Ciklet dhe përsëritjet",
+    "term": "Cikël në Scratch",
+    "definition": "Blloku repeat përsërit përmbajtjen një numër herësh; forever e përsërit derisa programi ndalet.",
+    "body": "Për të parë lëvizjen, shto një pritje të shkurtër brenda ciklit. Pa të, disa veprime ndodhin shumë shpejt për t'u dalluar. Butoni i kuq ndalon projektin.",
+    "extra": "Koha e një animacioni mund të varet edhe nga pajisja dhe ngarkesa e programit.",
+    "steps": [
+      "Nis me flamurin dhe go to x:0 y:0.",
+      "Shto repeat 10.",
+      "Brenda vendos move 10 steps dhe wait 0.1 seconds.",
+      "Provoje.",
+      "Krahaso pozicionin fillestar dhe përfundimtar."
+    ],
+    "product": "Me drejtim djathtas, x rritet gjithsej me 100.",
+    "question": "Çfarë ndryshon nëse pritja është jashtë ciklit?",
+    "refs": [
+      "creative",
+      "scratchbook"
+    ]
+  },
+  {
+    "id": "8.12",
+    "title": "Zëri, teksti dhe animacioni",
+    "term": "Animacion",
+    "definition": "Animacioni krijon përshtypjen e lëvizjes përmes ndryshimeve të njëpasnjëshme të pamjes.",
+    "body": "Në Scratch mund të ndryshosh kostumin, pozicionin dhe tekstin. Përdor tingujt e bibliotekës ose material që ke të drejtë ta përdorësh. Mos regjistro zërin e një personi pa leje.",
+    "extra": "Më shumë tinguj dhe lëvizje nuk e bëjnë domosdoshmërisht më të qartë tregimin.",
+    "steps": [
+      "Zgjidh një objekt me dy kostume.",
+      "Pas flamurit shto repeat 6.",
+      "Brenda vendos next costume dhe wait 0.3 seconds.",
+      "Shto një fjali të shkurtër me say.",
+      "Ruaj si animacioni.sb3 dhe provoje me tingull të ulët."
+    ],
+    "product": "Një animacion i shkurtër me qëllim të qartë.",
+    "question": "Cila pjesë e animacionit e ndihmon mesazhin?",
+    "refs": [
+      "creative",
+      "scratchbook"
+    ]
+  },
+  {
+    "id": "8.13",
+    "title": "Gjetja dhe korrigjimi i gabimeve",
+    "term": "Korrigjim gabimesh",
+    "definition": "Korrigjimi i gabimeve, ose debugging, është gjetja e shkakut të sjelljes së gabuar dhe përmirësimi i programit.",
+    "body": "Përshkruaj çfarë prisje dhe çfarë ndodhi. Kontrollo objektin, ngjarjen e nisjes, rendin dhe vlerat. Ndrysho një gjë në çdo provë që të kuptosh ndikimin e saj.",
+    "extra": "Ndryshimi i shumë blloqeve njëherësh e vështirëson gjetjen e shkakut.",
+    "steps": [
+      "Krijo një kopje të projektit.",
+      "Ndrysho qëllimisht lëvizjen majtas në +10.",
+      "Provoje dhe përshkruaj gabimin.",
+      "Ktheje vlerën në −10.",
+      "Regjistro problemin, shkakun dhe provën pas korrigjimit."
+    ],
+    "product": "Një shënim i shkurtër që dokumenton një gabim të zgjidhur.",
+    "question": "Pse duhet ta riprovosh pas ndryshimit?",
+    "refs": [
+      "creative",
+      "ctteacher"
+    ]
+  },
+  {
+    "id": "8.14",
+    "title": "Planifikimi i një loje të thjeshtë",
+    "term": "Plan loje",
+    "definition": "Plani i lojës përshkruan qëllimin, rregullat, kontrollet dhe mënyrën e përfundimit.",
+    "body": "Për një lojë të parë mjafton një objekt që klikohet dhe një numërues. Vendos një qëllim të arritshëm, si pesë klikime. Përcakto si njoftohet përdoruesi dhe si rifillon loja.",
+    "extra": "Mos shto shumë rregulla në fillim. Së pari ndërto një version të vogël që funksionon.",
+    "steps": [
+      "Shkruaj emrin e lojës.",
+      "Përshkruaj qëllimin me një fjali.",
+      "Cakto çfarë bën klikimi.",
+      "Cakto kur përfundon.",
+      "Shkruaj tre raste prove, përfshirë rifillimin."
+    ],
+    "product": "Një plan dhe tre prova përpara ndërtimit.",
+    "question": "Si do ta kuptojë lojtari çfarë duhet të bëjë?",
+    "refs": [
+      "creative",
+      "pygames"
+    ]
+  },
+  {
+    "id": "8.15",
+    "title": "Projekt praktik: Animacion ose lojë në Scratch",
+    "term": "Projekt Scratch",
+    "definition": "Një projekt i përfunduar lidh planin, programin dhe provat e tij.",
+    "body": "Ndërto lojën e pesë klikimeve. Ajo duhet të nisë nga zero, të numërojë vetëm deri në pesë dhe të japë njoftim. Mund ta krahasosh me skedarin e gatshëm në paketën e aktiviteteve.",
+    "extra": "Një skedar që hapet nuk provon se loja i zbaton të gjitha rregullat. Provo edhe klikimin e gjashtë.",
+    "steps": [
+      "Krijo piket dhe vendose 0 pas flamurit.",
+      "Te klikimi vendos if piket < 5.",
+      "Brenda shto 1 te piket.",
+      "Kontrollo nëse piket = 5 dhe shfaq mesazhin U krye!",
+      "Provo 0, 5 dhe 6 klikime, pastaj rifillo.",
+      "Ruaj si K08/loja_ime.sb3."
+    ],
+    "product": "Numri ndalet në 5 dhe rifillimi e kthen në 0.",
+    "question": "A funksionon edhe pas disa rifillimeve?",
+    "refs": [
+      "creative",
+      "scratchbook"
+    ]
+  },
+  {
+    "id": "8.16",
+    "title": "Hyrje në programimin tekstual",
+    "term": "Kod tekstual",
+    "definition": "Kodi tekstual përbëhet nga udhëzime të shkruara sipas rregullave të gjuhës programuese.",
+    "body": "Në Thonny mund të shkruash dhe të ekzekutosh Python në të njëjtën dritare. Funksioni print paraqet tekst ose vlera. Thonjëzat dallojnë tekstin nga emrat e variablave.",
+    "extra": "Kopjo vetëm kodin, pa shenjat që e rrethojnë në shpjegim. Ruaje me prapashtesën .py.",
+    "steps": [
+      "Hap Thonny.",
+      "Krijo një skedar të ri.",
+      "Shkruaj print(\"Përshëndetje, klasa VI!\").",
+      "Ruaje si K08/pershendetje.py.",
+      "Kliko Run ose shtyp F5 dhe lexo daljen."
+    ],
+    "product": "Në Shell shfaqet fjalia e shkruar brenda thonjëzave.",
+    "question": "Çfarë ndodh nëse ndryshon vetëm tekstin?",
+    "refs": [
+      "thinkpython",
+      "thonnydocs"
+    ]
+  },
+  {
+    "id": "8.17",
+    "title": "Elementet themelore të një programi në Python",
+    "term": "Shprehje dhe variabël në Python",
+    "definition": "Python mund të ruajë vlera në variabla dhe të llogarisë shprehje me to.",
+    "body": "Provo tri rreshta: a = 6, b = 4 dhe print(a + b). Shkruaje secilin në rresht të veçantë. Shenja = i jep vlerë variablës; + mbledh numrat në këtë shembull.",
+    "extra": "Teksti \"6\" nuk është i njëjtë me numrin 6. Lloji i vlerës ndikon te veprimi.",
+    "steps": [
+      "Krijo një skedar të ri në Thonny.",
+      "Shkruaj a = 6.",
+      "Në rresht tjetër shkruaj b = 4.",
+      "Shto print(a + b).",
+      "Ruaje si shuma.py dhe ekzekutoje.",
+      "Ndrysho b në 9 dhe provo sërish."
+    ],
+    "product": "Daljet janë 10 dhe pastaj 15.",
+    "question": "Si mund ta shpjegosh dallimin mes emrit a dhe vlerës 6?",
+    "refs": [
+      "thinkpython",
+      "pythondocs"
+    ]
+  },
+  {
+    "id": "8.18",
+    "title": "Ekzekutimi dhe testimi i një kodi të gatshëm",
+    "term": "Provë e kodit",
+    "definition": "Një provë krahason daljen e programit me rezultatin që pret për hyrje të caktuara.",
+    "body": "Hap kodin e paketës dhe lexoje para ekzekutimit. Shembujt këtu kryejnë llogaritje lokale dhe nuk kërkojnë të dhëna personale. Parashiko rezultatin, ekzekuto dhe shpjego dallimet.",
+    "extra": "Mos ekzekuto kod nga burime të panjohura vetëm sepse premton një rezultat të dobishëm.",
+    "steps": [
+      "Hap K08/shuma.py nga paketa.",
+      "Lexo vlerat a dhe b.",
+      "Shkruaj rezultatin e pritur.",
+      "Ekzekuto me F5.",
+      "Provo edhe a = 0 dhe b = 8.",
+      "Ruaj tabelën e provave në K08/provat.odt."
+    ],
+    "product": "Për 6 dhe 4 del 10; për 0 dhe 8 del 8.",
+    "question": "Çfarë do të kontrollosh nëse dalja nuk përputhet?",
+    "refs": [
+      "thinkpython",
+      "gently"
+    ]
+  },
+  {
+    "id": "9.1",
+    "title": "Çfarë është Micro:bit-i?",
+    "term": "Micro:bit",
+    "definition": "Micro:bit është një pllakë e vogël e programueshme për të mësuar lidhjen mes kodit dhe botës fizike.",
+    "body": "Mund të paraqesë simbole, të lexojë butona dhe të përdorë sensorë. Për këtë kapitull mund të fillosh me simulatorin MakeCode. Kur ke pajisje fizike, identifiko versionin përpara përdorimit të veçorive të veçanta.",
+    "extra": "Simulatori ndihmon për provën e kodit, por nuk zëvendëson provat e baterisë, kabllos dhe sensorëve realë.",
+    "steps": [
+      "Shiko fotografinë reale të Micro:bit V2 në këtë kapitull.",
+      "Dallo pllakën nga paketimi.",
+      "Hap makecode.microbit.org.",
+      "Krijo një projekt të ri me emrin ProvaVI.",
+      "Gjej pajisjen e paraqitur në simulator."
+    ],
+    "product": "Një projekt që hapet në MakeCode edhe pa pllakë fizike.",
+    "question": "Çfarë mund të provosh në simulator dhe çfarë kërkon pajisjen?",
+    "refs": [
+      "physical",
+      "makecode",
+      "microtransfer"
+    ]
+  },
+  {
+    "id": "9.2",
+    "title": "Pjesët kryesore të Micro:bit-it",
+    "term": "Komponent",
+    "definition": "Komponenti është një pjesë që kryen një funksion brenda pajisjes.",
+    "body": "Micro:bit ka një kontrollues që ekzekuton programin, ekran LED, butona dhe lidhje. V2 ka gjithashtu mikrofon, altoparlant dhe logo të ndjeshme në prekje. Mos supozo se çdo version ka të njëjtat veçori.",
+    "extra": "Emri i produktit nuk mjafton për të njohur të gjitha pjesët; kontrollo versionin dhe dokumentacionin.",
+    "steps": [
+      "Vëzhgo pajisjen ose foton e saj.",
+      "Gjej portën USB dhe lidhësin e baterisë.",
+      "Gjej butonat A dhe B.",
+      "Krahaso pjesët me faqen zyrtare të Micro:bit.",
+      "Shkruaj një funksion për katër pjesë."
+    ],
+    "product": "Një tabelë pjesë–funksion pa hamendësuar pjesë të padukshme.",
+    "question": "Pse duhet kontrolluar versioni para programimit?",
+    "refs": [
+      "physical",
+      "microhardware"
+    ]
+  },
+  {
+    "id": "9.3",
+    "title": "Ekrani LED, butonat dhe pinët",
+    "term": "LED, buton dhe pin",
+    "definition": "LED-i jep dritë, butoni jep hyrje nga përdoruesi dhe pini mundëson lidhje elektrike të përshtatshme.",
+    "body": "Ekrani i Micro:bit ka 25 LED në një rrjetë 5 me 5. Unazat e mëdha përfshijnë 0, 1, 2, 3V dhe GND. Përdorimi i pinëve kërkon udhëzim për lidhje të sigurta.",
+    "extra": "Mos lidh drejtpërdrejt 3V me GND dhe mos lidh motor te pini pa qarkun e përshtatshëm. Aktiviteti këtu përdor vetëm ekranin dhe butonin.",
+    "steps": [
+      "Në MakeCode gjej on button A pressed.",
+      "Vendos brenda show icon dhe zgjidh zemrën.",
+      "Provo butonin A në simulator.",
+      "Ndrysho ikonën.",
+      "Ruaj projektin në kompjuter me Download."
+    ],
+    "product": "Butoni A shfaq simbolin e zgjedhur.",
+    "question": "Cila pjesë është hyrje dhe cila dalje?",
+    "refs": [
+      "physical",
+      "microsafety",
+      "microhardware"
+    ]
+  },
+  {
+    "id": "9.4",
+    "title": "Sensorët dhe mbledhja e të dhënave",
+    "term": "Sensor",
+    "definition": "Sensori zbulon një madhësi ose ndryshim dhe jep një sinjal që mund të përpunohet.",
+    "body": "Në Micro:bit mund të lexosh, për shembull, nivelin e dritës. Vlera e kthyer është tregues i pajisjes dhe nuk është automatikisht matje profesionale e ndriçimit. Në simulator ndryshon vetë vlerën hyrëse.",
+    "extra": "Shëno gjithmonë nëse të dhënat vijnë nga pajisja reale apo nga simulatori.",
+    "steps": [
+      "Te on button A pressed vendos show number.",
+      "Brenda tij vendos light level nga Input.",
+      "Ndrysho dritën në simulator.",
+      "Provo tri vlera dhe shëno daljet.",
+      "Emërto tabelën Vlera të simuluara të dritës."
+    ],
+    "product": "Tri prova të etiketuara qartë si simulim.",
+    "question": "Pse nuk duhet t'i paraqesësh këto vlera si matje të klasës?",
+    "refs": [
+      "physical",
+      "microinput"
+    ]
+  },
+  {
+    "id": "9.5",
+    "title": "Akselerometri, temperatura dhe busulla",
+    "term": "Matje dhe kufizime",
+    "definition": "Një lexim sensori duhet interpretuar duke njohur çfarë mat pajisja dhe sa i përshtatet detyrës.",
+    "body": "Akselerometri zbulon përshpejtimin. Busulla jep drejtim magnetik dhe mund të kërkojë kalibrim. Leximi i temperaturës lidhet me çipin dhe mund të shërbejë si përafrim i ambientit, por nuk është termometër mjekësor.",
+    "extra": "Mos përdor Micro:bit për të vendosur nëse dikush ka temperaturë. Aktiviteti është mësimor.",
+    "steps": [
+      "Në simulator provo bllokun temperature me show number.",
+      "Shëno njësinë gradë Celsius.",
+      "Provo compass heading dhe vëzhgo drejtimin.",
+      "Gjej ngjarjen on shake.",
+      "Shkruaj nga një kufizim për këto lexime."
+    ],
+    "product": "Dallon madhësinë e matur nga interpretimi i saj.",
+    "question": "Pse afërsia me një magnet mund ta ndryshojë busullën?",
+    "refs": [
+      "microinput",
+      "physical"
+    ]
+  },
+  {
+    "id": "9.6",
+    "title": "Lidhja e Micro:bit-it me kompjuterin",
+    "term": "Lidhje USB",
+    "definition": "Kablloja USB me të dhëna mund ta lidhë Micro:bit-in me kompjuterin për transferim programi.",
+    "body": "Disa kabllo shërbejnë vetëm për karikim dhe nuk transmetojnë të dhëna. Përdor kabllo e furnizim të përshtatshëm sipas dokumentacionit. Nëse nuk ke pajisje, vazhdo me simulatorin dhe shëno se transferimi fizik nuk u krye.",
+    "extra": "Mos e detyro lidhësin dhe mos prek qarkun me duar të lagura.",
+    "steps": [
+      "Me udhëzimin e mësimdhënësit kontrollo kabllon.",
+      "Lidhe pajisjen në portën e përshtatshme.",
+      "Shiko nëse shfaqet disku MICROBIT.",
+      "Nëse nuk shfaqet, kontrollo kabllon me mësimdhënësin.",
+      "Shëno rezultatin pa pretenduar transferim të suksesshëm kur nuk ndodhi."
+    ],
+    "product": "Identifikon lidhjen ose dokumenton pengesën.",
+    "question": "Si do ta dallosh problemin e kabllos nga ai i kodit?",
+    "refs": [
+      "microtransfer",
+      "microsafety"
+    ]
+  },
+  {
+    "id": "9.7",
+    "title": "Mjedisi i programimit MakeCode",
+    "term": "MakeCode",
+    "definition": "MakeCode është një mjedis ku ndërton, simulon dhe shkarkon programe për Micro:bit.",
+    "body": "Në editor gjen simulatorin, kategoritë e blloqeve dhe hapësirën e punës. Projektet e shfletuesit mund të humbin kur pastrohet ruajtja lokale; prandaj shkarko kopje të punës.",
+    "extra": "Emri i projektit në shfletues nuk garanton se ke një kopje rezervë.",
+    "steps": [
+      "Hap makecode.microbit.org.",
+      "Zgjidh New Project.",
+      "Emërtoje PershendetjeVI.",
+      "Gjej kategoritë Basic, Input dhe Logic.",
+      "Shkarko një kopje pasi të shtosh programin dhe ruaje në K09."
+    ],
+    "product": "Një projekt i emërtuar dhe një kopje lokale.",
+    "question": "Ku do ta ruash punën para pastrimit të shfletuesit?",
+    "refs": [
+      "makecode",
+      "microtransfer"
+    ]
+  },
+  {
+    "id": "9.8",
+    "title": "Programimi me blloqe",
+    "term": "Program me blloqe",
+    "definition": "Blloqet MakeCode përfaqësojnë udhëzime që mund të lidhen në një program.",
+    "body": "On start ekzekutohet në nisje. Forever përsërit blloqet e brendshme. Fillimisht përdor vetëm një ikonë, që ta kontrollosh lehtë nëse programi u ekzekutua.",
+    "extra": "Në një ekran 5 me 5 nuk shfaqet një faqe e plotë teksti. Teksti i gjatë zakonisht kalon me lëvizje.",
+    "steps": [
+      "Te Basic gjej show icon.",
+      "Vendose brenda on start.",
+      "Zgjidh zemrën.",
+      "Rinis simulatorin.",
+      "Ndrysho në një ikonë tjetër dhe shkarko kopjen."
+    ],
+    "product": "Në nisje shfaqet ikona që zgjodhe.",
+    "question": "Çfarë ndryshon nëse ikona vendoset në një ngjarje butoni?",
+    "refs": [
+      "makecode",
+      "physical"
+    ]
+  },
+  {
+    "id": "9.9",
+    "title": "Variablat, kushtet dhe përsëritjet në MakeCode",
+    "term": "Gjendje e programit",
+    "definition": "Gjendja përfshin vlerat që programi mban gjatë ekzekutimit.",
+    "body": "Krijo numëruesin piket. Butoni A e rrit, ndërsa B e kthen në zero. Paraqit numrin pas ndryshimit. Ky shembull lidh variablën, hyrjen dhe daljen në një sistem të vogël.",
+    "extra": "Nëse shfaq numrin vetëm në nisje, ekrani mund të mos pasqyrojë ndryshimet e mëvonshme.",
+    "steps": [
+      "Krijo variablën piket dhe vendose 0 te on start.",
+      "Te butoni A shto change piket by 1.",
+      "Pas tij shto show number piket.",
+      "Te butoni B vendos piket në 0 dhe shfaqe.",
+      "Provo A tri herë dhe pastaj B."
+    ],
+    "product": "Sheh 1, 2, 3 dhe pastaj 0.",
+    "question": "Ku do të vendosje një kufi prej pesë pikësh?",
+    "refs": [
+      "makecode",
+      "physical"
+    ]
+  },
+  {
+    "id": "9.10",
+    "title": "Testimi i programit në simulator",
+    "term": "Simulator",
+    "definition": "Simulatori është një program që paraqet disa sjellje të një pajisjeje për prova mësimore.",
+    "body": "Mund të klikosh butona ose të ndryshosh hyrje të simuluara. Mbaj një tabelë me veprimin, rezultatin e pritur dhe atë të vërejtur. Provo edhe rivendosjen e programit.",
+    "extra": "Një provë e suksesshme në simulator nuk provon sigurinë e një qarku fizik.",
+    "steps": [
+      "Hap numëruesin e njësisë 9.9.",
+      "Shkruaj pritjen për A, A dhe B.",
+      "Ekzekuto këto veprime.",
+      "Krahaso daljet me 1, 2 dhe 0.",
+      "Ruaj shënimin K09/provat_simulatorit.odt."
+    ],
+    "product": "Një regjistër provash që dallon pritjen nga vëzhgimi.",
+    "question": "Cilat prova do të mbeteshin për pajisjen reale?",
+    "refs": [
+      "makecode",
+      "microtransfer"
+    ]
+  },
+  {
+    "id": "9.11",
+    "title": "Transferimi i programit në Micro:bit",
+    "term": "Transferim programi",
+    "definition": "Transferimi e vendos programin e përgatitur në pajisjen që do ta ekzekutojë.",
+    "body": "MakeCode mund të shkarkojë skedar .hex. Një mënyrë transferimi është kopjimi i tij në diskun MICROBIT. Shfletues të përshtatshëm mund të mbështesin edhe lidhjen e drejtpërdrejtë me pajisjen.",
+    "extra": "Mos e shkëput pajisjen gjatë transferimit. Në mungesë të pajisjes, ruaj .hex dhe shëno se prova fizike mbetet për më vonë.",
+    "steps": [
+      "Shkarko programin me Download.",
+      "Ruaje skedarin në K09.",
+      "Lidh Micro:bit-in me kabllo të dhënash.",
+      "Kopjo .hex në diskun MICROBIT.",
+      "Prit përfundimin dhe provo butonin.",
+      "Shëno rezultatin real të vëzhguar."
+    ],
+    "product": "Programi provohet në pajisje ose dokumentohet qartë kufizimi.",
+    "question": "Pse duhet ta provosh sërish pas transferimit?",
+    "refs": [
+      "microtransfer",
+      "microsafety"
+    ]
+  },
+  {
+    "id": "9.12",
+    "title": "Çfarë është roboti?",
+    "term": "Robot",
+    "definition": "Roboti është një mekanizëm i programueshëm me elemente që mund të veprojnë fizikisht për të kryer detyra.",
+    "body": "Shumë robotë përdorin sensorë, kontrollues dhe aktuatorë. Jo çdo robot përdor AI. Një robot mund të ndjekë udhëzime të përcaktuara paraprakisht dhe prapë të kryejë punë të dobishme.",
+    "extra": "Një fotografi e robotit nuk tregon vetvetiu si merret vendimi brenda tij.",
+    "steps": [
+      "Zgjidh një robot të dokumentuar në një burim të besueshëm.",
+      "Shëno detyrën që kryen.",
+      "Identifiko një hyrje dhe një veprim fizik nëse burimi i tregon.",
+      "Shëno burimin.",
+      "Lër të hapur çdo pjesë që burimi nuk e sqaron."
+    ],
+    "product": "Një përshkrim me burim dhe pa karakteristika të hamendësuara.",
+    "question": "Çfarë prove do të kërkoje për të thënë se roboti përdor AI?",
+    "refs": [
+      "robotics",
+      "aistudents"
+    ]
+  },
+  {
+    "id": "9.13",
+    "title": "Sensorët, kontrolluesit dhe motorët",
+    "term": "Sensor–kontrollues–aktuator",
+    "definition": "Sensori jep hyrje, kontrolluesi përpunon udhëzimet dhe aktuatori kryen një veprim fizik.",
+    "body": "Te një model rampe, butoni mund të kërkojë hapjen, kontrolluesi vendos sipas kodit dhe motori e lëviz krahun. Motori kërkon furnizim dhe drejtim të përshtatshëm; nuk lidhet pa kontroll te pini.",
+    "extra": "Aktiviteti në këtë libër përdor simbol në ekran si zëvendësim të lëvizjes së motorit.",
+    "steps": [
+      "Vizato tri kuti: hyrja, kontrolli, veprimi.",
+      "Vendos butonin te hyrja.",
+      "Vendos programin te kontrolli.",
+      "Vendos rampën te veprimi.",
+      "Shpjego çfarë përfaqëson ikona në simulator."
+    ],
+    "product": "Një përshkrim i qartë i pjesëve dhe lidhjeve.",
+    "question": "Cila pjesë mungon fizikisht në simulimin tonë?",
+    "refs": [
+      "robotics",
+      "physical",
+      "microsafety"
+    ]
+  },
+  {
+    "id": "9.14",
+    "title": "Dallimi ndërmjet robotit dhe makinës automatike",
+    "term": "Automatizim",
+    "definition": "Automatizimi kryen veprime sipas një sistemi kontrolli me më pak ndërhyrje të vazhdueshme njerëzore.",
+    "body": "Një dritë që ndizet me kohëmatës është shembull automatizimi. Një robot industrial mund të jetë pjesë e një procesi të automatizuar. Termat lidhen, por nuk janë të njëjtë.",
+    "extra": "As sensori, as lidhja me internetin nuk provojnë se pajisja përdor inteligjencë artificiale.",
+    "steps": [
+      "Shkruaj shembullin e një kohëmatësi për dritë.",
+      "Shkruaj shembullin e një krahu robotik të programuar.",
+      "Krahaso veprimin fizik të tyre.",
+      "Identifiko rregullin e kontrollit.",
+      "Shëno cilat të dhëna mungojnë për të vlerësuar përdorimin e AI-së."
+    ],
+    "product": "Dallon automatizimin, robotin dhe pretendimin për AI.",
+    "question": "Pse duhet të dish si përpunohet hyrja para klasifikimit?",
+    "refs": [
+      "robotics",
+      "aistudents"
+    ]
+  },
+  {
+    "id": "9.15",
+    "title": "Robotët në shtëpi, shkollë, industri dhe mjekësi",
+    "term": "Zbatim robotik",
+    "definition": "Zbatimi robotik është përdorimi i një roboti për një detyrë në një mjedis të caktuar.",
+    "body": "Robotët mund të përdoren për pastrim, mësim, prodhim ose asistim në procedura mjekësore. Niveli i autonomisë ndryshon. Një sistem kirurgjikal i drejtuar nga profesionisti nuk është mjek që vendos vetë.",
+    "extra": "Mos ia atribuo një modeli funksionet e një modeli tjetër. Përdor emrin dhe dokumentacionin e saktë.",
+    "steps": [
+      "Zgjidh një fushë përdorimi.",
+      "Gjej me mësimdhënësin një burim të prodhuesit ose institucioni.",
+      "Shëno emrin e pajisjes.",
+      "Përshkruaj vetëm një detyrë të dokumentuar.",
+      "Shto një kufizim që burimi e shpjegon."
+    ],
+    "product": "Një kartelë me emër, detyrë, kufizim dhe burim.",
+    "question": "Kush e kontrollon ose mbikëqyr veprimin në këtë shembull?",
+    "refs": [
+      "robotics",
+      "safety"
+    ]
+  },
+  {
+    "id": "9.16",
+    "title": "Siguria dhe përgjegjësia në robotikë",
+    "term": "Siguri në robotikë",
+    "definition": "Siguria kërkon që rreziqet nga lëvizja, energjia dhe përdorimi të identifikohen para provës.",
+    "body": "Për modele të vogla, mbaj duart larg pjesëve në lëvizje dhe kontrollo lidhjet me mësimdhënësin. Mos ndrysho qarkun kur është i furnizuar. Në simulator nuk ka motor real, por kjo nuk e heq nevojën për plan sigurie para ndërtimit.",
+    "extra": "Nxënësi nuk punon me tensionin e rrjetit elektrik. Projektet këtu janë modele mësimore.",
+    "steps": [
+      "Shkruaj cilat pjesë do të lëviznin në model.",
+      "Shëno ku mund të kapet një gisht.",
+      "Përcakto si ndalet sistemi.",
+      "Kërko kontrollin e mësimdhënësit para lidhjes fizike.",
+      "Regjistro nëse prova është vetëm në simulator."
+    ],
+    "product": "Një plan i shkurtër sigurie dhe kufijtë e provës.",
+    "question": "Pse butoni i ndalimit duhet të jetë i arritshëm?",
+    "refs": [
+      "microsafety",
+      "robotics"
+    ]
+  },
+  {
+    "id": "9.17",
+    "title": "Projekt praktik: Semafori inteligjent",
+    "term": "Model semafori",
+    "definition": "Modeli i semaforit përdor gjendje të renditura për të paraqitur një cikël kontrolli.",
+    "body": "Përdor numrat 1, 2, 3 për fazat e modelit dhe përcakto legjendën në fletore. Ekrani i Micro:bit nuk ka LED me tri ngjyra. Ky projekt automatik nuk përdor model AI dhe nuk është sistem për rrugë reale.",
+    "extra": "Fjala “inteligjent” në emërtimin e projektit nuk provon përdorimin e AI-së. Këtu zbatohet një sekuencë e paracaktuar.",
+    "steps": [
+      "Te forever vendos show number 1 dhe pause 2000 ms.",
+      "Shto show number 2 dhe pause 1000 ms.",
+      "Shto show number 3 dhe pause 2000 ms.",
+      "Shkruaj çfarë përfaqëson secili numër.",
+      "Provo rendin në simulator.",
+      "Ruaj si K09/semafori.hex."
+    ],
+    "product": "Një cikël 1–2–3 me legjendë të qartë; pajisja mbetet model mësimor.",
+    "question": "Si do ta ndryshoje modelin për të përfshirë kërkesën e këmbësorit?",
+    "refs": [
+      "makecode",
+      "physical"
+    ]
+  },
+  {
+    "id": "9.18",
+    "title": "Projekt praktik: Shtëpia e sigurt ose rampa e parkingut",
+    "term": "Model rampe",
+    "definition": "Modeli i rampës paraqet dy gjendje, hapur dhe mbyllur, që ndryshojnë nga hyrjet.",
+    "body": "Butoni A hap modelin dhe B e mbyll. Ikona përfaqëson gjendjen; nuk po lëvizim motor real. Një rampë reale kërkon sensorë pengesash, ndalim dhe verifikim profesional të sigurisë.",
+    "extra": "Ky projekt nuk është pajisje sigurie dhe nuk përdoret për hyrje reale në parking.",
+    "steps": [
+      "Te on start shfaq ikonën X për mbyllur.",
+      "Te butoni A shfaq shenjën e kontrollit për hapur.",
+      "Te butoni B shfaq sërish X.",
+      "Provo rendin A, B, A.",
+      "Ruaje si K09/rampa.hex.",
+      "Shkruaj dy masa që do të kërkonte një pajisje reale."
+    ],
+    "product": "Simulimi ndryshon gjendjen sipas butonit dhe dokumenton kufizimet.",
+    "question": "Çfarë duhet të ndodhë në një rampë reale kur ka pengesë?",
+    "refs": [
+      "makecode",
+      "robotics",
+      "microsafety"
+    ]
+  },
+  {
+    "id": "10.1",
+    "title": "Çfarë është Inteligjenca Artificiale?",
+    "term": "Inteligjencë artificiale",
+    "definition": "Inteligjenca artificiale, shkurt AI, përfshin sisteme që përpunojnë hyrje për të nxjerrë parashikime, përmbajtje, rekomandime ose vendime për detyra të caktuara.",
+    "body": "Një sistem mund të dallojë modele në të dhëna ose të përdorë njohuri e rregulla të përfaqësuara. Kjo nuk do të thotë se mendon, kupton ose ndien si njeriu. Përshkruaj detyrën konkrete dhe provat për aftësinë e tij.",
+    "extra": "Një sistem nuk bëhet AI vetëm sepse ka sensorë, përdor internetin ose paraqet grafikë. Duhet të dimë çfarë përpunimi kryen dhe si merret rezultati.",
+    "steps": [
+      "Zgjidh një shembull të dokumentuar nga mësimdhënësi.",
+      "Shkruaj çfarë hyrjeje merr.",
+      "Shkruaj çfarë daljeje jep.",
+      "Gjej si prodhohet dalja sipas burimit.",
+      "Shëno çfarë nuk mund të verifikosh."
+    ],
+    "product": "Një përshkrim hyrje–përpunim–dalje pa pretendime të pambështetura.",
+    "question": "Pse një pajisje me internet nuk është domosdoshmërisht AI?",
+    "refs": [
+      "aistudents",
+      "long"
+    ]
+  },
+  {
+    "id": "10.2",
+    "title": "Dallimi ndërmjet programit tradicional dhe AI-së",
+    "term": "Rregull dhe model",
+    "definition": "Një rregull i përcaktuar dhe një model i trajnuar janë dy mënyra të ndryshme për të prodhuar rezultate.",
+    "body": "Një program mund të ndezë dritën kur leximi është nën një kufi të shkruar nga programuesi. Një model i trajnuar mund të mësojë nga shembuj të etiketuar. Jo çdo AI mëson nga të dhënat; ekzistojnë edhe qasje të bazuara në njohuri dhe arsyetim.",
+    "extra": "Mos e barazo çdo kusht if me AI dhe mos e kufizo gjithë AI-në vetëm te mësimi makinerik.",
+    "steps": [
+      "Shkruaj rregullin Nëse drita është nën 30, ndiz simbolin.",
+      "Trego kush e caktoi 30.",
+      "Përshkruaj një detyrë që përdor shembuj të etiketuar.",
+      "Krahaso si përcaktohet rezultati.",
+      "Shëno një kufizim të secilës mënyrë."
+    ],
+    "product": "Një krahasim mes rregullit të shkruar dhe modelit të trajnuar.",
+    "question": "Çfarë duhet ndryshuar kur kufiri 30 nuk i përshtatet ambientit?",
+    "refs": [
+      "aistudents",
+      "primaryai"
+    ]
+  },
+  {
+    "id": "10.3",
+    "title": "Si mëson një sistem inteligjent?",
+    "term": "Trajnim",
+    "definition": "Trajnimi është procesi në të cilin një model përshtatet duke përdorur të dhëna dhe një mënyrë për të vlerësuar rezultatin.",
+    "body": "Mendo kartela me forma dhe etiketa. Për një veprimtari në klasë, mund të përdorësh disa për të zbuluar një rregull dhe të tjera për ta kontrolluar. Kjo është analogji mësimore; renditja e kartelave nga nxënësi nuk është vetë trajnim kompjuterik.",
+    "extra": "Shembujt e përdorur për provë duhet të dallohen nga ata që ndihmuan ndërtimin e zgjidhjes.",
+    "steps": [
+      "Vizato tetë kartela me forma.",
+      "Përdor gjashtë për të propozuar një rregull grupimi.",
+      "Mbaj dy veçmas.",
+      "Kontrollo rregullin me dy kartelat e mbetura.",
+      "Shëno çfarë mësove nga një gabim."
+    ],
+    "product": "Një ndarje e qartë mes shembujve për mësim dhe për provë.",
+    "question": "Pse nuk mjafton ta kontrollosh zgjidhjen vetëm me shembujt e njohur?",
+    "refs": [
+      "aistudents",
+      "primaryai"
+    ]
+  },
+  {
+    "id": "10.4",
+    "title": "Roli i të dhënave në Inteligjencën Artificiale",
+    "term": "Të dhëna trajnimi",
+    "definition": "Të dhënat e trajnimit janë shembujt që përdoren gjatë përshtatjes së një modeli.",
+    "body": "Cilësia, larmia dhe etiketimi ndikojnë te modeli. Nëse shembujt nuk e përfaqësojnë detyrën, rezultatet mund të jenë të dobëta në raste të reja. Më shumë të dhëna nuk e zgjidhin automatikisht çdo problem.",
+    "extra": "Mos përdor fotografi të shokëve ose informacione personale për të krijuar një koleksion trajnimi në këtë aktivitet.",
+    "steps": [
+      "Krijo në letër dhjetë forma pa të dhëna personale.",
+      "Jepu etiketa rreth ose katror.",
+      "Kontrollo nëse një etiketë është gabim.",
+      "Shto ndryshime madhësie dhe pozicioni.",
+      "Shpjego pse larmia mund të ndihmojë provën."
+    ],
+    "product": "Një koleksion kartelash i kontrolluar dhe i etiketuar.",
+    "question": "Çfarë ndodh kur etiketa është e pasaktë?",
+    "refs": [
+      "aistudents",
+      "unicef"
+    ]
+  },
+  {
+    "id": "10.5",
+    "title": "Njohja e figurave, zërit dhe tekstit",
+    "term": "Njohje modeli",
+    "definition": "Njohja e modeleve kërkon ngjashmëri në të dhëna për të mbështetur një detyrë.",
+    "body": "Sisteme të ndryshme mund të njohin tekst në imazh, të kthejnë të folurën në tekst ose të klasifikojnë figura. Rezultati varet nga detyra, shembujt dhe cilësia e hyrjes. Zhurma, ndriçimi ose shkrimi i paqartë mund të ndikojnë.",
+    "extra": "Njohja e një fjale në figurë nuk provon se sistemi kupton të gjithë dokumentin.",
+    "steps": [
+      "Shkruaj një fjalë qartë në letër.",
+      "Shkruaje sërish më zbehtë.",
+      "Krahaso sa lehtë lexohen nga shoku.",
+      "Diskuto cilat ndryshime do ta vështirësonin një mjet leximi automatik.",
+      "Shëno se kjo është krahasim njerëzor, jo provë e një modeli AI."
+    ],
+    "product": "Identifikon cilësinë e hyrjes si faktor të rëndësishëm.",
+    "question": "Pse duhet kontrolluar teksti i nxjerrë automatikisht?",
+    "refs": [
+      "aistudents",
+      "long"
+    ]
+  },
+  {
+    "id": "10.6",
+    "title": "Asistentët virtualë dhe chatbot-ët",
+    "term": "Chatbot",
+    "definition": "Chatbot-i është një program që ndërvepron përmes mesazheve. Disa chatbot-e përdorin rregulla, ndërsa të tjerë modele AI.",
+    "body": "Përgjigjja mund të duket bindëse edhe kur është e gabuar. Në këtë libër aktivitetet nuk kërkojnë llogari personale të nxënësit në një shërbim AI. Demonstrimet bëhen nga mësimdhënësi sipas kushteve të shërbimit dhe rregullave të shkollës.",
+    "extra": "Mos i jep chatbot-it emrin e plotë, adresën, fjalëkalimet ose fotografi private.",
+    "steps": [
+      "Shkruaj një pyetje të përgjithshme për kompjuterin.",
+      "Hiq çdo informacion personal.",
+      "Parashiko çfarë duhet të përmbajë përgjigjja.",
+      "Analizo një shembull që jep mësimdhënësi.",
+      "Kontrollo një pohim me burim tjetër."
+    ],
+    "product": "Një pyetje e sigurt dhe një përgjigje e kontrolluar.",
+    "question": "Pse stili i sjellshëm nuk provon saktësi?",
+    "refs": [
+      "genai",
+      "unicef"
+    ]
+  },
+  {
+    "id": "10.7",
+    "title": "Inteligjenca Artificiale gjeneruese",
+    "term": "AI gjeneruese",
+    "definition": "AI-ja gjeneruese prodhon përmbajtje të re, si tekst, imazh ose zë, sipas kërkesës dhe modeleve që ka mësuar.",
+    "body": "Përmbajtja e krijuar nuk është automatikisht fakt, fotografi dokumentuese ose burim shkencor. Një imazh i krijuar mund të paraqesë pajisje që nuk ekzistojnë ose pjesë të pasakta. Prandaj ky libër përdor fotografi me origjinë të dokumentuar.",
+    "extra": "Një pamje realiste nuk është provë se ngjarja ose objekti ka ekzistuar.",
+    "steps": [
+      "Merr nga mësimdhënësi një shembull të etiketuar si përmbajtje e gjeneruar.",
+      "Gjej çfarë pohon ai.",
+      "Shëno cilat pjesë kërkojnë verifikim.",
+      "Krahaso me një burim të identifikueshëm.",
+      "Shkruaj dallimin mes ilustrimit dhe dëshmisë."
+    ],
+    "product": "Dallon krijimin e përmbajtjes nga dokumentimi i realitetit.",
+    "question": "Çfarë të dhënash kërkon për origjinën e një fotografie?",
+    "refs": [
+      "genai",
+      "unicef"
+    ]
+  },
+  {
+    "id": "10.8",
+    "title": "Inteligjenca Artificiale në arsim",
+    "term": "AI në të nxënë",
+    "definition": "Një mjet AI mund të mbështetë shpjegimin ose ushtrimin, por të nxënit kërkon punën dhe kontrollin e nxënësit.",
+    "body": "Një përdorim i dobishëm është kërkimi i një shembulli tjetër ose i një pyetjeje provuese. Kopjimi i përgjigjes pa e kuptuar nuk tregon se e ke mësuar temën. Mësimdhënësi përcakton kur dhe si lejohet mjeti.",
+    "extra": "Zbatohen kufizimet e moshës, kushtet e shërbimit dhe rregullat e shkollës. Aktiviteti mund të bëhet edhe vetëm në letër.",
+    "steps": [
+      "Zgjidh një koncept të këtij libri.",
+      "Shpjegoje vetë me dy fjali.",
+      "Shkruaj çfarë sqarimi shtesë do të kërkoje.",
+      "Krahaso me një sqarim të dhënë nga mësimdhënësi.",
+      "Përmirëso shpjegimin dhe trego çfarë ndryshove."
+    ],
+    "product": "Një shpjegim që e kupton dhe mund ta thuash me fjalët e tua.",
+    "question": "Si do ta provoje se e ke mësuar konceptin?",
+    "refs": [
+      "aistudents",
+      "genai"
+    ]
+  },
+  {
+    "id": "10.9",
+    "title": "AI-ja në mjekësi, transport dhe industri",
+    "term": "Zbatim dhe përgjegjësi",
+    "definition": "Përdorimi i AI-së duhet vlerësuar sipas detyrës, provave të funksionimit dhe pasojave të gabimit.",
+    "body": "Në fusha si mjekësia, transporti dhe prodhimi, një rezultat i pasaktë mund të ketë pasoja të mëdha. Njerëzit dhe institucionet duhet të përcaktojnë kontrollin dhe përgjegjësinë. Një përshkrim reklamues nuk mjafton si provë performance.",
+    "extra": "Aktiviteti nuk kërkon diagnoza, drejtim automjeti ose përdorim makinerish. Analizo vetëm dokumentacion të zgjedhur nga mësimdhënësi.",
+    "steps": [
+      "Zgjidh një rast të dokumentuar.",
+      "Shkruaj detyrën e sistemit.",
+      "Identifiko kush e kontrollon rezultatin.",
+      "Përshkruaj një gabim të mundshëm.",
+      "Shëno burimin dhe kufirin e asaj që mund të përfundosh."
+    ],
+    "product": "Një analizë e shkurtër e dobisë, rrezikut dhe përgjegjësisë.",
+    "question": "Pse një gabim ka pasoja të ndryshme në lojë dhe në mjekësi?",
+    "refs": [
+      "aistudents",
+      "unicef"
+    ]
+  },
+  {
+    "id": "10.10",
+    "title": "Si të shkruajmë një kërkesë të qartë për AI-në?",
+    "term": "Kërkesë e qartë",
+    "definition": "Kërkesa, ose prompt-i, përshkruan detyrën që i jepet një sistemi gjenerues.",
+    "body": "Një kërkesë e qartë mund të përfshijë qëllimin, nivelin e lexuesit, formatin dhe kufizimet. Për shembull: “Shpjego RAM-in për klasën VI në tri fjali dhe jep një shembull.” Qartësia ndihmon, por nuk garanton saktësi.",
+    "extra": "Kërkesa për të dhënë referenca nuk garanton se referencat e prodhuara ekzistojnë.",
+    "steps": [
+      "Shkruaj kërkesën Më trego për kompjuterin.",
+      "Përcakto një temë më të vogël.",
+      "Shto nivelin klasa VI.",
+      "Kërko një format të shkurtër dhe një shembull.",
+      "Shëno çfarë do të kontrollosh në përgjigje."
+    ],
+    "product": "Një kërkesë e përmirësuar dhe një plan verifikimi.",
+    "question": "Cila pjesë e kërkesës e bën detyrën më të qartë?",
+    "refs": [
+      "genai",
+      "aistudents"
+    ]
+  },
+  {
+    "id": "10.11",
+    "title": "Kontrollimi i përgjigjeve të gjeneruara nga AI-ja",
+    "term": "Verifikim",
+    "definition": "Verifikimi është kontrolli i një pohimi kundrejt provave dhe burimeve të përshtatshme.",
+    "body": "Ndaje përgjigjen në pohime që mund të kontrollohen. Hap burimin origjinal, lexo çfarë thotë dhe kontrollo datën kur ajo ka rëndësi. Një titull, lidhje ose citim i shkruar bukur mund të jetë i pasaktë.",
+    "extra": "Mos shkruaj “u verifikua” nëse vetëm e lexove përgjigjen ose pyete sërish të njëjtin mjet.",
+    "steps": [
+      "Zgjidh një pohim të shkurtër.",
+      "Gjej një burim zyrtar ose shkencor.",
+      "Hape dhe gjej pjesën përkatëse.",
+      "Shëno nëse e mbështet pohimin.",
+      "Ruaj titullin, lidhjen dhe datën e kontrollit."
+    ],
+    "product": "Një shënim me pohimin, provën dhe përfundimin.",
+    "question": "Çfarë do të bësh nëse burimi nuk hapet?",
+    "refs": [
+      "genai",
+      "journalism"
+    ]
+  },
+  {
+    "id": "10.12",
+    "title": "Gabimet, paragjykimet dhe kufizimet e AI-së",
+    "term": "Gabim dhe paragjykim",
+    "definition": "Gabimi është rezultat i pasaktë; paragjykimi mund të shfaqet si trajtim sistematik i pabarabartë ose shtrembërim në rezultate.",
+    "body": "Një model mund të performojë ndryshe për gjuhë, forma ose situata të përfaqësuara pak në të dhëna. Kjo kërkon prova të kujdesshme. Një shembull i vetëm nuk mjafton për të vlerësuar të gjithë sistemin.",
+    "extra": "Mos përdor tipare personale të shokëve për t'i renditur ose vlerësuar me AI.",
+    "steps": [
+      "Mendo një koleksion që ka vetëm shkronja të shtypit.",
+      "Shpjego pse shkrimi me dorë mund të jetë më i vështirë.",
+      "Propozo shembuj të ndryshëm për provë.",
+      "Shëno çfarë do të matje.",
+      "Diskuto si raportohet një kufizim me ndershmëri."
+    ],
+    "product": "Një plan prove me larmi shembujsh dhe kufizime.",
+    "question": "Pse mesatarja e mirë mund të fshehë rezultate të dobëta në një grup rastesh?",
+    "refs": [
+      "unicef",
+      "aistudents"
+    ]
+  },
+  {
+    "id": "10.13",
+    "title": "Të dhënat personale dhe privatësia",
+    "term": "E dhënë personale",
+    "definition": "E dhëna personale lidhet me një person të identifikuar ose të identifikueshëm.",
+    "body": "Emri, fotografia dhe informacionet për vendndodhjen mund të lidhen me një person. Edhe disa të dhëna së bashku mund ta zbulojnë identitetin. Ndaj vetëm informacionin e nevojshëm dhe sipas udhëzimit të shkollës.",
+    "extra": "Mos shkruaj të dhëna reale personale në ushtrim. Përdor etiketa si Nxënësi A.",
+    "steps": [
+      "Shkruaj shembuj fushash: emër, qytet, ngjyrë e preferuar, adresë.",
+      "Diskuto cilat mund të identifikojnë dikë.",
+      "Hiq fushat që nuk duhen për një anketë për ngjyrat.",
+      "Përdor të dhëna të sajuara dhe etiketoji si ushtrim.",
+      "Shpjego zgjedhjen."
+    ],
+    "product": "Një anketë mësimore që mbledh vetëm çfarë i duhet detyrës.",
+    "question": "Si mund të bëhen identifikuese disa të dhëna kur bashkohen?",
+    "refs": [
+      "dce",
+      "unicef"
+    ]
+  },
+  {
+    "id": "10.14",
+    "title": "Fjalëkalimet e sigurta dhe verifikimi me dy hapa",
+    "term": "Mbrojtje e llogarisë",
+    "definition": "Fjalëkalimi dhe verifikimi me dy hapa ndihmojnë të kontrollohet hyrja në një llogari.",
+    "body": "Përdor fjalëkalim të gjatë e unik dhe ndiq udhëzimin e mësimdhënësit ose kujdestarit për menaxhimin e tij. Verifikimi shtesë kërkon një provë tjetër. Kodet e hyrjes nuk u dërgohen personave që i kërkojnë me mesazh.",
+    "extra": "Mos shkruaj në libër, në tabelë ose në projekt fjalëkalimin tënd real. Shembujt e publikuar nuk përdoren si fjalëkalime.",
+    "steps": [
+      "Përshkruaj me fjalë çfarë e bën një fjalëkalim unik.",
+      "Shpjego pse nuk duhet ripërdorur.",
+      "Gjej me të rriturin cilësimet e sigurisë së një llogarie mësimore.",
+      "Lexo opsionin e verifikimit shtesë.",
+      "Shëno vetëm parimet, pa sekrete."
+    ],
+    "product": "Një listë parimesh sigurie pa të dhëna hyrjeje.",
+    "question": "Pse një kod verifikimi duhet trajtuar si sekret?",
+    "refs": [
+      "dce",
+      "digitalskills"
+    ]
+  },
+  {
+    "id": "10.15",
+    "title": "Viruset dhe programet keqdashëse",
+    "term": "Program keqdashës",
+    "definition": "Programi keqdashës është softuer i krijuar për të dëmtuar, penguar ose përdorur pa autorizim sisteme e të dhëna.",
+    "body": "Viruset janë një lloj programi keqdashës, jo emër për çdo rrezik digjital. Përditësimet, burimet zyrtare dhe kujdesi me skedarët ndihmojnë mbrojtjen. Nëse shfaqet diçka e dyshimtë, ndalo veprimin dhe njofto të rriturin përgjegjës.",
+    "extra": "Mos shkarko ose ekzekuto skedarë të rrezikshëm për ta provuar këtë mësim.",
+    "steps": [
+      "Shiko një shembull të përshkruar nga mësimdhënësi.",
+      "Identifiko burimin e shkarkimit.",
+      "Shëno dy shenja dyshimi.",
+      "Shkruaj kë do të njoftosh.",
+      "Përshkruaj si do të gjesh faqen zyrtare të programit."
+    ],
+    "product": "Një vendim i arsyetuar pa hapur material të dyshimtë.",
+    "question": "Pse një ikonë e njohur nuk provon sigurinë e skedarit?",
+    "refs": [
+      "dce",
+      "openstaxcs"
+    ]
+  },
+  {
+    "id": "10.16",
+    "title": "Mashtrimet dhe mesazhet e dyshimta",
+    "term": "Mashtrim me mesazh",
+    "definition": "Mashtrimi mund të përdorë mesazhe që nxisin dhënien e sekreteve, pagesa ose hapjen e lidhjeve të rrezikshme.",
+    "body": "Mesazhi mund të krijojë urgjencë ose të pretendojë se vjen nga një person i njohur. Kontrollo kërkesën në një kanal të besuar. Gabimet gjuhësore janë vetëm një shenjë e mundshme; edhe një tekst pa gabime mund të jetë mashtrim.",
+    "extra": "Mos e provo lidhjen e dyshimtë për të parë nëse është e sigurt.",
+    "steps": [
+      "Lexo shembullin mësimor: Dërgo kodin e hyrjes tani që të mos humbësh llogarinë.",
+      "Nënvizo kërkesën për sekret.",
+      "Identifiko urgjencën.",
+      "Shkruaj një veprim të sigurt.",
+      "Njofto mësimdhënësin nëse merr mesazh të ngjashëm real."
+    ],
+    "product": "Dallon dy shenja dhe zgjedh të mos ndajë kodin.",
+    "question": "Si mund ta kontrollosh dërguesin pa iu përgjigjur mesazhit?",
+    "refs": [
+      "dce",
+      "digitalskills"
+    ]
+  },
+  {
+    "id": "10.17",
+    "title": "Ngacmimi kibernetik dhe raportimi i tij",
+    "term": "Ngacmim kibernetik",
+    "definition": "Ngacmimi kibernetik përfshin sjellje dëmtuese përmes mjeteve digjitale, si fyerje, kërcënime ose shpërndarje poshtëruese.",
+    "body": "Kërko ndihmë nga një i rritur i besuar. Mos e shpërndaj përmbajtjen te shokët. Ruajtja e provave mund të ndihmojë raportimin, por bëhet me kujdes për privatësinë dhe sipas udhëzimit të të rriturit.",
+    "extra": "Nëse ndihesh në rrezik, kërko menjëherë ndihmë nga një i rritur pranë teje. Nuk ke pse ta përballosh vetëm.",
+    "steps": [
+      "Analizo një situatë të sajuar pa emra realë.",
+      "Shkruaj si mund të ndihet personi.",
+      "Cakto dy të rritur te të cilët mund të kërkosh ndihmë.",
+      "Gjej ku raportohet sjellja në platformën mësimore.",
+      "Shkruaj një fjali mbështetëse për personin e prekur."
+    ],
+    "product": "Një plan kërkimi ndihme dhe raportimi pa rishpërndarje dëmi.",
+    "question": "Si mund të ndihmosh si dëshmitar?",
+    "refs": [
+      "dce",
+      "unicef"
+    ]
+  },
+  {
+    "id": "10.18",
+    "title": "Gjurmët dhe reputacioni digjital",
+    "term": "Gjurmë digjitale",
+    "definition": "Gjurmët digjitale janë të dhënat dhe shenjat që lidhen me veprimtarinë tonë në mjedise digjitale.",
+    "body": "Postimet, komentet dhe disa të dhëna përdorimi mund të ruhen ose kopjohen. Fshirja e një postimi nuk garanton zhdukjen e çdo kopjeje. Para publikimit mendo për audiencën dhe pasojat.",
+    "extra": "Një llogari private zvogëlon dukshmërinë, por nuk garanton që askush nuk mund ta kopjojë përmbajtjen.",
+    "steps": [
+      "Shkruaj një postim të sajuar për një arritje shkollore.",
+      "Hiq të dhënat identifikuese.",
+      "Kontrollo nëse përmend persona pa leje.",
+      "Përcakto audiencën.",
+      "Vendos nëse publikimi është i nevojshëm."
+    ],
+    "product": "Një vendim i arsyetuar për çfarë ndahet dhe me kë.",
+    "question": "Si do të ndiheshe nëse postimi do të lexohej jashtë grupit?",
+    "refs": [
+      "dce",
+      "unicef"
+    ]
+  },
+  {
+    "id": "10.19",
+    "title": "E drejta e autorit, licencat dhe plagjiatura",
+    "term": "Autorësi dhe licencë",
+    "definition": "Autorësia tregon kush e krijoi veprën; licenca përcakton kushtet e lejuara të përdorimit.",
+    "body": "Një fotografi e gjetur në internet nuk bëhet automatikisht e lirë për përdorim. Lexo licencën dhe shëno krijuesin, titullin, burimin dhe ndryshimet. Citimi i burimit nuk zëvendëson lejen kur ajo kërkohet.",
+    "extra": "Plagjiatura paraqet punën e tjetrit si tënden. Edhe një përmbajtje që lejohet të përdoret duhet të atribuohet sipas kushteve.",
+    "steps": [
+      "Zgjidh një nga fotografitë e librit.",
+      "Gjej të dhënat e autorit dhe licencës te shtojca.",
+      "Hap faqen e burimit.",
+      "Lexo kushtet e licencës.",
+      "Shkruaj një atribim të plotë për përdorimin tënd."
+    ],
+    "product": "Një atribim i kontrolluar me faqen origjinale.",
+    "question": "Pse vetëm shënimi Burimi: internet nuk mjafton?",
+    "refs": [
+      "dce",
+      "journalism"
+    ]
+  },
+  {
+    "id": "10.20",
+    "title": "Etika dhe përdorimi i përgjegjshëm i AI-së",
+    "term": "Përdorim etik",
+    "definition": "Përdorimi etik kërkon mendim për ndershmërinë, drejtësinë, privatësinë dhe pasojat për të tjerët.",
+    "body": "Në një detyrë duhet të tregosh kontributin tënd dhe ndihmën që more sipas rregullave të shkollës. Mos krijo përmbajtje që imiton ose poshtëron një person. Kontrollo faktet para se t'i ndash.",
+    "extra": "Lejimi teknik i një veprimi nuk e bën atë automatikisht të drejtë ose të përshtatshëm.",
+    "steps": [
+      "Shkruaj një situatë ku mund të përdoret AI për ndihmë.",
+      "Përcakto çfarë pune bën vetë.",
+      "Shëno çfarë kontrollon.",
+      "Diskuto kujt mund t'i shkaktohet dëm.",
+      "Përgatit një shënim të sinqertë për ndihmën e përdorur."
+    ],
+    "product": "Një vendim i shpjeguar dhe një deklarim i kontributit.",
+    "question": "Si ndryshon ndihma nga paraqitja e punës së tjetrit si e jotja?",
+    "refs": [
+      "aistudents",
+      "unicef"
+    ]
+  },
+  {
+    "id": "10.21",
+    "title": "Ndikimi i teknologjisë në mjedis",
+    "term": "Ndikim mjedisor",
+    "definition": "Pajisjet dhe shërbimet digjitale përdorin materiale, energji dhe infrastrukturë gjatë jetës së tyre.",
+    "body": "Prodhimi, përdorimi dhe fundi i jetës së pajisjes kanë ndikime të ndryshme. Kujdesi, përdorimi i arsyeshëm dhe riparimi profesional mund të ndihmojnë. Mos shpik shifra kursimi pa matje ose burim.",
+    "extra": "Një veprim i dobishëm nuk jep gjithmonë të njëjtin kursim në çdo pajisje ose vend.",
+    "steps": [
+      "Zgjidh një pajisje të klasës.",
+      "Shëno si përdoret dhe mirëmbahet.",
+      "Propozo një veprim të arsyeshëm për kursim.",
+      "Përcakto çfarë do të duhej matur për të vlerësuar ndikimin.",
+      "Dallo propozimin nga rezultati i provuar."
+    ],
+    "product": "Një propozim mjedisor pa shifra të pambështetura.",
+    "question": "Pse fikja e ekranit dhe zëvendësimi i pajisjes kanë ndikime të ndryshme?",
+    "refs": [
+      "ewaste",
+      "greenc"
+    ]
+  },
+  {
+    "id": "10.22",
+    "title": "Mbetjet elektronike dhe riciklimi",
+    "term": "Mbetje elektronike",
+    "definition": "Mbetjet elektronike janë pajisje elektrike ose elektronike të hedhura dhe pjesët e tyre.",
+    "body": "Ato mund të përmbajnë materiale të vlefshme dhe përbërës që kërkojnë trajtim të posaçëm. Ndiq udhëzimin e komunës ose pikës së autorizuar. Mos çmonto bateri dhe mos i vendos në zjarr.",
+    "extra": "Nxënësi nuk merr përsipër çmontim ose trajtim të mbetjeve. Aktiviteti është kërkim informacioni.",
+    "steps": [
+      "Identifiko një pajisje që nuk përdoret më, pa e hapur.",
+      "Pyet të rriturin nëse mund të riparohet ose ripërdoret.",
+      "Kërko burimin zyrtar për dorëzim.",
+      "Shëno çfarë informacioni gjete dhe çfarë mungon.",
+      "Përgatit një njoftim me burimin e verifikuar."
+    ],
+    "product": "Një udhëzim lokal vetëm nëse burimi është gjetur dhe kontrolluar.",
+    "question": "Pse riciklimi nuk fillon me hedhjen në mbeturina të zakonshme?",
+    "refs": [
+      "ewaste",
+      "greenc"
+    ]
+  },
+  {
+    "id": "10.23",
+    "title": "Teknologjitë e së ardhmes dhe kompjuterët kuantikë",
+    "term": "Kubit",
+    "definition": "Kubit-i është njësia bazë e informacionit kuantik. Kur matet në një bazë të caktuar, rezultati është 0 ose 1.",
+    "body": "Sistemet kuantike përdorin dukuri fizike që ndryshojnë nga bitët e kompjuterit të zakonshëm. Ato studiohen për disa lloje problemesh dhe nuk janë zëvendësim më i shpejtë për çdo detyrë. Kjo njësi jep vetëm njohje fillestare.",
+    "extra": "Shprehja “i provon të gjitha përgjigjet menjëherë” është shpjegim tepër i thjeshtuar dhe mund të krijojë ide të gabuar.",
+    "steps": [
+      "Shkruaj çfarë vlerash ka një bit.",
+      "Shëno çfarë rezultati jep matja e një kubiti.",
+      "Gjej me mësimdhënësin një shpjegim institucional.",
+      "Dallo një aftësi të dokumentuar nga një parashikim.",
+      "Shëno një pyetje për studim të mëtejshëm."
+    ],
+    "product": "Një përshkrim i kujdesshëm pa pretendim për shpejtësi universale.",
+    "question": "Pse teknologjia e re nuk është domosdoshmërisht më e përshtatshme për çdo punë?",
+    "refs": [
+      "openstaxcs",
+      "quantumintro"
+    ]
+  },
+  {
+    "id": "10.24",
+    "title": "Profesionet digjitale të së ardhmes",
+    "term": "Profesion digjital",
+    "definition": "Profesionet digjitale përdorin aftësi teknike, komunikim dhe përgjegjësi për të zgjidhur nevoja reale.",
+    "body": "Programuesi, tekniku, projektuesi dhe analisti punojnë me detyra të ndryshme dhe shpesh bashkëpunojnë. Emrat dhe mjetet e punës ndryshojnë me kohën. Në klasën VI zhvillon bazat, jo kualifikim profesional.",
+    "extra": "Një projekt shkollor tregon përvojë mësimore; nuk është certifikim për punë profesionale.",
+    "steps": [
+      "Zgjidh një profesion.",
+      "Gjej një përshkrim nga institucion arsimor ose punëdhënës i identifikueshëm.",
+      "Shëno dy detyra dhe dy aftësi.",
+      "Lidhi me një aktivitet të librit.",
+      "Shkruaj çfarë do të doje të mësosh më tej."
+    ],
+    "product": "Një kartelë profesioni me burim dhe lidhje me të nxënit.",
+    "question": "Pse komunikimi është i rëndësishëm edhe në punë teknike?",
+    "refs": [
+      "p21",
+      "digcomp3",
+      "entrec"
+    ]
+  },
+  {
+    "id": "10.25",
+    "title": "Projekti përfundimtar: Shkolla inteligjente dhe e qëndrueshme",
+    "term": "Projekt përfundimtar",
+    "definition": "Projekti përfundimtar bashkon njohuritë për të propozuar, ndërtuar dhe kontrolluar një zgjidhje të vogël.",
+    "body": "Tema është “Shkolla inteligjente dhe e qëndrueshme”. Zgjidh një nevojë konkrete, si organizimi i materialeve ose modeli i ndriçimit. Përdor të dhëna të lejuara dhe etiketo çdo shembull të sajuar. AI nuk është e detyrueshme.",
+    "extra": "Një model në simulator nuk është sistem i instaluar në shkollë. Raporto saktë çfarë ndërtove dhe çfarë provove.",
+    "steps": [
+      "Përcakto nevojën dhe tri kërkesa.",
+      "Ndaj rolet dhe shëno kontributin individual.",
+      "Krijo një dokument, një tabelë dhe një program ose model.",
+      "Kryej tri prova me pritje dhe rezultat.",
+      "Përgatit pesë slajde me burime dhe kufizime.",
+      "Dorëzo dosjen K10/projekti dhe demonstroje."
+    ],
+    "product": "Një portofol i hapshëm me produkte, prova, burime dhe vetëvlerësim.",
+    "question": "Cilin përmirësim do të bëje pas komenteve të klasës?",
+    "refs": [
+      "kosovo6",
+      "p21",
+      "aistudents",
+      "greenc"
+    ]
+  }
+]

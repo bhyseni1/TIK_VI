@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: TIK_VI
+    runtime: static
+    buildCommand: python3 build.py
+    staticPublishPath: ./dist
+    autoDeploy: true
