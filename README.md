@@ -1,6 +1,6 @@
 # TIK VI — klasa VI
 
-10 kapituj · 167 njësi mësimore · Autor i projektit: Besart Hyseni.
+Libër me 140 faqe A4 · 10 kapituj · 167 njësi mësimore · Autor i projektit: Besart Hyseni.
 
 ## Shkarko dhe fillo
 
@@ -23,6 +23,8 @@ Nëse përdor **Code > Download ZIP**, nxirr fillimisht arkivin e depos dhe past
 8. Programimi vizual dhe hyrje në kodim
 9. Micro:bit, robotika dhe sistemet inteligjente
 10. Inteligjenca Artificiale, siguria dhe e ardhmja digjitale
+
+Në secilën dosje **K01–K10**, **Ushtro_dhe_thello.md** përmban një aktivitet me dy nivele dhe hapa pune. Tematikat dhe numërimi i 167 njësive ruhen.
 
 **activities.json** përmban tekstin e strukturuar të të 167 njësive. Arkivi ruan dosjet, kodin burimor, testet dhe materialet në një paketë të shkarkueshme.
 
